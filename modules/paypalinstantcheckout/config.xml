@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>paypalinstantcheckout</name>
+	<displayName><![CDATA[Paypal Instant Checkout]]></displayName>
+	<version><![CDATA[1.9.2]]></version>
+	<description><![CDATA[Allow your customers to 1-click-checkout with Paypal from anywhere in your site]]></description>
+	<author><![CDATA[PrestaMonster]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,3 @@
+*ERROR* 	2017/05/09 - 13:25:15: Property SellerInfo->phone length (17) must be between 0 and 16 at line 909 in file classes/ObjectModel.php
+*ERROR* 	2017/05/09 - 13:31:01: Property SellerInfo->id_seller is empty at line 909 in file classes/ObjectModel.php
+*ERROR* 	2017/05/09 - 13:31:41: Property SellerInfo->id_seller is empty at line 909 in file classes/ObjectModel.php

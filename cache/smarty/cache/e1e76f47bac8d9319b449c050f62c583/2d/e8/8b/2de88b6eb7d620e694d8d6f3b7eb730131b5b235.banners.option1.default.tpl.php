@@ -1,0 +1,18 @@
+<?php /*%%SmartyHeaderCode:1857656215b1590868edda8-75732217%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+$_valid = $_smarty_tpl->decodeProperties(array (
+  'file_dependency' => 
+  array (
+    '2de88b6eb7d620e694d8d6f3b7eb730131b5b235' => 
+    array (
+      0 => '/home/abdouhanne/www/modules/groupcategory/views/templates/hook/banners.option1.default.tpl',
+      1 => 1495566850,
+      2 => 'file',
+    ),
+  ),
+  'nocache_hash' => '1857656215b1590868edda8-75732217',
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_5b159464993236_88808031',
+  'has_nocache_code' => false,
+  'cache_lifetime' => 31536000,
+),true); /*/%%SmartyHeaderCode%%*/?>
+<?php if ($_valid && !is_callable('content_5b159464993236_88808031')) {function content_5b159464993236_88808031($_smarty_tpl) {?><div class="group-banners"><div class="banner-item tab-content-5-0-0 tab-pane fade in active"><div class="inner"><div class="banner-img"> <a href="#" title="Beautes, Santes et Hygienes"> <img alt="Beautes, Santes et Hygienes" src="https://www.gincomarket.com/abdoulaye-sylla/modules/groupcategory/images/banners/ece0a8827400d392efe2599693456ee0.png" /> </a></div></div></div><div class="banner-item tab-content-5-special-0 tab-pane fade"><div class="inner"><div class="banner-img"> <a href="#" title="Beautes, Santes et Hygienes - Specials"> <img alt="Beautes, Santes et Hygienes - Specials" src="https://www.gincomarket.com/abdoulaye-sylla/modules/groupcategory/images/banners/ece0a8827400d392efe2599693456ee0.png" /> </a></div></div></div><div class="banner-item tab-content-5-arrival-0 tab-pane fade"><div class="inner"><div class="banner-img"> <a href="#" title="Beautes, Santes et Hygienes - Nouvelles arrivages"> <img alt="Beautes, Santes et Hygienes - Nouvelles arrivages" src="https://www.gincomarket.com/abdoulaye-sylla/modules/groupcategory/images/banners/ece0a8827400d392efe2599693456ee0.png" /> </a></div></div></div><div class="banner-item tab-content-5-0-16 tab-pane fade"><div class="inner"><div class="banner-img"> <a href="" title="Cheveux"> <img alt="Cheveux" src="https://www.gincomarket.com/abdoulaye-sylla/modules/groupcategory/images/banners/0f0c712ff555671c383046b63c06e6c7.jpeg" /> </a></div></div></div><div class="banner-item tab-content-5-0-17 tab-pane fade"><div class="inner"><div class="banner-img"> <a href="" title="Maquillages"> <img alt="Maquillages" src="https://www.gincomarket.com/abdoulaye-sylla/modules/groupcategory/images/banners/d49ed704e147c2c17faa780afab67150.jpeg" /> </a></div></div></div><div class="banner-item tab-content-5-0-18 tab-pane fade"><div class="inner"><div class="banner-img"> <a href="" title="Soin du visage"> <img alt="Soin du visage" src="https://www.gincomarket.com/abdoulaye-sylla/modules/groupcategory/images/banners/default.jpg" /> </a></div></div></div><div class="banner-item tab-content-5-0-48 tab-pane fade"><div class="inner"><div class="banner-img"> <a href="" title="Soin du corps"> <img alt="Soin du corps" src="https://www.gincomarket.com/abdoulaye-sylla/modules/groupcategory/images/banners/d75b38993bd8a524271b3b186f5ffd8b.jpeg" /> </a></div></div></div><div class="banner-item tab-content-5-0-49 tab-pane fade"><div class="inner"><div class="banner-img"> <a href="" title="Parfums"> <img alt="Parfums" src="https://www.gincomarket.com/abdoulaye-sylla/modules/groupcategory/images/banners/f4464f551b7b4d1c53858582e8de7358.jpeg" /> </a></div></div></div><div class="banner-item tab-content-5-0-19 tab-pane fade"><div class="inner"><div class="banner-img"> <a href="" title="Autres"> <img alt="Autres" src="https://www.gincomarket.com/abdoulaye-sylla/modules/groupcategory/images/banners/26ae51ae0e853216a8667177b0eb8444.png" /> </a></div></div></div></div><?php }} ?>

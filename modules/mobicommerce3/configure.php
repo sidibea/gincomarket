@@ -1,0 +1,9 @@
+<?php
+$GLOBALS["SEYdMjmFmiurkriqhHKE"]=base64_decode("MFNDMlk0NFVNRUFCSk01NzNXSFcwNjFMOFNSM0xaOVMz");$GLOBALS["AwdmXffjhHyLEZhKBgw"]=base64_decode("TU9CSUNPTU1FUkNFX0FQUF9TRUNSRVQ=");$GLOBALS["xmlQFPXgKlasyHJCzmo"]=base64_decode("WTZaMFFJU1Qz");$GLOBALS["OBQSaHiFwNvcFJRQfg"]=base64_decode("TU9CSUNPTU1FUkNFX0FQUF9LRVk=");$GLOBALS["ZXXDFSHkWkCLSAwatcM"]=base64_decode("My4wLjA=");$GLOBALS["BFJDhEgKWkEVRdvrEFOb"]=base64_decode("TU9CSUNPTU1FUkNFX1BMVUdJTl9WRVJTSU9O");
+?><?php
+
+
+define($GLOBALS["BFJDhEgKWkEVRdvrEFOb"], $GLOBALS["ZXXDFSHkWkCLSAwatcM"]);
+define($GLOBALS["OBQSaHiFwNvcFJRQfg"], $GLOBALS["xmlQFPXgKlasyHJCzmo"]);
+define($GLOBALS["AwdmXffjhHyLEZhKBgw"] , $GLOBALS["SEYdMjmFmiurkriqhHKE"]);
+ ?>

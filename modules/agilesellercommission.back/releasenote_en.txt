@@ -1,0 +1,145 @@
+
+Version 2.7.0.3 - 2017.01.02
+Support PrestaShop 1.7x
+
+Version 2.7.0.1 - 2016.11.28
+Support PrestaShop 1.7x
+
+
+Version 2.5.2.0 - 2016.08.21
+Fix - Back office - Module configuration - Configuraton option for Whose Cost of discount voucher was incorrect value. So it causes seller sale amount incorrect at commission calculation when discount voucher is used and configuration "Seller Cost"
+
+Feature - Allow admin to specify the order statuses to trigger Seller Commission creation/generation (configure at seller commission module).
+Feature - Allow admin to specify the order statuses to trigger Seller Commission cancellation (configure at seller commission module) .
+Feature - It is configurable for store admin to choose use Paypal for payments between seller and store or not.
+  			  If choose not  - Seller will not need to enter Paypal account unless use the seller use Paypal module to accept payment from customers
+			  This configuration is added to Agile Seller Commission module.
+Feature - Commission mode: You can choose one of following commission mode
+              Rate By Category
+			  Rate By Seller
+Feature - Export seller commission as CSV file.
+Feature - Dependent configuration options appears/hidden automatically based on main configuration items.
+
+
+Version 2.5.0.1 - 2015.12.01
+Support new agile module structure
+
+Version 1.3.1.3 - 2015.08.22
+- Fix potential issue that happen on a lower version of PHP environment, when there is white spaces after "php?"
+
+
+Version 1.3.1.2 - 2015.04.18
+- Make it configurable for seller commission to exclude tax or not 
+- Fix - Commission currency display issue
+- fixed an bug - layout issue of Total (summary) row in back office Account History page.
+- fixed an bug - seller commission record "seller_sales" column calculation was incorrect if there is any tax involved in the order.
+
+
+Version  1.3.0 - 2014.04.04
+- Support PrestaShop 1.6x
+- Support responsive theme
+- during installation, the module will create default Transactions fee (0) and Commission fee (10%) record at store level.
+- improvement - admin is able to filter out account history record  by record type
+- changed record_type (BUYER PAY STORE) from 0 to 3 to fix issue with record type filtering at back office list page. 
+- fixed an issue that non-super-admin is not able to see new tab added by this module (Commission Fees/Transaction Fees/Account History/Account Balance)
+- fixed issue - seller is able to delete a commission rate setting records at back office
+
+Version  1.2.9 - 2013.04.12
+- Change all admin tab to PrestaShop 1.5x standard
+
+Version  1.2.7 - 2013.04.12
+- Fixed: when admin try to pay seller, it redirected to log in page at front office.
+
+
+Version  1.2.6 - 2013.04.06
+- Adjusted to compatible with PrestaShop 1.5.4
+- Seller is able to pay account balance from front store - My Seller Account - Summary page 
+
+
+Version  1.2.5 - 2013.03.21
+- Fixed an displaying issue at Account History page of My Seller Account. The account history records are mismatched with other sellers data.
+- Changed name "Insertion Fee" to "Commission Fee" to make it more appropriate.
+
+
+Version  1.2.3 - 2012.12.01
+- Integrated with new released Agile Multiple Shop module which allow each seller to have a virtual shop, virtual directory and separated themes.
+
+
+Version  1.2.2 - 2012.12.01
+- compatible with Agile Seller Multiple Shop
+
+
+Version  1.2.1 - 2012.10.26
+- Fixed commission calculation when exclude shipping at commission. The shipping should be included in the "total" (was not included) even excluded from commission calculation. 
+
+Version  1.2.0 - 2012.10.20
+- Module adjusted to be compatible with PrestaShop 1.5x
+
+
+Version  1.1.0 - 2012.09.23
+- account history record will not be added for store (if id_seller ==0)
+- support split cart and discount voucher split
+- Changed to use Order data instead of shopping cart for commission generation, so even if product price is changed, it will not be affected.
+- Fixes a bug that at seller commission amount calculation when used for Agile paypal adaptive module. (2012.0617-2012.09.14) 
+
+Version  1.0.13 - 2012.06.22
+- Deduction % from total sale for commission calculation
+  specify deduction rate percentage at Commission Fee tab
+  display deduction amount and order origin at Account History 
+- Integrated to prestabay module so that 
+  you can specify deduction for orders imported from ebay (via prestabay)
+- hide store owner transactions from Account History/Account Balance because it is not necessary and most cases store owner does not have products to sell, so there will be records.
+
+
+Version  1.0.8 - 2012.04.27
+- The module support voucher functions for sellers. Vouchers can only be issued by store, but shared by sellers by the percentage of products amount in an order. 
+   The voucher cost could be in following two mode
+   * At sellers cost: the voucher discount amount will be deducted from sellers sales amount. 
+   * At store's cost: the voucher discount amount will not be deducted from sellers amount. 
+- Shipping fee handling in commission calculation now is configurable in two different ways. 
+   * Include shipping - Shipping fee will be included in Commission calculation
+   * Exclude shipping - Shipping fee will be excluded in Commission calculation
+
+Version  1.0.5 - 2012.02.25
+- Integrated into Agile Paypal Adaptive Payment, make it possible to handle seller commission payments automatically without manually perform payment.
+Version  1.0.7 - 2012.02.25
+- Integrated into seller shipping module
+
+
+Version  1.0 - 2011.11.25
+1. Commission rate setting
+   Transaction fee setting - Fees based on per transaction/order
+   Commission fee charge - Fees based on percentage of total sales amount
+   Combination of Transaction fee + Commission fee 
+
+2. Different level of commission rate setting
+   Store level commission rate setting (default rate for all sellers)
+   Seller level commission rate setting (set different rate for different seller)
+
+3. Commission calculation function
+   Automatically calculate commisions based on commission rate setting for each order
+   Automatically calculate seller account balance
+   Account summary(sales amount, commission amount) on specificed period 
+
+4. Account history function
+   Detailed account history with following informaiton
+   Commission occureence - when order is confirmed
+   Commission cancellation - when order is cancelled
+   Payment seller paid to store owner - happens at "Seller collects Payments" mode
+   payment sotre owner paid to seller - happens at "Store collects payments" mode
+
+5. Payment function - Paypal
+   It depsned on Agile Multiple Seller payment collection mode:
+   Seller can pay outstanding commissions to store by easily click "Pay" button - "Seller collects Payments"
+   Store owner can pay seller sales with commission deducted - "Store collects payments"
+
+6. Account balance 
+   The module will automatically keep track of the seller account, you can see account balance at any time
+
+7. Secured access permission control
+   All sellers can only see his/her own information as following. All those informaiton is read only.
+   - Transaction fee rate
+   - Commission fee rate
+   - Account history
+   - Account balance
+   - pay seller via Paypal

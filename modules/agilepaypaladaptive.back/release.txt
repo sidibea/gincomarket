@@ -1,0 +1,29 @@
+Ver 1.0 - 2010.02.26
+- Implemented parallel/chained payment and compatible with PrestaShop 1.4x
+- Integrated with Agile Multiple Seller/vendor module.
+
+Ver 1.1.0 - 2010.10.20
+- Module adjusted to be compatible with PrestaShop 1.5x
+
+Ver 1.1.1 - 2010.10.24
+- Fixed an issue at Parallel payment mode when store onwer has products to sell.
+- Fixed an issue at seller commission is set to 0.
+
+Ver 1.1.2 - 2012.12.01
+- Integrated with new released Agile Multiple Shop module which allow each seller to have a virtual shop, virtual directory and seperated themes.
+- Changed to Parallel Payment as default
+- Fix a Warning about the number of parameters at OrderValidate() for PrestaShop 1.5x(not an issue)
+
+Ver 1.1.3 - 2013.03.24
+- Fixed redirect URL issue at multiple laguage environment.
+- Fixed a bug at create new tab "Adaptive Payenmt Log" at back office.
+ 
+
+Ver 1.1.4 - 2013.04.07
+- Compatible with PrestaShop 1.5.4 - changed to use PrestaShop 1.5x standard for module front pages
+- fixed missing transaction ID in payment info
+
+
+Next 
+- fixed CURLOPT_SSL_VERIFYHOST warning message
+  Notice: curl_setopt(): CURLOPT_SSL_VERIFYHOST with value 1 is deprecated and will be removed as of libcurl 7.28.1. It is recommended to use value 2 instead in .../modules/agilepaypalparallel/Lib/CallerService.php 

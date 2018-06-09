@@ -1,0 +1,25 @@
+a:65:{s:10:"id_product";s:3:"140";s:11:"id_supplier";s:1:"0";s:15:"id_manufacturer";s:1:"0";s:19:"id_category_default";s:2:"74";s:15:"id_shop_default";s:1:"1";s:18:"id_tax_rules_group";s:1:"1";s:7:"on_sale";s:1:"0";s:11:"online_only";s:1:"0";s:5:"ean13";s:0:"";s:3:"upc";s:0:"";s:6:"ecotax";s:8:"0.000000";s:8:"quantity";s:2:"12";s:16:"minimal_quantity";s:1:"1";s:5:"price";s:12:"90000.000000";s:15:"wholesale_price";s:8:"0.000000";s:5:"unity";s:0:"";s:16:"unit_price_ratio";s:8:"0.000000";s:24:"additional_shipping_cost";s:4:"0.00";s:9:"reference";s:4:"yara";s:18:"supplier_reference";s:0:"";s:8:"location";s:0:"";s:5:"width";s:8:"0.000000";s:6:"height";s:8:"0.000000";s:5:"depth";s:8:"0.000000";s:6:"weight";s:8:"0.000000";s:12:"out_of_stock";s:1:"2";s:17:"quantity_discount";s:1:"0";s:12:"customizable";s:1:"0";s:16:"uploadable_files";s:1:"0";s:11:"text_fields";s:1:"0";s:6:"active";s:1:"1";s:13:"redirect_type";s:0:"";s:21:"id_product_redirected";s:1:"0";s:19:"available_for_order";s:1:"1";s:14:"available_date";s:10:"0000-00-00";s:9:"condition";s:3:"new";s:10:"show_price";s:1:"1";s:7:"indexed";s:1:"1";s:10:"visibility";s:4:"both";s:13:"cache_is_pack";s:1:"0";s:21:"cache_has_attachments";s:1:"0";s:10:"is_virtual";s:1:"0";s:23:"cache_default_attribute";s:1:"0";s:8:"date_add";s:19:"2017-05-11 11:54:30";s:8:"date_upd";s:19:"2017-06-02 12:19:13";s:25:"advanced_stock_management";s:1:"0";s:15:"pack_stock_type";s:1:"3";s:7:"id_shop";s:1:"1";s:20:"id_product_attribute";N;s:34:"product_attribute_minimal_quantity";N;s:11:"description";s:948:"<pre class="tw-data-text tw-ta tw-text-small" id="tw-target-text" dir="ltr"><span lang="fr" xml:lang="fr">spécifications:
+
+Fréquence 400-480 MHz
+Li-Ion 2800 mAh, DC 7,4 V
+Puissance de sortie: 8W / 1W
+fonctionnement indépendant des deux canaux A / B
+Nombre de canaux: 128
+pas de la grille de fréquence: 5 / 6,25 / 10 / 12,5 / 20/25 kHz
+touche PTT double
+Sélection du mode: à bande étroite ou à large bande
+CTSSS 50 groupes / 150 groupes de codes de DSC
+Mode batterie d'économie d'énergie
+Haut / bas niveau de puissance
+Signal sonore lorsque vous appuyez sur
+Alarme 1750 Hz
+balayage des canaux
+Pouvoir communiquer avec les stations de canal conventionnel et LPD gamme PMR
+Casque d'écoute (natif ou Kenwood)
+clavier éclairé
+verrouillage du clavier
+Grande lampe de poche LED
+Programmation à partir du PC (câble non fourni)
+Radio FM (65-108 MHz) (économie de 25 canaux)
+Antenne Type de connecteur: SMA femelle
+Poids: 230 gr.</span></pre>";s:17:"description_short";s:49:"<p>Emetteur-Récepteur Professionnel FM UV-8D</p>";s:13:"available_now";s:0:"";s:15:"available_later";s:0:"";s:12:"link_rewrite";s:41:"emetteur-recepteur-professionnel-fm-uv-8d";s:16:"meta_description";s:42:"Emetteur-Récepteur Professionnel FM UV-8D";s:13:"meta_keywords";s:42:"Emetteur-Récepteur Professionnel FM UV-8D";s:10:"meta_title";s:42:"Emetteur-Récepteur Professionnel FM UV-8D";s:4:"name";s:42:"Emetteur-Récepteur Professionnel FM UV-8D";s:8:"id_image";s:3:"174";s:6:"legend";s:0:"";s:17:"manufacturer_name";N;s:16:"category_default";s:13:"Electroniques";s:3:"new";s:1:"0";s:10:"orderprice";s:12:"90000.000000";}

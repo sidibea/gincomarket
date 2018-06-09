@@ -1,0 +1,32 @@
+/*
+for multisafepayconnect
+*/
+@media screen and (max-width: 699px) and (min-width: 300px) {
+	#module-multisafepayconnect-validation .header-container,
+	#module-multisafepayconnect-validation .footer-container,
+	#module-multisafepayconnect-validation .breadcrumb,
+	#module-multisafepayconnect-validation #slider_row,
+	#module-multisafepayconnect-validation #after_top,
+	#module-multisafepayconnect-validation #cookieticker,
+	#module-multisafepayconnect-validation .marPopUp,
+	#module-multisafepayconnect-validation .zopim {
+		display: none !important;
+	}
+}
+
+/*
+for satispay
+*/
+@media screen and (max-width: 699px) and (min-width: 300px) {
+	#module-satispay-payment .header-container,
+	#module-satispay-payment .footer-container,
+	#module-satispay-payment .breadcrumb,
+	#module-satispay-payment #slider_row,
+	#module-satispay-payment #after_top,
+	#module-satispay-payment #cookieticker,
+	#module-satispay-payment .marPopUp,
+	#module-satispay-payment .zopim {
+		display: none !important;
+	}
+}
+

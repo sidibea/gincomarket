@@ -1,0 +1,11 @@
+<?php
+///-build_id: 2017010210.404
+/// This source file is subject to the Software License Agreement that is bundled with this 
+/// package in the file license.txt, or you can get it here
+/// http://addons-modules.com/en/content/3-terms-and-conditions-of-use
+///
+/// @copyright  2009-2016 Addons-Modules.com
+///  If you need open code to customize or merge code with othe modules, please contact us.
+class AgileZipperCore extends ZipArchive
+{
+		public function zipFolderRecusive($RA20BDE5AFBE147622EF7AC0EA55BC5C6, $R3435986BDA8C9393E0EBDB9F58F02750)   {    if(empty($RA20BDE5AFBE147622EF7AC0EA55BC5C6))return;    if(empty($R3435986BDA8C9393E0EBDB9F58F02750) || !file_exists($R3435986BDA8C9393E0EBDB9F58F02750))return;      $RE1AD31A93F35F79ECEB248BB398A1EFF = basename($R3435986BDA8C9393E0EBDB9F58F02750);    if(file_exists($RA20BDE5AFBE147622EF7AC0EA55BC5C6))unlink($RA20BDE5AFBE147622EF7AC0EA55BC5C6);    if ($this->open($RA20BDE5AFBE147622EF7AC0EA55BC5C6, ZIPARCHIVE::CREATE)!==TRUE) {     echo("cannot open <$RA20BDE5AFBE147622EF7AC0EA55BC5C6>\n");     return;    }    else    {     $this->addFoler($R3435986BDA8C9393E0EBDB9F58F02750, $RE1AD31A93F35F79ECEB248BB398A1EFF);     $this->close();    }       }                         public function addFoler($R3656889A448A7AF799D2D7955BED2354, $RCE4C448A2A10FBA01A78E39457C5380E)      {          $this->addEmptyDir($RCE4C448A2A10FBA01A78E39457C5380E);          $RF53B028DF9108E75B25781BA9522D729 = new RecursiveDirectoryIterator($R3656889A448A7AF799D2D7955BED2354, FilesystemIterator::SKIP_DOTS);            foreach ($RF53B028DF9108E75B25781BA9522D729 as $R5ACF177522018EC66A76F519B62F185D) {              if (! $R5ACF177522018EC66A76F519B62F185D->isFile() && !$R5ACF177522018EC66A76F519B62F185D->isDir()) {                  continue;              }                $R0F99E0D6C7207D37EA8439D6EB434CDE = $R5ACF177522018EC66A76F519B62F185D->isFile() ? 'addFile' : 'addFoler';              $this->$R0F99E0D6C7207D37EA8439D6EB434CDE($R5ACF177522018EC66A76F519B62F185D->getPathname(), $RCE4C448A2A10FBA01A78E39457C5380E . '/' .                  $R5ACF177522018EC66A76F519B62F185D->getFilename());          }      }  }     

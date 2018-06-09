@@ -1,0 +1,37 @@
+#appsplash-images-thumbnails img, #applogo-images-thumbnails img, #appicon-images-thumbnails img { width: 150px; }
+#mobi_loading_mask { position: fixed; top: 46%; left: 46%; }
+.icon-sortable-move {
+    background-image: url("../../img/admin/glyphicons-halflings.png");
+    background-position: -168px -72px;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    display: inline-block;
+    height: 14px;
+    line-height: 14px;
+    vertical-align: text-top;
+    width: 14px;
+}
+
+span.popOver {
+	background: #ffac47;
+    display: inline-block;
+    padding: 3px 10px 3px 10px;
+    border-radius: 30px;
+    margin-top: 10px;
+    color: #fff;
+    position: relative;
+    border: 1px solid rgba(0,0,0,0.1);
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+span.popOver b {
+	height: 15px;
+    width: 15px;
+    padding: 2px;
+    display: inline-block;
+    margin-left: 5px;
+    box-sizing: border-box;
+    line-height: 11px;
+    cursor: pointer;
+}

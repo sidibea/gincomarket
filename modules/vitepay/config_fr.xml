@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>vitepay</name>
+	<displayName><![CDATA[VitePay]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Acceptez les paiements Orange Money de mani&egrave;re rapide et s&eacute;curis&eacute;e.]]></description>
+	<author><![CDATA[VitePay]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Souhaitez-vous supprimer vos informations de connexion ?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

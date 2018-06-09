@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>agilemultipleshop</name>
+	<displayName><![CDATA[Agile Multiple Shop]]></displayName>
+	<version><![CDATA[2.0.1.3]]></version>
+	<description><![CDATA[Provides multiple shop functionality for multiple sellers - one seller, one shop.]]></description>
+	<author><![CDATA[addons-modules.com]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

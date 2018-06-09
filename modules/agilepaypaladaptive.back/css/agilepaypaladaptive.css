@@ -1,0 +1,40 @@
+﻿.payment_module {
+ margin-bottom: 10px; }
+ .payment_module .agile_agilepaypaladaptive {
+    display: block;
+    border: 1px solid #d6d4d4;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    font-size: 17px;
+    line-height: 23px;
+    color: #333333;
+    font-weight: bold;
+    padding: 33px 40px 34px 140px;
+    letter-spacing: -1px;
+    position: relative; }  
+ .payment_module .agile_agilepaypaladaptive {
+      background: url(../img/agilepaypaladaptive.png) 15px 12px no-repeat #fbfbfb;
+ }
+.payment_module .agile_agilepaypaladaptive:after {
+      display: block;
+      content: "\f054";
+      position: absolute;
+      right: 15px;
+      margin-top: -11px;
+      top: 50%;
+      font-family: "FontAwesome";
+      font-size: 25px;
+      height: 22px;
+      width: 14px;
+      color: #777777; }
+
+.inactiveLink {
+   pointer-events: none;
+   cursor: default;
+   margin-bottom: 1em;
+}
+
+p.radio {
+    padding-left: 0;
+}

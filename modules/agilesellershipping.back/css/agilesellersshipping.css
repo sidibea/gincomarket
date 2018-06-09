@@ -1,0 +1,47 @@
+﻿.agile-seller-carrier {
+color:blue;
+}
+
+.agile-seller {
+    vertical-align:middle;
+    color: blue;
+}
+
+.agile-prod-name {
+font-weight:bold;
+color:orange;
+}
+
+.agile-zone-section{
+  width:100%;
+}
+.agile-zone-section .agile-zone-item {
+margin: 10px 0 0 0;
+padding: 0 10px 0 0;
+}
+
+.agile-zone-section .agile-zone-item {
+    margin: 10px 0 0 0;
+    padding: 0 10px 0 0;
+    }
+
+@media (min-width: 768px) {
+.agile-zone-section .agile-zone-item {
+    float:left;
+    width:50%;
+    }
+}
+
+@media (min-width: 1024px) {
+.agile-zone-section .agile-zone-item {
+    float:left;
+    width:33.33%;
+    }
+}
+
+@media (min-width: 1680px) {
+.agile-zone-section .agile-zone-item {
+    float:left;
+    width:33.33%;
+    }
+}

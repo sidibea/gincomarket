@@ -1,0 +1,17 @@
+a:65:{s:10:"id_product";s:2:"96";s:11:"id_supplier";s:1:"0";s:15:"id_manufacturer";s:1:"0";s:19:"id_category_default";s:3:"231";s:15:"id_shop_default";s:1:"1";s:18:"id_tax_rules_group";s:1:"0";s:7:"on_sale";s:1:"1";s:11:"online_only";s:1:"0";s:5:"ean13";s:0:"";s:3:"upc";s:0:"";s:6:"ecotax";s:8:"0.000000";s:8:"quantity";s:2:"12";s:16:"minimal_quantity";s:1:"1";s:5:"price";s:12:"15000.000000";s:15:"wholesale_price";s:8:"0.000000";s:5:"unity";s:0:"";s:16:"unit_price_ratio";s:8:"1.764706";s:24:"additional_shipping_cost";s:4:"0.00";s:9:"reference";s:8:"yara 004";s:18:"supplier_reference";s:0:"";s:8:"location";s:0:"";s:5:"width";s:8:"0.000000";s:6:"height";s:8:"0.000000";s:5:"depth";s:8:"0.000000";s:6:"weight";s:8:"0.000000";s:12:"out_of_stock";s:1:"2";s:17:"quantity_discount";s:1:"0";s:12:"customizable";s:1:"0";s:16:"uploadable_files";s:1:"0";s:11:"text_fields";s:1:"0";s:6:"active";s:1:"1";s:13:"redirect_type";s:3:"404";s:21:"id_product_redirected";s:1:"0";s:19:"available_for_order";s:1:"1";s:14:"available_date";s:10:"0000-00-00";s:9:"condition";s:3:"new";s:10:"show_price";s:1:"1";s:7:"indexed";s:1:"1";s:10:"visibility";s:4:"both";s:13:"cache_is_pack";s:1:"0";s:21:"cache_has_attachments";s:1:"0";s:10:"is_virtual";s:1:"0";s:23:"cache_default_attribute";s:1:"0";s:8:"date_add";s:19:"2017-05-03 17:05:16";s:8:"date_upd";s:19:"2017-06-02 12:19:13";s:25:"advanced_stock_management";s:1:"0";s:15:"pack_stock_type";s:1:"3";s:7:"id_shop";s:1:"1";s:20:"id_product_attribute";N;s:34:"product_attribute_minimal_quantity";N;s:11:"description";s:913:"<p>Modele 309 shocker 4000 kv</p>
+<p>Caracteristiques :</p>
+<p>- Arme de defense electrique forme adapté a la poigne </p>
+<p>- Lampe de poche 130 lumens</p>
+<p>- Dragonne de securité (si elle est enlevé le shocker se desactive automatiquement) </p>
+<p>- Longueur 12.7 cm</p>
+<p>- Largeur 4.5 cm</p>
+<p>- Epaisseur 2.5 cm </p>
+<p>Mode d'emploi :</p>
+<p>Pousser le bouton sur le shocker en position lampe pour activé la LED</p>
+<p>Pousser au deuxième cran en position électrique pour activer le mode taser puis apuyer sur le bouton rouge pour enclencher la décharge</p>
+<p>Pour le mode shocker la dragonne doit être branché, elle permet votre sécurité au cas ou l'agresseur arrache le shocker de votre main</p>
+<p>Il est conseillé de le charger tous les 30 jours </p>
+<p>Temps de charge 4-6 heures </p>
+<p>Idéal pour dissuader vos agresseurs </p>
+<p>Ne pas utiliser sur un individu cardiaque</p>";s:17:"description_short";s:79:"<p>Puissance de 4 000 000 de Volts </p>
+<p>Lampe led 130 lumens intégrée</p>";s:13:"available_now";s:0:"";s:15:"available_later";s:0:"";s:12:"link_rewrite";s:63:"shocker-electrique-avec-poignee-et-dragonne-de-securite-4000-kv";s:16:"meta_description";s:53:"Arme de defense electrique forme adapté a la poigne ";s:13:"meta_keywords";s:67:"shocker électrique avec poignée et dragonne de sécurité 4000 kv";s:10:"meta_title";s:19:"Shocker électrique";s:4:"name";s:67:"Shocker électrique avec poignée et dragonne de sécurité 4000 KV";s:8:"id_image";s:3:"119";s:6:"legend";s:0:"";s:17:"manufacturer_name";N;s:16:"category_default";s:10:"Sécurité";s:3:"new";s:1:"0";s:10:"orderprice";s:12:"15000.000000";}

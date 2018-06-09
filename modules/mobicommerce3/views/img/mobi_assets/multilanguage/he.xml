@@ -1,0 +1,2033 @@
+<?xml version="1.0"?>
+<mobicommerce_multilanguage>
+  <home>
+    <mm_type>label</mm_type>
+    <mm_label>Home</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>Home</mm_text>
+    <mm_help>Home</mm_help>
+  </home>
+  <no_internet_connection>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D0;&#x5D9;&#x5DF; &#x5D7;&#x5D9;&#x5D1;&#x5D5;&#x5E8; &#x5D0;&#x5D9;&#x5E0;&#x5D8;&#x5E8;&#x5E0;&#x5D8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D0;&#x5D9;&#x5DF; &#x5D7;&#x5D9;&#x5D1;&#x5D5;&#x5E8; &#x5D0;&#x5D9;&#x5E0;&#x5D8;&#x5E8;&#x5E0;&#x5D8;</mm_text>
+    <mm_help>&#x5D0;&#x5D9;&#x5DF; &#x5D7;&#x5D9;&#x5D1;&#x5D5;&#x5E8; &#x5D0;&#x5D9;&#x5E0;&#x5D8;&#x5E8;&#x5E0;&#x5D8;</mm_help>
+  </no_internet_connection>
+  <oops>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D0;&#x5D5;&#x5E4;&#x5E1;! &#x5DE;&#x5E9;&#x5D4;&#x5D5; &#x5D4;&#x5E9;&#x5EA;&#x5D1;&#x5E9;.</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D0;&#x5D5;&#x5E4;&#x5E1;! &#x5DE;&#x5E9;&#x5D4;&#x5D5; &#x5D4;&#x5E9;&#x5EA;&#x5D1;&#x5E9;.</mm_text>
+    <mm_help>&#x5D0;&#x5D5;&#x5E4;&#x5E1;! &#x5DE;&#x5E9;&#x5D4;&#x5D5; &#x5D4;&#x5E9;&#x5EA;&#x5D1;&#x5E9;.</mm_help>
+  </oops>
+  <saved_addresses>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5D5;&#x5EA; &#x5E9;&#x5E0;&#x5E9;&#x5DE;&#x5E8;&#x5D5;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5D5;&#x5EA; &#x5E9;&#x5E0;&#x5E9;&#x5DE;&#x5E8;&#x5D5;</mm_text>
+    <mm_help>&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5D5;&#x5EA; &#x5E9;&#x5E0;&#x5E9;&#x5DE;&#x5E8;&#x5D5;</mm_help>
+  </saved_addresses>
+  <add_new>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5D5;&#x5E1;&#x5E3; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D5;&#x5E1;&#x5E3; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA;</mm_text>
+    <mm_help>&#x5D4;&#x5D5;&#x5E1;&#x5E3; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA;</mm_help>
+  </add_new>
+  <edit_address>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E2;&#x5E8;&#x5D5;&#x5DA; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E2;&#x5E8;&#x5D5;&#x5DA; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA;</mm_text>
+    <mm_help>&#x5E2;&#x5E8;&#x5D5;&#x5DA; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA;</mm_help>
+  </edit_address>
+  <cancel>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DC;&#x5B0;&#x5D1;&#x5B7;&#x5D8;&#x5B5;&#x5DC;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5B0;&#x5D1;&#x5B7;&#x5D8;&#x5B5;&#x5DC;</mm_text>
+    <mm_help>&#x5DC;&#x5B0;&#x5D1;&#x5B7;&#x5D8;&#x5B5;&#x5DC;</mm_help>
+  </cancel>
+  <firstname>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E9;&#x5DD; &#x5E4;&#x5E8;&#x5D8;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E9;&#x5DD; &#x5E4;&#x5E8;&#x5D8;&#x5D9;</mm_text>
+    <mm_help>&#x5E9;&#x5DD; &#x5E4;&#x5E8;&#x5D8;&#x5D9;</mm_help>
+  </firstname>
+  <lastname>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E9;&#x5DD; &#x5DE;&#x5E9;&#x5E4;&#x5D7;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E9;&#x5DD; &#x5DE;&#x5E9;&#x5E4;&#x5D7;&#x5D4;</mm_text>
+    <mm_help>&#x5E9;&#x5DD; &#x5DE;&#x5E9;&#x5E4;&#x5D7;&#x5D4;</mm_help>
+  </lastname>
+  <address>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA;</mm_text>
+    <mm_help>&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA;</mm_help>
+  </address>
+  <alias>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DB;&#x5D9;&#x5E0;&#x5D5;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DB;&#x5D9;&#x5E0;&#x5D5;&#x5D9;</mm_text>
+    <mm_help>&#x5DB;&#x5D9;&#x5E0;&#x5D5;&#x5D9;</mm_help>
+  </alias>
+  <landmark>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E6;&#x5D9;&#x5D5;&#x5DF; &#x5D3;&#x5E8;&#x5DA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E6;&#x5D9;&#x5D5;&#x5DF; &#x5D3;&#x5E8;&#x5DA;</mm_text>
+    <mm_help>&#x5E6;&#x5D9;&#x5D5;&#x5DF; &#x5D3;&#x5E8;&#x5DA;</mm_help>
+  </landmark>
+  <city>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E2;&#x5B4;&#x5D9;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E2;&#x5B4;&#x5D9;&#x5E8;</mm_text>
+    <mm_help>&#x5E2;&#x5B4;&#x5D9;&#x5E8;</mm_help>
+  </city>
+  <state>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5D3;&#x5D9;&#x5E0;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5D3;&#x5D9;&#x5E0;&#x5D4;</mm_text>
+    <mm_help>&#x5DE;&#x5D3;&#x5D9;&#x5E0;&#x5D4;</mm_help>
+  </state>
+  <country>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5D3;&#x5D9;&#x5E0;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5D3;&#x5D9;&#x5E0;&#x5D4;</mm_text>
+    <mm_help>&#x5DE;&#x5D3;&#x5D9;&#x5E0;&#x5D4;</mm_help>
+  </country>
+  <pincode>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E7;&#x5D5;&#x5D3; &#x5E1;&#x5D5;&#x5D3;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E7;&#x5D5;&#x5D3; &#x5E1;&#x5D5;&#x5D3;&#x5D9;</mm_text>
+    <mm_help>&#x5E7;&#x5D5;&#x5D3; &#x5E1;&#x5D5;&#x5D3;&#x5D9;</mm_help>
+  </pincode>
+  <company>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D7;&#x5B6;&#x5D1;&#x5E8;&#x5B8;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D7;&#x5B6;&#x5D1;&#x5E8;&#x5B8;&#x5D4;</mm_text>
+    <mm_help>&#x5D7;&#x5B6;&#x5D1;&#x5E8;&#x5B8;&#x5D4;</mm_help>
+  </company>
+  <homephone>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D8;&#x5DC;&#x5E4;&#x5D5;&#x5DF; &#x5D1;&#x5D1;&#x5D9;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D8;&#x5DC;&#x5E4;&#x5D5;&#x5DF; &#x5D1;&#x5D1;&#x5D9;&#x5EA;</mm_text>
+    <mm_help>&#x5D8;&#x5DC;&#x5E4;&#x5D5;&#x5DF; &#x5D1;&#x5D1;&#x5D9;&#x5EA;</mm_help>
+  </homephone>
+  <mobilephone>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D8;&#x5DC;&#x5E4;&#x5D5;&#x5DF; &#x5E0;&#x5D9;&#x5D9;&#x5D3;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D8;&#x5DC;&#x5E4;&#x5D5;&#x5DF; &#x5E0;&#x5D9;&#x5D9;&#x5D3;</mm_text>
+    <mm_help>&#x5D8;&#x5DC;&#x5E4;&#x5D5;&#x5DF; &#x5E0;&#x5D9;&#x5D9;&#x5D3;</mm_help>
+  </mobilephone>
+  <save>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DC;&#x5D4;&#x5E6;&#x5D9;&#x5DC;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5D4;&#x5E6;&#x5D9;&#x5DC;</mm_text>
+    <mm_help>&#x5DC;&#x5D4;&#x5E6;&#x5D9;&#x5DC;</mm_help>
+  </save>
+  <telephone>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D8;&#x5B5;&#x5DC;&#x5B5;&#x5E4;&#x5D5;&#x5B9;&#x5DF;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D8;&#x5B5;&#x5DC;&#x5B5;&#x5E4;&#x5D5;&#x5B9;&#x5DF;</mm_text>
+    <mm_help>&#x5D8;&#x5B5;&#x5DC;&#x5B5;&#x5E4;&#x5D5;&#x5B9;&#x5DF;</mm_help>
+  </telephone>
+  <mark_as_default_billing>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E1;&#x5DE;&#x5DF; &#x5DB;&#x5D4;&#x5D2;&#x5D3;&#x5E8;&#x5EA; &#x5D1;&#x5E8;&#x5D9;&#x5E8;&#x5EA; &#x5DE;&#x5D7;&#x5D3;&#x5DC; &#x5DC;&#x5D7;&#x5D9;&#x5D5;&#x5D1;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E1;&#x5DE;&#x5DF; &#x5DB;&#x5D4;&#x5D2;&#x5D3;&#x5E8;&#x5EA; &#x5D1;&#x5E8;&#x5D9;&#x5E8;&#x5EA; &#x5DE;&#x5D7;&#x5D3;&#x5DC; &#x5DC;&#x5D7;&#x5D9;&#x5D5;&#x5D1;</mm_text>
+    <mm_help>&#x5E1;&#x5DE;&#x5DF; &#x5DB;&#x5D4;&#x5D2;&#x5D3;&#x5E8;&#x5EA; &#x5D1;&#x5E8;&#x5D9;&#x5E8;&#x5EA; &#x5DE;&#x5D7;&#x5D3;&#x5DC; &#x5DC;&#x5D7;&#x5D9;&#x5D5;&#x5D1;</mm_help>
+  </mark_as_default_billing>
+  <mark_as_default_shipping>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E1;&#x5DE;&#x5DF; &#x5DB;&#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7; &#x5D1;&#x5E8;&#x5D9;&#x5E8;&#x5EA; &#x5DE;&#x5D7;&#x5D3;&#x5DC;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E1;&#x5DE;&#x5DF; &#x5DB;&#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7; &#x5D1;&#x5E8;&#x5D9;&#x5E8;&#x5EA; &#x5DE;&#x5D7;&#x5D3;&#x5DC;</mm_text>
+    <mm_help>&#x5E1;&#x5DE;&#x5DF; &#x5DB;&#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7; &#x5D1;&#x5E8;&#x5D9;&#x5E8;&#x5EA; &#x5DE;&#x5D7;&#x5D3;&#x5DC;</mm_help>
+  </mark_as_default_shipping>
+  <agreements>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5E1;&#x5DB;&#x5DE;&#x5D9;&#x5DD;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5E1;&#x5DB;&#x5DE;&#x5D9;&#x5DD;</mm_text>
+    <mm_help>&#x5D4;&#x5E1;&#x5DB;&#x5DE;&#x5D9;&#x5DD;</mm_help>
+  </agreements>
+  <continue>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DC;&#x5B0;&#x5D4;&#x5B7;&#x5DE;&#x5E9;&#x5C1;&#x5B4;&#x5D9;&#x5DA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5B0;&#x5D4;&#x5B7;&#x5DE;&#x5E9;&#x5C1;&#x5B4;&#x5D9;&#x5DA;</mm_text>
+    <mm_help>&#x5DC;&#x5B0;&#x5D4;&#x5B7;&#x5DE;&#x5E9;&#x5C1;&#x5B4;&#x5D9;&#x5DA;</mm_help>
+  </continue>
+  <billing_address>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5DC;&#x5D7;&#x5D9;&#x5D5;&#x5D1;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5DC;&#x5D7;&#x5D9;&#x5D5;&#x5D1;</mm_text>
+    <mm_help>&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5DC;&#x5D7;&#x5D9;&#x5D5;&#x5D1;</mm_help>
+  </billing_address>
+  <change>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E9;&#x5D9;&#x5E0;&#x5D5;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E9;&#x5D9;&#x5E0;&#x5D5;&#x5D9;</mm_text>
+    <mm_help>&#x5E9;&#x5D9;&#x5E0;&#x5D5;&#x5D9;</mm_help>
+  </change>
+  <shipping_address>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5DC;&#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5DC;&#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_text>
+    <mm_help>&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5DC;&#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_help>
+  </shipping_address>
+  <email>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D3;&#x5D5;&#x5D0;"&#x5DC;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D3;&#x5D5;&#x5D0;&amp;amp;quot;&#x5DC;</mm_text>
+    <mm_help>&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D3;&#x5D5;&#x5D0;&amp;amp;quot;&#x5DC;</mm_help>
+  </email>
+  <date_of_birth>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5EA;&#x5D0;&#x5E8;&#x5D9;&#x5DA; &#x5DC;&#x5D9;&#x5D3;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5EA;&#x5D0;&#x5E8;&#x5D9;&#x5DA; &#x5DC;&#x5D9;&#x5D3;&#x5D4;</mm_text>
+    <mm_help>&#x5EA;&#x5D0;&#x5E8;&#x5D9;&#x5DA; &#x5DC;&#x5D9;&#x5D3;&#x5D4;</mm_help>
+  </date_of_birth>
+  <gender>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5B4;&#x5D9;&#x5DF;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5B4;&#x5D9;&#x5DF;</mm_text>
+    <mm_help>&#x5DE;&#x5B4;&#x5D9;&#x5DF;</mm_help>
+  </gender>
+  <taxvat_number>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5E1;&#x5E4;&#x5E8; &#x5DE;&#x5E1;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5E1;&#x5E4;&#x5E8; &#x5DE;&#x5E1;</mm_text>
+    <mm_help>&#x5DE;&#x5E1;&#x5E4;&#x5E8; &#x5DE;&#x5E1;</mm_help>
+  </taxvat_number>
+  <same_as_billing>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D6;&#x5D4;&#x5D4; &#x5DC;&#x5D7;&#x5D9;&#x5D5;&#x5D1;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D6;&#x5D4;&#x5D4; &#x5DC;&#x5D7;&#x5D9;&#x5D5;&#x5D1;</mm_text>
+    <mm_help>&#x5D6;&#x5D4;&#x5D4; &#x5DC;&#x5D7;&#x5D9;&#x5D5;&#x5D1;</mm_help>
+  </same_as_billing>
+  <choose>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D1;&#x5D7;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D1;&#x5D7;&#x5E8;</mm_text>
+    <mm_help>&#x5D1;&#x5D7;&#x5E8;</mm_help>
+  </choose>
+  <choose_an_option>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D1;&#x5D7;&#x5E8; &#x5D0;&#x5E4;&#x5E9;&#x5E8;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D1;&#x5D7;&#x5E8; &#x5D0;&#x5E4;&#x5E9;&#x5E8;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5D1;&#x5D7;&#x5E8; &#x5D0;&#x5E4;&#x5E9;&#x5E8;&#x5D5;&#x5EA;</mm_help>
+  </choose_an_option>
+  <choose_address>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D1;&#x5D7;&#x5E8; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D1;&#x5D7;&#x5E8; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA;</mm_text>
+    <mm_help>&#x5D1;&#x5D7;&#x5E8; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA;</mm_help>
+  </choose_address>
+  <checkout>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DC;&#x5D1;&#x5D3;&#x5D5;&#x5E7;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5D1;&#x5D3;&#x5D5;&#x5E7;</mm_text>
+    <mm_help>&#x5DC;&#x5D1;&#x5D3;&#x5D5;&#x5E7;</mm_help>
+  </checkout>
+  <move_to_wishlist>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5E2;&#x5D1;&#x5E8; &#x5DC;&#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5EA; &#x5DE;&#x5E9;&#x5D0;&#x5DC;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5E2;&#x5D1;&#x5E8; &#x5DC;&#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5EA; &#x5DE;&#x5E9;&#x5D0;&#x5DC;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5D4;&#x5E2;&#x5D1;&#x5E8; &#x5DC;&#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5EA; &#x5DE;&#x5E9;&#x5D0;&#x5DC;&#x5D5;&#x5EA;</mm_help>
+  </move_to_wishlist>
+  <remove>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DC;&#x5B0;&#x5D4;&#x5B7;&#x5E1;&#x5B4;&#x5D9;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5B0;&#x5D4;&#x5B7;&#x5E1;&#x5B4;&#x5D9;&#x5E8;</mm_text>
+    <mm_help>&#x5DC;&#x5B0;&#x5D4;&#x5B7;&#x5E1;&#x5B4;&#x5D9;&#x5E8;</mm_help>
+  </remove>
+  <offers>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E7;&#x5D5;&#x5E4;&#x5D5;&#x5DF; &#x5D5;&#x5DE;&#x5D1;&#x5E6;&#x5E2;&#x5D9;&#x5DD;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E7;&#x5D5;&#x5E4;&#x5D5;&#x5DF; &#x5D5;&#x5DE;&#x5D1;&#x5E6;&#x5E2;&#x5D9;&#x5DD;</mm_text>
+    <mm_help>&#x5E7;&#x5D5;&#x5E4;&#x5D5;&#x5DF; &#x5D5;&#x5DE;&#x5D1;&#x5E6;&#x5E2;&#x5D9;&#x5DD;</mm_help>
+  </offers>
+  <applied_promo_code>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5D7;&#x5DC; &#x5E7;&#x5D5;&#x5D3; &#x5E7;&#x5D9;&#x5D3;&#x5D5;&#x5DD; &#x5DE;&#x5DB;&#x5D9;&#x5E8;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D7;&#x5DC; &#x5E7;&#x5D5;&#x5D3; &#x5E7;&#x5D9;&#x5D3;&#x5D5;&#x5DD; &#x5DE;&#x5DB;&#x5D9;&#x5E8;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5D4;&#x5D7;&#x5DC; &#x5E7;&#x5D5;&#x5D3; &#x5E7;&#x5D9;&#x5D3;&#x5D5;&#x5DD; &#x5DE;&#x5DB;&#x5D9;&#x5E8;&#x5D5;&#x5EA;</mm_help>
+  </applied_promo_code>
+  <promo_code>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E7;&#x5D5;&#x5D3; &#x5E7;&#x5D5;&#x5E4;&#x5D5;&#x5DF;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E7;&#x5D5;&#x5D3; &#x5E7;&#x5D5;&#x5E4;&#x5D5;&#x5DF;</mm_text>
+    <mm_help>&#x5E7;&#x5D5;&#x5D3; &#x5E7;&#x5D5;&#x5E4;&#x5D5;&#x5DF;</mm_help>
+  </promo_code>
+  <apply>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DC;&#x5D4;&#x5D2;&#x5D9;&#x5E9; &#x5DE;&#x5D5;&#x5E2;&#x5DE;&#x5D3;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5D4;&#x5D2;&#x5D9;&#x5E9; &#x5DE;&#x5D5;&#x5E2;&#x5DE;&#x5D3;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5DC;&#x5D4;&#x5D2;&#x5D9;&#x5E9; &#x5DE;&#x5D5;&#x5E2;&#x5DE;&#x5D3;&#x5D5;&#x5EA;</mm_help>
+  </apply>
+  <get_a_quote>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E7;&#x5D1;&#x5DC; &#x5E6;&#x5D9;&#x5D8;&#x5D5;&#x5D8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E7;&#x5D1;&#x5DC; &#x5E6;&#x5D9;&#x5D8;&#x5D5;&#x5D8;</mm_text>
+    <mm_help>&#x5E7;&#x5D1;&#x5DC; &#x5E6;&#x5D9;&#x5D8;&#x5D5;&#x5D8;</mm_help>
+  </get_a_quote>
+  <update_total>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E2;&#x5D3;&#x5DB;&#x5D5;&#x5DF; &#x5E1;&#x5D4;"&#x5DB;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E2;&#x5D3;&#x5DB;&#x5D5;&#x5DF; &#x5E1;&#x5D4;&amp;amp;quot;&#x5DB;</mm_text>
+    <mm_help>&#x5E2;&#x5D3;&#x5DB;&#x5D5;&#x5DF; &#x5E1;&#x5D4;&amp;amp;quot;&#x5DB;</mm_help>
+  </update_total>
+  <price_details>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E4;&#x5E8;&#x5D8;&#x5D9; &#x5DE;&#x5D7;&#x5D9;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E4;&#x5E8;&#x5D8;&#x5D9; &#x5DE;&#x5D7;&#x5D9;&#x5E8;</mm_text>
+    <mm_help>&#x5E4;&#x5E8;&#x5D8;&#x5D9; &#x5DE;&#x5D7;&#x5D9;&#x5E8;</mm_help>
+  </price_details>
+  <subtotal>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E1;&#x5D9;&#x5DB;&#x5D5;&#x5DD; &#x5D1;&#x5D9;&#x5E0;&#x5D9;&#x5D9;&#x5DD;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E1;&#x5D9;&#x5DB;&#x5D5;&#x5DD; &#x5D1;&#x5D9;&#x5E0;&#x5D9;&#x5D9;&#x5DD;</mm_text>
+    <mm_help>&#x5E1;&#x5D9;&#x5DB;&#x5D5;&#x5DD; &#x5D1;&#x5D9;&#x5E0;&#x5D9;&#x5D9;&#x5DD;</mm_help>
+  </subtotal>
+  <shipping_and_handling>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E9;&#x5D9;&#x5D8;&#x5EA; &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E9;&#x5D9;&#x5D8;&#x5EA; &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_text>
+    <mm_help>&#x5E9;&#x5D9;&#x5D8;&#x5EA; &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_help>
+  </shipping_and_handling>
+  <tax>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5B7;&#x5E1;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5B7;&#x5E1;</mm_text>
+    <mm_help>&#x5DE;&#x5B7;&#x5E1;</mm_help>
+  </tax>
+  <discount>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5E0;&#x5D7;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5E0;&#x5D7;&#x5D4;</mm_text>
+    <mm_help>&#x5D4;&#x5E0;&#x5D7;&#x5D4;</mm_help>
+  </discount>
+  <amount_payable>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5E1;&#x5DB;&#x5D5;&#x5DD; &#x5DC;&#x5EA;&#x5E9;&#x5DC;&#x5D5;&#x5DD;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5E1;&#x5DB;&#x5D5;&#x5DD; &#x5DC;&#x5EA;&#x5E9;&#x5DC;&#x5D5;&#x5DD;</mm_text>
+    <mm_help>&#x5D4;&#x5E1;&#x5DB;&#x5D5;&#x5DD; &#x5DC;&#x5EA;&#x5E9;&#x5DC;&#x5D5;&#x5DD;</mm_help>
+  </amount_payable>
+  <safe_secure_payment>
+    <mm_type>label</mm_type>
+    <mm_label>100% &#x5D1;&#x5D8;&#x5D5;&#x5D7; &#x5D5;&#x5DE;&#x5D0;&#x5D5;&#x5D1;&#x5D8;&#x5D7; &#x5EA;&#x5E9;&#x5DC;&#x5D5;&#x5DE;&#x5D9;&#x5DD;. &#x5E7;&#x5DC; &#x5D7;&#x5D5;&#x5D6;&#x5E8;. 100% &#x5DE;&#x5D5;&#x5E6;&#x5E8;&#x5D9;&#x5DD; &#x5D0;&#x5D5;&#x5EA;&#x5E0;&#x5D8;&#x5D9;&#x5D9;&#x5DD;.</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>100% &#x5D1;&#x5D8;&#x5D5;&#x5D7; &#x5D5;&#x5DE;&#x5D0;&#x5D5;&#x5D1;&#x5D8;&#x5D7; &#x5EA;&#x5E9;&#x5DC;&#x5D5;&#x5DE;&#x5D9;&#x5DD;. &#x5E7;&#x5DC; &#x5D7;&#x5D5;&#x5D6;&#x5E8;. 100% &#x5DE;&#x5D5;&#x5E6;&#x5E8;&#x5D9;&#x5DD; &#x5D0;&#x5D5;&#x5EA;&#x5E0;&#x5D8;&#x5D9;&#x5D9;&#x5DD;.</mm_text>
+    <mm_help>100% &#x5D1;&#x5D8;&#x5D5;&#x5D7; &#x5D5;&#x5DE;&#x5D0;&#x5D5;&#x5D1;&#x5D8;&#x5D7; &#x5EA;&#x5E9;&#x5DC;&#x5D5;&#x5DE;&#x5D9;&#x5DD;. &#x5E7;&#x5DC; &#x5D7;&#x5D5;&#x5D6;&#x5E8;. 100% &#x5DE;&#x5D5;&#x5E6;&#x5E8;&#x5D9;&#x5DD; &#x5D0;&#x5D5;&#x5EA;&#x5E0;&#x5D8;&#x5D9;&#x5D9;&#x5DD;.</mm_help>
+  </safe_secure_payment>
+  <view_all>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E6;&#x5E4;&#x5D4; &#x5D1;&#x5D4;&#x5DB;&#x5DC;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E6;&#x5E4;&#x5D4; &#x5D1;&#x5D4;&#x5DB;&#x5DC;</mm_text>
+    <mm_help>&#x5E6;&#x5E4;&#x5D4; &#x5D1;&#x5D4;&#x5DB;&#x5DC;</mm_help>
+  </view_all>
+  <all_products>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DB;&#x5DC; &#x5D4;&#x5DE;&#x5D5;&#x5E6;&#x5E8;&#x5D9;&#x5DD;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DB;&#x5DC; &#x5D4;&#x5DE;&#x5D5;&#x5E6;&#x5E8;&#x5D9;&#x5DD;</mm_text>
+    <mm_help>&#x5DB;&#x5DC; &#x5D4;&#x5DE;&#x5D5;&#x5E6;&#x5E8;&#x5D9;&#x5DD;</mm_help>
+  </all_products>
+  <add_new_address>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5D5;&#x5E1;&#x5E3; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D7;&#x5D3;&#x5E9;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D5;&#x5E1;&#x5E3; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D7;&#x5D3;&#x5E9;&#x5D4;</mm_text>
+    <mm_help>&#x5D4;&#x5D5;&#x5E1;&#x5E3; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D7;&#x5D3;&#x5E9;&#x5D4;</mm_help>
+  </add_new_address>
+  <place_order>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D1;&#x5E6;&#x5E2; &#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D1;&#x5E6;&#x5E2; &#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4;</mm_text>
+    <mm_help>&#x5D1;&#x5E6;&#x5E2; &#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4;</mm_help>
+  </place_order>
+  <review_your_order>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D1;&#x5D3;&#x5D5;&#x5E7; &#x5D0;&#x5EA; &#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4; &#x5E9;&#x5DC;&#x5DA; &#x5D5;&#x5D4;&#x5D6;&#x5DE;&#x5DF; &#x5D0;&#x5EA; &#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D1;&#x5D3;&#x5D5;&#x5E7; &#x5D0;&#x5EA; &#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4; &#x5E9;&#x5DC;&#x5DA; &#x5D5;&#x5D4;&#x5D6;&#x5DE;&#x5DF; &#x5D0;&#x5EA; &#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4;</mm_text>
+    <mm_help>&#x5D1;&#x5D3;&#x5D5;&#x5E7; &#x5D0;&#x5EA; &#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4; &#x5E9;&#x5DC;&#x5DA; &#x5D5;&#x5D4;&#x5D6;&#x5DE;&#x5DF; &#x5D0;&#x5EA; &#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4;</mm_help>
+  </review_your_order>
+  <payment_method>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D0;&#x5DE;&#x5E6;&#x5E2;&#x5D9; &#x5EA;&#x5E9;&#x5DC;&#x5D5;&#x5DD;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D0;&#x5DE;&#x5E6;&#x5E2;&#x5D9; &#x5EA;&#x5E9;&#x5DC;&#x5D5;&#x5DD;</mm_text>
+    <mm_help>&#x5D0;&#x5DE;&#x5E6;&#x5E2;&#x5D9; &#x5EA;&#x5E9;&#x5DC;&#x5D5;&#x5DD;</mm_help>
+  </payment_method>
+  <no_payment_method_available>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D0;&#x5D9;&#x5DF; &#x5D0;&#x5DE;&#x5E6;&#x5E2;&#x5D9; &#x5EA;&#x5E9;&#x5DC;&#x5D5;&#x5DD; &#x5D6;&#x5DE;&#x5D9;&#x5DF;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D0;&#x5D9;&#x5DF; &#x5D0;&#x5DE;&#x5E6;&#x5E2;&#x5D9; &#x5EA;&#x5E9;&#x5DC;&#x5D5;&#x5DD; &#x5D6;&#x5DE;&#x5D9;&#x5DF;</mm_text>
+    <mm_help>&#x5D0;&#x5D9;&#x5DF; &#x5D0;&#x5DE;&#x5E6;&#x5E2;&#x5D9; &#x5EA;&#x5E9;&#x5DC;&#x5D5;&#x5DD; &#x5D6;&#x5DE;&#x5D9;&#x5DF;</mm_help>
+  </no_payment_method_available>
+  <items>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E4;&#x5E8;&#x5D9;&#x5D8;&#x5D9;&#x5DD; &#x5DC;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E4;&#x5E8;&#x5D9;&#x5D8;&#x5D9;&#x5DD; &#x5DC;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4;</mm_text>
+    <mm_help>&#x5E4;&#x5E8;&#x5D9;&#x5D8;&#x5D9;&#x5DD; &#x5DC;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4;</mm_help>
+  </items>
+  <qty>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DB;&#x5DE;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DB;&#x5DE;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5DB;&#x5DE;&#x5D5;&#x5EA;</mm_help>
+  </qty>
+  <price>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5D7;&#x5D9;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5D7;&#x5D9;&#x5E8;</mm_text>
+    <mm_help>&#x5DE;&#x5D7;&#x5D9;&#x5E8;</mm_help>
+  </price>
+  <continue_shopping>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5DE;&#x5E9;&#x5DA; &#x5D1;&#x5E7;&#x5E0;&#x5D9;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5DE;&#x5E9;&#x5DA; &#x5D1;&#x5E7;&#x5E0;&#x5D9;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5D4;&#x5DE;&#x5E9;&#x5DA; &#x5D1;&#x5E7;&#x5E0;&#x5D9;&#x5D5;&#x5EA;</mm_help>
+  </continue_shopping>
+  <order_placed_label>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5EA;&#x5E7;&#x5D1;&#x5DC; &#x5D4;&#x5D5;&#x5D3;&#x5E2;&#x5EA; &#x5D0;&#x5D9;&#x5E9;&#x5D5;&#x5E8; &#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4; &#x5E2;&#x5DD; &#x5E4;&#x5E8;&#x5D8;&#x5D9;&#x5DD; &#x5E2;&#x5DC; &#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4; &#x5E9;&#x5DC;&#x5DA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5EA;&#x5E7;&#x5D1;&#x5DC; &#x5D4;&#x5D5;&#x5D3;&#x5E2;&#x5EA; &#x5D0;&#x5D9;&#x5E9;&#x5D5;&#x5E8; &#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4; &#x5E2;&#x5DD; &#x5E4;&#x5E8;&#x5D8;&#x5D9;&#x5DD; &#x5E2;&#x5DC; &#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4; &#x5E9;&#x5DC;&#x5DA;</mm_text>
+    <mm_help>&#x5EA;&#x5E7;&#x5D1;&#x5DC; &#x5D4;&#x5D5;&#x5D3;&#x5E2;&#x5EA; &#x5D0;&#x5D9;&#x5E9;&#x5D5;&#x5E8; &#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4; &#x5E2;&#x5DD; &#x5E4;&#x5E8;&#x5D8;&#x5D9;&#x5DD; &#x5E2;&#x5DC; &#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4; &#x5E9;&#x5DC;&#x5DA;</mm_help>
+  </order_placed_label>
+  <thank_you>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4; &#x5D1;&#x5D5;&#x5E6;&#x5E2;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4; &#x5D1;&#x5D5;&#x5E6;&#x5E2;&#x5D4;</mm_text>
+    <mm_help>&#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4; &#x5D1;&#x5D5;&#x5E6;&#x5E2;&#x5D4;</mm_help>
+  </thank_you>
+  <order_summary>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E1;&#x5D9;&#x5DB;&#x5D5;&#x5DD; &#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E1;&#x5D9;&#x5DB;&#x5D5;&#x5DD; &#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4;</mm_text>
+    <mm_help>&#x5E1;&#x5D9;&#x5DB;&#x5D5;&#x5DD; &#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4;</mm_help>
+  </order_summary>
+  <order_ref_no>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5E1; '&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4; &#x5DE;&#x5E1;'</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5E1; \'&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4; &#x5DE;&#x5E1;\'</mm_text>
+    <mm_help>&#x5DE;&#x5E1; \'&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4; &#x5DE;&#x5E1;\'</mm_help>
+  </order_ref_no>
+  <grand_total>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E1;&#x5DB;&#x5D5;&#x5DD; &#x5E1;&#x5D5;&#x5E4;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E1;&#x5DB;&#x5D5;&#x5DD; &#x5E1;&#x5D5;&#x5E4;&#x5D9;</mm_text>
+    <mm_help>&#x5E1;&#x5DB;&#x5D5;&#x5DD; &#x5E1;&#x5D5;&#x5E4;&#x5D9;</mm_help>
+  </grand_total>
+  <delivery_address>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5DC;&#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5DC;&#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_text>
+    <mm_help>&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5DC;&#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_help>
+  </delivery_address>
+  <order_confirmation_label>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4; &#x5DE;&#x5EA;&#x5D1;&#x5E6;&#x5E2;&#x5EA;.</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4; &#x5DE;&#x5EA;&#x5D1;&#x5E6;&#x5E2;&#x5EA;.</mm_text>
+    <mm_help>&#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4; &#x5DE;&#x5EA;&#x5D1;&#x5E6;&#x5E2;&#x5EA;.</mm_help>
+  </order_confirmation_label>
+  <proceed_to_pay>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DC;&#x5B0;&#x5D4;&#x5B7;&#x5DE;&#x5E9;&#x5C1;&#x5B4;&#x5D9;&#x5DA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5B0;&#x5D4;&#x5B7;&#x5DE;&#x5E9;&#x5C1;&#x5B4;&#x5D9;&#x5DA;</mm_text>
+    <mm_help>&#x5DC;&#x5B0;&#x5D4;&#x5B7;&#x5DE;&#x5E9;&#x5C1;&#x5B4;&#x5D9;&#x5DA;</mm_help>
+  </proceed_to_pay>
+  <sample_links>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E7;&#x5D9;&#x5E9;&#x5D5;&#x5E8;&#x5D9;&#x5DD; &#x5DC;&#x5D3;&#x5D5;&#x5D2;&#x5DE;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E7;&#x5D9;&#x5E9;&#x5D5;&#x5E8;&#x5D9;&#x5DD; &#x5DC;&#x5D3;&#x5D5;&#x5D2;&#x5DE;&#x5D4;</mm_text>
+    <mm_help>&#x5E7;&#x5D9;&#x5E9;&#x5D5;&#x5E8;&#x5D9;&#x5DD; &#x5DC;&#x5D3;&#x5D5;&#x5D2;&#x5DE;&#x5D4;</mm_help>
+  </sample_links>
+  <downloadable_link>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E7;&#x5D9;&#x5E9;&#x5D5;&#x5E8; &#x5DC;&#x5D4;&#x5D5;&#x5E8;&#x5D3;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E7;&#x5D9;&#x5E9;&#x5D5;&#x5E8; &#x5DC;&#x5D4;&#x5D5;&#x5E8;&#x5D3;&#x5D4;</mm_text>
+    <mm_help>&#x5E7;&#x5D9;&#x5E9;&#x5D5;&#x5E8; &#x5DC;&#x5D4;&#x5D5;&#x5E8;&#x5D3;&#x5D4;</mm_help>
+  </downloadable_link>
+  <oh_dear_its_empty_here>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D0;&#x5D9;&#x5DF; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5E9;&#x5DE;&#x5D5;&#x5E8;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D0;&#x5D9;&#x5DF; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5E9;&#x5DE;&#x5D5;&#x5E8;&#x5D4;</mm_text>
+    <mm_help>&#x5D0;&#x5D9;&#x5DF; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5E9;&#x5DE;&#x5D5;&#x5E8;&#x5D4;</mm_help>
+  </oh_dear_its_empty_here>
+  <to_add_address_tap_plus_button>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E9;&#x5DE;&#x5D5;&#x5E8; &#x5D0;&#x5EA; &#x5DE;&#x5D9;&#x5E7;&#x5D5;&#x5DE;&#x5D9; &#x5D4;&#x5DE;&#x5E1;&#x5D9;&#x5E8;&#x5D4; &#x5E9;&#x5DC;&#x5DA; &#x5DB;&#x5D3;&#x5D9; &#x5DC;&#x5D1;&#x5E6;&#x5E2; &#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D5;&#x5EA; &#x5DE;&#x5D4;&#x5E8; &#x5D9;&#x5D5;&#x5EA;&#x5E8;!</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E9;&#x5DE;&#x5D5;&#x5E8; &#x5D0;&#x5EA; &#x5DE;&#x5D9;&#x5E7;&#x5D5;&#x5DE;&#x5D9; &#x5D4;&#x5DE;&#x5E1;&#x5D9;&#x5E8;&#x5D4; &#x5E9;&#x5DC;&#x5DA; &#x5DB;&#x5D3;&#x5D9; &#x5DC;&#x5D1;&#x5E6;&#x5E2; &#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D5;&#x5EA; &#x5DE;&#x5D4;&#x5E8; &#x5D9;&#x5D5;&#x5EA;&#x5E8;!</mm_text>
+    <mm_help>&#x5E9;&#x5DE;&#x5D5;&#x5E8; &#x5D0;&#x5EA; &#x5DE;&#x5D9;&#x5E7;&#x5D5;&#x5DE;&#x5D9; &#x5D4;&#x5DE;&#x5E1;&#x5D9;&#x5E8;&#x5D4; &#x5E9;&#x5DC;&#x5DA; &#x5DB;&#x5D3;&#x5D9; &#x5DC;&#x5D1;&#x5E6;&#x5E2; &#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D5;&#x5EA; &#x5DE;&#x5D4;&#x5E8; &#x5D9;&#x5D5;&#x5EA;&#x5E8;!</mm_help>
+  </to_add_address_tap_plus_button>
+  <add_address>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5D5;&#x5E1;&#x5E3; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D5;&#x5E1;&#x5E3; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA;</mm_text>
+    <mm_help>&#x5D4;&#x5D5;&#x5E1;&#x5E3; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA;</mm_help>
+  </add_address>
+  <your_cart_is_empty>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5E2;&#x5D2;&#x5DC;&#x5D4; &#x5E9;&#x5DC;&#x5DA; &#x5E8;&#x5D9;&#x5E7;&#x5D4;!</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5E2;&#x5D2;&#x5DC;&#x5D4; &#x5E9;&#x5DC;&#x5DA; &#x5E8;&#x5D9;&#x5E7;&#x5D4;!</mm_text>
+    <mm_help>&#x5D4;&#x5E2;&#x5D2;&#x5DC;&#x5D4; &#x5E9;&#x5DC;&#x5DA; &#x5E8;&#x5D9;&#x5E7;&#x5D4;!</mm_help>
+  </your_cart_is_empty>
+  <you_dont_have_items_in_your_cart>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5D5;&#x5E1;&#x5E3; &#x5E4;&#x5E8;&#x5D9;&#x5D8;&#x5D9;&#x5DD; &#x5D0;&#x5DC;&#x5D9;&#x5D5; &#x5E2;&#x5DB;&#x5E9;&#x5D9;&#x5D5;.</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D5;&#x5E1;&#x5E3; &#x5E4;&#x5E8;&#x5D9;&#x5D8;&#x5D9;&#x5DD; &#x5D0;&#x5DC;&#x5D9;&#x5D5; &#x5E2;&#x5DB;&#x5E9;&#x5D9;&#x5D5;.</mm_text>
+    <mm_help>&#x5D4;&#x5D5;&#x5E1;&#x5E3; &#x5E4;&#x5E8;&#x5D9;&#x5D8;&#x5D9;&#x5DD; &#x5D0;&#x5DC;&#x5D9;&#x5D5; &#x5E2;&#x5DB;&#x5E9;&#x5D9;&#x5D5;.</mm_help>
+  </you_dont_have_items_in_your_cart>
+  <shop_now>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E7;&#x5E0;&#x5D4; &#x5E2;&#x5DB;&#x5E9;&#x5D9;&#x5D5;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E7;&#x5E0;&#x5D4; &#x5E2;&#x5DB;&#x5E9;&#x5D9;&#x5D5;</mm_text>
+    <mm_help>&#x5E7;&#x5E0;&#x5D4; &#x5E2;&#x5DB;&#x5E9;&#x5D9;&#x5D5;</mm_help>
+  </shop_now>
+  <nothing_here>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D0;&#x5D9;&#x5DF; &#x5D4;&#x5D5;&#x5D3;&#x5E2;&#x5D4; &#x5D7;&#x5D3;&#x5E9;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D0;&#x5D9;&#x5DF; &#x5D4;&#x5D5;&#x5D3;&#x5E2;&#x5D4; &#x5D7;&#x5D3;&#x5E9;&#x5D4;</mm_text>
+    <mm_help>&#x5D0;&#x5D9;&#x5DF; &#x5D4;&#x5D5;&#x5D3;&#x5E2;&#x5D4; &#x5D7;&#x5D3;&#x5E9;&#x5D4;</mm_help>
+  </nothing_here>
+  <we_will_let_you_know>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D0;&#x5E0;&#x5D5; &#x5E0;&#x5D5;&#x5D3;&#x5D9;&#x5E2; &#x5DC;&#x5DA; &#x5DB;&#x5E9;&#x5D9;&#x5E9; &#x5DC;&#x5E0;&#x5D5; &#x5DE;&#x5E9;&#x5D4;&#x5D5; &#x5D1;&#x5E9;&#x5D1;&#x5D9;&#x5DC;&#x5DA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D0;&#x5E0;&#x5D5; &#x5E0;&#x5D5;&#x5D3;&#x5D9;&#x5E2; &#x5DC;&#x5DA; &#x5DB;&#x5E9;&#x5D9;&#x5E9; &#x5DC;&#x5E0;&#x5D5; &#x5DE;&#x5E9;&#x5D4;&#x5D5; &#x5D1;&#x5E9;&#x5D1;&#x5D9;&#x5DC;&#x5DA;</mm_text>
+    <mm_help>&#x5D0;&#x5E0;&#x5D5; &#x5E0;&#x5D5;&#x5D3;&#x5D9;&#x5E2; &#x5DC;&#x5DA; &#x5DB;&#x5E9;&#x5D9;&#x5E9; &#x5DC;&#x5E0;&#x5D5; &#x5DE;&#x5E9;&#x5D4;&#x5D5; &#x5D1;&#x5E9;&#x5D1;&#x5D9;&#x5DC;&#x5DA;</mm_help>
+  </we_will_let_you_know>
+  <notification_settings>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5D2;&#x5D3;&#x5E8;&#x5D5;&#x5EA; &#x5D4;&#x5EA;&#x5E8;&#x5D0;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D2;&#x5D3;&#x5E8;&#x5D5;&#x5EA; &#x5D4;&#x5EA;&#x5E8;&#x5D0;&#x5D4;</mm_text>
+    <mm_help>&#x5D4;&#x5D2;&#x5D3;&#x5E8;&#x5D5;&#x5EA; &#x5D4;&#x5EA;&#x5E8;&#x5D0;&#x5D4;</mm_help>
+  </notification_settings>
+  <go_to_home>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DC;&#x5DA; &#x5D4;&#x5D1;&#x5D9;&#x5EA;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5DA; &#x5D4;&#x5D1;&#x5D9;&#x5EA;&#x5D4;</mm_text>
+    <mm_help>&#x5DC;&#x5DA; &#x5D4;&#x5D1;&#x5D9;&#x5EA;&#x5D4;</mm_help>
+  </go_to_home>
+  <you_can_keep_track_of_orders>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D0;&#x5EA;&#x5D4; &#x5D9;&#x5DB;&#x5D5;&#x5DC; &#x5DC;&#x5E2;&#x5E7;&#x5D5;&#x5D1; &#x5D0;&#x5D7;&#x5E8; &#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D0;&#x5EA;&#x5D4; &#x5D9;&#x5DB;&#x5D5;&#x5DC; &#x5DC;&#x5E2;&#x5E7;&#x5D5;&#x5D1; &#x5D0;&#x5D7;&#x5E8; &#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5D0;&#x5EA;&#x5D4; &#x5D9;&#x5DB;&#x5D5;&#x5DC; &#x5DC;&#x5E2;&#x5E7;&#x5D5;&#x5D1; &#x5D0;&#x5D7;&#x5E8; &#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D5;&#x5EA;</mm_help>
+  </you_can_keep_track_of_orders>
+  <no_products_found>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DC;&#x5D0; &#x5E0;&#x5DE;&#x5E6;&#x5D0;&#x5D5; &#x5DE;&#x5D5;&#x5E6;&#x5E8;&#x5D9;&#x5DD;!</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5D0; &#x5E0;&#x5DE;&#x5E6;&#x5D0;&#x5D5; &#x5DE;&#x5D5;&#x5E6;&#x5E8;&#x5D9;&#x5DD;!</mm_text>
+    <mm_help>&#x5DC;&#x5D0; &#x5E0;&#x5DE;&#x5E6;&#x5D0;&#x5D5; &#x5DE;&#x5D5;&#x5E6;&#x5E8;&#x5D9;&#x5DD;!</mm_help>
+  </no_products_found>
+  <we_could_not_find_product>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DC;&#x5D0; &#x5D4;&#x5E6;&#x5DC;&#x5D7;&#x5E0;&#x5D5; &#x5DC;&#x5DE;&#x5E6;&#x5D5;&#x5D0; &#x5DE;&#x5D5;&#x5E6;&#x5E8; &#x5DC;&#x5E9;&#x5D0;&#x5D9;&#x5DC;&#x5EA;&#x5D4; &#x5E9;&#x5DC;&#x5DA;. &#x5D0;&#x5EA;&#x5D4; &#x5E6;&#x5E8;&#x5D9;&#x5DA; &#x5DC;&#x5D4;&#x5EA;&#x5D0;&#x5D9;&#x5DD; &#x5D0;&#x5EA; &#x5E9;&#x5D0;&#x5D9;&#x5DC;&#x5EA;&#x5EA; &#x5D4;&#x5D7;&#x5D9;&#x5E4;&#x5D5;&#x5E9; &#x5E9;&#x5DC;&#x5DA; / &#x5DE;&#x5D9;&#x5DC;&#x5EA; &#x5DE;&#x5E4;&#x5EA;&#x5D7;.</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5D0; &#x5D4;&#x5E6;&#x5DC;&#x5D7;&#x5E0;&#x5D5; &#x5DC;&#x5DE;&#x5E6;&#x5D5;&#x5D0; &#x5DE;&#x5D5;&#x5E6;&#x5E8; &#x5DC;&#x5E9;&#x5D0;&#x5D9;&#x5DC;&#x5EA;&#x5D4; &#x5E9;&#x5DC;&#x5DA;. &#x5D0;&#x5EA;&#x5D4; &#x5E6;&#x5E8;&#x5D9;&#x5DA; &#x5DC;&#x5D4;&#x5EA;&#x5D0;&#x5D9;&#x5DD; &#x5D0;&#x5EA; &#x5E9;&#x5D0;&#x5D9;&#x5DC;&#x5EA;&#x5EA; &#x5D4;&#x5D7;&#x5D9;&#x5E4;&#x5D5;&#x5E9; &#x5E9;&#x5DC;&#x5DA; / &#x5DE;&#x5D9;&#x5DC;&#x5EA; &#x5DE;&#x5E4;&#x5EA;&#x5D7;.</mm_text>
+    <mm_help>&#x5DC;&#x5D0; &#x5D4;&#x5E6;&#x5DC;&#x5D7;&#x5E0;&#x5D5; &#x5DC;&#x5DE;&#x5E6;&#x5D5;&#x5D0; &#x5DE;&#x5D5;&#x5E6;&#x5E8; &#x5DC;&#x5E9;&#x5D0;&#x5D9;&#x5DC;&#x5EA;&#x5D4; &#x5E9;&#x5DC;&#x5DA;. &#x5D0;&#x5EA;&#x5D4; &#x5E6;&#x5E8;&#x5D9;&#x5DA; &#x5DC;&#x5D4;&#x5EA;&#x5D0;&#x5D9;&#x5DD; &#x5D0;&#x5EA; &#x5E9;&#x5D0;&#x5D9;&#x5DC;&#x5EA;&#x5EA; &#x5D4;&#x5D7;&#x5D9;&#x5E4;&#x5D5;&#x5E9; &#x5E9;&#x5DC;&#x5DA; / &#x5DE;&#x5D9;&#x5DC;&#x5EA; &#x5DE;&#x5E4;&#x5EA;&#x5D7;.</mm_help>
+  </we_could_not_find_product>
+  <we_could_not_find_requested_product>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DC;&#x5D0; &#x5D4;&#x5E6;&#x5DC;&#x5D7;&#x5E0;&#x5D5; &#x5DC;&#x5DE;&#x5E6;&#x5D5;&#x5D0; &#x5D0;&#x5EA; &#x5D4;&#x5DE;&#x5D5;&#x5E6;&#x5E8; &#x5D4;&#x5DE;&#x5D1;&#x5D5;&#x5E7;&#x5E9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5D0; &#x5D4;&#x5E6;&#x5DC;&#x5D7;&#x5E0;&#x5D5; &#x5DC;&#x5DE;&#x5E6;&#x5D5;&#x5D0; &#x5D0;&#x5EA; &#x5D4;&#x5DE;&#x5D5;&#x5E6;&#x5E8; &#x5D4;&#x5DE;&#x5D1;&#x5D5;&#x5E7;&#x5E9;</mm_text>
+    <mm_help>&#x5DC;&#x5D0; &#x5D4;&#x5E6;&#x5DC;&#x5D7;&#x5E0;&#x5D5; &#x5DC;&#x5DE;&#x5E6;&#x5D5;&#x5D0; &#x5D0;&#x5EA; &#x5D4;&#x5DE;&#x5D5;&#x5E6;&#x5E8; &#x5D4;&#x5DE;&#x5D1;&#x5D5;&#x5E7;&#x5E9;</mm_help>
+  </we_could_not_find_requested_product>
+  <go_back>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5EA;&#x5D7;&#x5D6;&#x5D5;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5EA;&#x5D7;&#x5D6;&#x5D5;&#x5E8;</mm_text>
+    <mm_help>&#x5EA;&#x5D7;&#x5D6;&#x5D5;&#x5E8;</mm_help>
+  </go_back>
+  <your_wishlist_is_empty>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5EA; &#x5D4;&#x5DE;&#x5E9;&#x5D0;&#x5DC;&#x5D5;&#x5EA; &#x5E9;&#x5DC;&#x5DA; &#x5E8;&#x5D9;&#x5E7;&#x5D4;!</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5EA; &#x5D4;&#x5DE;&#x5E9;&#x5D0;&#x5DC;&#x5D5;&#x5EA; &#x5E9;&#x5DC;&#x5DA; &#x5E8;&#x5D9;&#x5E7;&#x5D4;!</mm_text>
+    <mm_help>&#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5EA; &#x5D4;&#x5DE;&#x5E9;&#x5D0;&#x5DC;&#x5D5;&#x5EA; &#x5E9;&#x5DC;&#x5DA; &#x5E8;&#x5D9;&#x5E7;&#x5D4;!</mm_help>
+  </your_wishlist_is_empty>
+  <explore_more>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D7;&#x5E7;&#x5D5;&#x5E8; &#x5E2;&#x5D5;&#x5D3; &#x5D5;&#x5E2;&#x5D5;&#x5D3; &#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5D4; &#x5E9;&#x5DC; &#x5E4;&#x5E8;&#x5D9;&#x5D8;&#x5D9;&#x5DD;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D7;&#x5E7;&#x5D5;&#x5E8; &#x5E2;&#x5D5;&#x5D3; &#x5D5;&#x5E2;&#x5D5;&#x5D3; &#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5D4; &#x5E9;&#x5DC; &#x5E4;&#x5E8;&#x5D9;&#x5D8;&#x5D9;&#x5DD;</mm_text>
+    <mm_help>&#x5D7;&#x5E7;&#x5D5;&#x5E8; &#x5E2;&#x5D5;&#x5D3; &#x5D5;&#x5E2;&#x5D5;&#x5D3; &#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5D4; &#x5E9;&#x5DC; &#x5E4;&#x5E8;&#x5D9;&#x5D8;&#x5D9;&#x5DD;</mm_help>
+  </explore_more>
+  <start_exploring>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5EA;&#x5D7;&#x5DC; &#x5DC;&#x5D7;&#x5E7;&#x5D5;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5EA;&#x5D7;&#x5DC; &#x5DC;&#x5D7;&#x5E7;&#x5D5;&#x5E8;</mm_text>
+    <mm_help>&#x5D4;&#x5EA;&#x5D7;&#x5DC; &#x5DC;&#x5D7;&#x5E7;&#x5D5;&#x5E8;</mm_help>
+  </start_exploring>
+  <sort>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E1;&#x5D5;&#x5D2;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E1;&#x5D5;&#x5D2;</mm_text>
+    <mm_help>&#x5E1;&#x5D5;&#x5D2;</mm_help>
+  </sort>
+  <filters>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5E1;&#x5E0;&#x5E0;&#x5D9;&#x5DD;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5E1;&#x5E0;&#x5E0;&#x5D9;&#x5DD;</mm_text>
+    <mm_help>&#x5DE;&#x5E1;&#x5E0;&#x5E0;&#x5D9;&#x5DD;</mm_help>
+  </filters>
+  <masonry_view>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5EA;&#x5E6;&#x5D5;&#x5D2;&#x5EA; &#x5E8;&#x5E9;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5EA;&#x5E6;&#x5D5;&#x5D2;&#x5EA; &#x5E8;&#x5E9;&#x5EA;</mm_text>
+    <mm_help>&#x5EA;&#x5E6;&#x5D5;&#x5D2;&#x5EA; &#x5E8;&#x5E9;&#x5EA;</mm_help>
+  </masonry_view>
+  <grid_view>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5EA;&#x5E6;&#x5D5;&#x5D2;&#x5EA; &#x5E8;&#x5E9;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5EA;&#x5E6;&#x5D5;&#x5D2;&#x5EA; &#x5E8;&#x5E9;&#x5EA;</mm_text>
+    <mm_help>&#x5EA;&#x5E6;&#x5D5;&#x5D2;&#x5EA; &#x5E8;&#x5E9;&#x5EA;</mm_help>
+  </grid_view>
+  <list_view>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5EA;&#x5E6;&#x5D5;&#x5D2;&#x5EA; &#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5EA;&#x5E6;&#x5D5;&#x5D2;&#x5EA; &#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5D4;</mm_text>
+    <mm_help>&#x5EA;&#x5E6;&#x5D5;&#x5D2;&#x5EA; &#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5D4;</mm_help>
+  </list_view>
+  <full_view>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5EA;&#x5E6;&#x5D5;&#x5D2;&#x5D4; &#x5DE;&#x5DC;&#x5D0;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5EA;&#x5E6;&#x5D5;&#x5D2;&#x5D4; &#x5DE;&#x5DC;&#x5D0;&#x5D4;</mm_text>
+    <mm_help>&#x5EA;&#x5E6;&#x5D5;&#x5D2;&#x5D4; &#x5DE;&#x5DC;&#x5D0;&#x5D4;</mm_help>
+  </full_view>
+  <search_placeholder>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5D6;&#x5DF; &#x5D0;&#x5EA; &#x5DE;&#x5D9;&#x5DC;&#x5EA; &#x5D4;&#x5DE;&#x5E4;&#x5EA;&#x5D7; &#x5E9;&#x5DC;&#x5DA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D6;&#x5DF; &#x5D0;&#x5EA; &#x5DE;&#x5D9;&#x5DC;&#x5EA; &#x5D4;&#x5DE;&#x5E4;&#x5EA;&#x5D7; &#x5E9;&#x5DC;&#x5DA;</mm_text>
+    <mm_help>&#x5D4;&#x5D6;&#x5DF; &#x5D0;&#x5EA; &#x5DE;&#x5D9;&#x5DC;&#x5EA; &#x5D4;&#x5DE;&#x5E4;&#x5EA;&#x5D7; &#x5E9;&#x5DC;&#x5DA;</mm_help>
+  </search_placeholder>
+  <search_product>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D7;&#x5E4;&#x5E9; &#x5DE;&#x5D5;&#x5E6;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D7;&#x5E4;&#x5E9; &#x5DE;&#x5D5;&#x5E6;&#x5E8;</mm_text>
+    <mm_help>&#x5D7;&#x5E4;&#x5E9; &#x5DE;&#x5D5;&#x5E6;&#x5E8;</mm_help>
+  </search_product>
+  <welcome>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D1;&#x5E8;&#x5D5;&#x5DA; &#x5D4;&#x5D1;&#x5D0;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D1;&#x5E8;&#x5D5;&#x5DA; &#x5D4;&#x5D1;&#x5D0;</mm_text>
+    <mm_help>&#x5D1;&#x5E8;&#x5D5;&#x5DA; &#x5D4;&#x5D1;&#x5D0;</mm_help>
+  </welcome>
+  <login_signup>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5EA;&#x5D7;&#x5D1;&#x5E8;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5EA;&#x5D7;&#x5D1;&#x5E8;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5D4;&#x5EA;&#x5D7;&#x5D1;&#x5E8;&#x5D5;&#x5EA;</mm_help>
+  </login_signup>
+  <view_more>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E8;&#x5D0;&#x5D4; &#x5E2;&#x5D5;&#x5D3;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E8;&#x5D0;&#x5D4; &#x5E2;&#x5D5;&#x5D3;</mm_text>
+    <mm_help>&#x5E8;&#x5D0;&#x5D4; &#x5E2;&#x5D5;&#x5D3;</mm_help>
+  </view_more>
+  <info>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E2;&#x5DC;&#x5D9;&#x5E0;&#x5D5;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E2;&#x5DC;&#x5D9;&#x5E0;&#x5D5;</mm_text>
+    <mm_help>&#x5E2;&#x5DC;&#x5D9;&#x5E0;&#x5D5;</mm_help>
+  </info>
+  <call_us>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5EA;&#x5E7;&#x5E9;&#x5E8; &#x5D0;&#x5DC;&#x5D9;&#x5E0;&#x5D5;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5EA;&#x5E7;&#x5E9;&#x5E8; &#x5D0;&#x5DC;&#x5D9;&#x5E0;&#x5D5;</mm_text>
+    <mm_help>&#x5D4;&#x5EA;&#x5E7;&#x5E9;&#x5E8; &#x5D0;&#x5DC;&#x5D9;&#x5E0;&#x5D5;</mm_help>
+  </call_us>
+  <write_to_us>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E9;&#x5DC;&#x5D7; &#x5DC;&#x5E0;&#x5D5; &#x5DE;&#x5D9;&#x5D9;&#x5DC;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E9;&#x5DC;&#x5D7; &#x5DC;&#x5E0;&#x5D5; &#x5DE;&#x5D9;&#x5D9;&#x5DC;</mm_text>
+    <mm_help>&#x5E9;&#x5DC;&#x5D7; &#x5DC;&#x5E0;&#x5D5; &#x5DE;&#x5D9;&#x5D9;&#x5DC;</mm_help>
+  </write_to_us>
+  <rate_app>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D3;&#x5E8;&#x5D2; &#x5D0;&#x5E4;&#x5DC;&#x5D9;&#x5E7;&#x5E6;&#x5D9;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D3;&#x5E8;&#x5D2; &#x5D0;&#x5E4;&#x5DC;&#x5D9;&#x5E7;&#x5E6;&#x5D9;&#x5D4;</mm_text>
+    <mm_help>&#x5D3;&#x5E8;&#x5D2; &#x5D0;&#x5E4;&#x5DC;&#x5D9;&#x5E7;&#x5E6;&#x5D9;&#x5D4;</mm_help>
+  </rate_app>
+  <send_app_feedback>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E9;&#x5DC;&#x5D7; &#x5DE;&#x5E9;&#x5D5;&#x5D1; &#x5E2;&#x5DC; &#x5D0;&#x5E4;&#x5DC;&#x5D9;&#x5E7;&#x5E6;&#x5D9;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E9;&#x5DC;&#x5D7; &#x5DE;&#x5E9;&#x5D5;&#x5D1; &#x5E2;&#x5DC; &#x5D0;&#x5E4;&#x5DC;&#x5D9;&#x5E7;&#x5E6;&#x5D9;&#x5D4;</mm_text>
+    <mm_help>&#x5E9;&#x5DC;&#x5D7; &#x5DE;&#x5E9;&#x5D5;&#x5D1; &#x5E2;&#x5DC; &#x5D0;&#x5E4;&#x5DC;&#x5D9;&#x5E7;&#x5E6;&#x5D9;&#x5D4;</mm_help>
+  </send_app_feedback>
+  <share_app>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E9;&#x5EA;&#x5E3; &#x5D0;&#x5EA; &#x5D4;&#x5D0;&#x5E4;&#x5DC;&#x5D9;&#x5E7;&#x5E6;&#x5D9;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E9;&#x5EA;&#x5E3; &#x5D0;&#x5EA; &#x5D4;&#x5D0;&#x5E4;&#x5DC;&#x5D9;&#x5E7;&#x5E6;&#x5D9;&#x5D4;</mm_text>
+    <mm_help>&#x5E9;&#x5EA;&#x5E3; &#x5D0;&#x5EA; &#x5D4;&#x5D0;&#x5E4;&#x5DC;&#x5D9;&#x5E7;&#x5E6;&#x5D9;&#x5D4;</mm_help>
+  </share_app>
+  <follow_us>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DC;&#x5E2;&#x5E7;&#x5D5;&#x5D1; &#x5D0;&#x5D7;&#x5E8;&#x5D9;&#x5E0;&#x5D5;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5E2;&#x5E7;&#x5D5;&#x5D1; &#x5D0;&#x5D7;&#x5E8;&#x5D9;&#x5E0;&#x5D5;</mm_text>
+    <mm_help>&#x5DC;&#x5E2;&#x5E7;&#x5D5;&#x5D1; &#x5D0;&#x5D7;&#x5E8;&#x5D9;&#x5E0;&#x5D5;</mm_help>
+  </follow_us>
+  <password>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D4;</mm_text>
+    <mm_help>&#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D4;</mm_help>
+  </password>
+  <login>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5EA;&#x5D7;&#x5D1;&#x5E8;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5EA;&#x5D7;&#x5D1;&#x5E8;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5D4;&#x5EA;&#x5D7;&#x5D1;&#x5E8;&#x5D5;&#x5EA;</mm_help>
+  </login>
+  <register_now>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5D9;&#x5E8;&#x5E9;&#x5DD; &#x5E2;&#x5DB;&#x5E9;&#x5D9;&#x5D5;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D9;&#x5E8;&#x5E9;&#x5DD; &#x5E2;&#x5DB;&#x5E9;&#x5D9;&#x5D5;</mm_text>
+    <mm_help>&#x5D4;&#x5D9;&#x5E8;&#x5E9;&#x5DD; &#x5E2;&#x5DB;&#x5E9;&#x5D9;&#x5D5;</mm_help>
+  </register_now>
+  <forgot_password>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E9;&#x5DB;&#x5D7;&#x5EA; &#x5D0;&#x5EA; &#x5D4;&#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D0;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E9;&#x5DB;&#x5D7;&#x5EA; &#x5D0;&#x5EA; &#x5D4;&#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D0;</mm_text>
+    <mm_help>&#x5E9;&#x5DB;&#x5D7;&#x5EA; &#x5D0;&#x5EA; &#x5D4;&#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D0;</mm_help>
+  </forgot_password>
+  <male>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D6;&#x5B8;&#x5DB;&#x5B8;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D6;&#x5B8;&#x5DB;&#x5B8;&#x5E8;</mm_text>
+    <mm_help>&#x5D6;&#x5B8;&#x5DB;&#x5B8;&#x5E8;</mm_help>
+  </male>
+  <female>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E0;&#x5B0;&#x5E7;&#x5B5;&#x5D1;&#x5B8;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E0;&#x5B0;&#x5E7;&#x5B5;&#x5D1;&#x5B8;&#x5D4;</mm_text>
+    <mm_help>&#x5E0;&#x5B0;&#x5E7;&#x5B5;&#x5D1;&#x5B8;&#x5D4;</mm_help>
+  </female>
+  <already_have_account>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5E9;&#x5EA;&#x5DE;&#x5E9; &#x5E7;&#x5D9;&#x5D9;&#x5DD;?</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5E9;&#x5EA;&#x5DE;&#x5E9; &#x5E7;&#x5D9;&#x5D9;&#x5DD;?</mm_text>
+    <mm_help>&#x5DE;&#x5E9;&#x5EA;&#x5DE;&#x5E9; &#x5E7;&#x5D9;&#x5D9;&#x5DD;?</mm_help>
+  </already_have_account>
+  <submit>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E9;&#x5DC;&#x5D7;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E9;&#x5DC;&#x5D7;</mm_text>
+    <mm_help>&#x5E9;&#x5DC;&#x5D7;</mm_help>
+  </submit>
+  <or_login_with>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D0;&#x5D5; &#x5DC;&#x5D4;&#x5EA;&#x5D7;&#x5D1;&#x5E8; &#x5E2;&#x5DD;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D0;&#x5D5; &#x5DC;&#x5D4;&#x5EA;&#x5D7;&#x5D1;&#x5E8; &#x5E2;&#x5DD;</mm_text>
+    <mm_help>&#x5D0;&#x5D5; &#x5DC;&#x5D4;&#x5EA;&#x5D7;&#x5D1;&#x5E8; &#x5E2;&#x5DD;</mm_help>
+  </or_login_with>
+  <checkout_as_guest>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E6;&#x5D0; &#x5DB;&#x5D0;&#x5D5;&#x5E8;&#x5D7;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E6;&#x5D0; &#x5DB;&#x5D0;&#x5D5;&#x5E8;&#x5D7;</mm_text>
+    <mm_help>&#x5E6;&#x5D0; &#x5DB;&#x5D0;&#x5D5;&#x5E8;&#x5D7;</mm_help>
+  </checkout_as_guest>
+  <order_history>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D5;&#x5EA; &#x5E9;&#x5DC;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D5;&#x5EA; &#x5E9;&#x5DC;&#x5D9;</mm_text>
+    <mm_help>&#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D5;&#x5EA; &#x5E9;&#x5DC;&#x5D9;</mm_help>
+  </order_history>
+  <wishlist>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5EA; &#x5DE;&#x5E9;&#x5D0;&#x5DC;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5EA; &#x5DE;&#x5E9;&#x5D0;&#x5DC;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5EA; &#x5DE;&#x5E9;&#x5D0;&#x5DC;&#x5D5;&#x5EA;</mm_help>
+  </wishlist>
+  <address_book>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E4;&#x5E0;&#x5E7;&#x5E1; &#x5D4;&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E4;&#x5E0;&#x5E7;&#x5E1; &#x5D4;&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5E4;&#x5E0;&#x5E7;&#x5E1; &#x5D4;&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5D5;&#x5EA;</mm_help>
+  </address_book>
+  <change_password>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E9;&#x5E0;&#x5D4; &#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D0;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E9;&#x5E0;&#x5D4; &#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D0;</mm_text>
+    <mm_help>&#x5E9;&#x5E0;&#x5D4; &#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D0;</mm_help>
+  </change_password>
+  <preferences>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5E2;&#x5D3;&#x5E4;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5E2;&#x5D3;&#x5E4;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5D4;&#x5E2;&#x5D3;&#x5E4;&#x5D5;&#x5EA;</mm_help>
+  </preferences>
+  <logout>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DC;&#x5D4;&#x5EA;&#x5E0;&#x5EA;&#x5E7;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5D4;&#x5EA;&#x5E0;&#x5EA;&#x5E7;</mm_text>
+    <mm_help>&#x5DC;&#x5D4;&#x5EA;&#x5E0;&#x5EA;&#x5E7;</mm_help>
+  </logout>
+  <check_internet_connection_label>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D1;&#x5D3;&#x5D5;&#x5E7; &#x5D0;&#x5DD; &#x5D4;&#x5DE;&#x5DB;&#x5E9;&#x5D9;&#x5E8; &#x5DE;&#x5D7;&#x5D5;&#x5D1;&#x5E8; &#x5DC;&#x5D7;&#x5D9;&#x5D1;&#x5D5;&#x5E8; &#x5DC;&#x5D0;&#x5D9;&#x5E0;&#x5D8;&#x5E8;&#x5E0;&#x5D8; (&#x5E8;&#x5E9;&#x5EA; &#x5DC;&#x5E0;&#x5D9;&#x5D9;&#x5D3; &#x5D0;&#x5D5; WiFi)</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D1;&#x5D3;&#x5D5;&#x5E7; &#x5D0;&#x5DD; &#x5D4;&#x5DE;&#x5DB;&#x5E9;&#x5D9;&#x5E8; &#x5DE;&#x5D7;&#x5D5;&#x5D1;&#x5E8; &#x5DC;&#x5D7;&#x5D9;&#x5D1;&#x5D5;&#x5E8; &#x5DC;&#x5D0;&#x5D9;&#x5E0;&#x5D8;&#x5E8;&#x5E0;&#x5D8; (&#x5E8;&#x5E9;&#x5EA; &#x5DC;&#x5E0;&#x5D9;&#x5D9;&#x5D3; &#x5D0;&#x5D5; WiFi)</mm_text>
+    <mm_help>&#x5D1;&#x5D3;&#x5D5;&#x5E7; &#x5D0;&#x5DD; &#x5D4;&#x5DE;&#x5DB;&#x5E9;&#x5D9;&#x5E8; &#x5DE;&#x5D7;&#x5D5;&#x5D1;&#x5E8; &#x5DC;&#x5D7;&#x5D9;&#x5D1;&#x5D5;&#x5E8; &#x5DC;&#x5D0;&#x5D9;&#x5E0;&#x5D8;&#x5E8;&#x5E0;&#x5D8; (&#x5E8;&#x5E9;&#x5EA; &#x5DC;&#x5E0;&#x5D9;&#x5D9;&#x5D3; &#x5D0;&#x5D5; WiFi)</mm_help>
+  </check_internet_connection_label>
+  <try_again>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E0;&#x5E1;&#x5D4; &#x5E9;&#x5D5;&#x5D1;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E0;&#x5E1;&#x5D4; &#x5E9;&#x5D5;&#x5D1;</mm_text>
+    <mm_help>&#x5E0;&#x5E1;&#x5D4; &#x5E9;&#x5D5;&#x5D1;</mm_help>
+  </try_again>
+  <reorder>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DC;&#x5D4;&#x5D6;&#x5DE;&#x5D9;&#x5DF; &#x5DE;&#x5D7;&#x5D3;&#x5E9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5D4;&#x5D6;&#x5DE;&#x5D9;&#x5DF; &#x5DE;&#x5D7;&#x5D3;&#x5E9;</mm_text>
+    <mm_help>&#x5DC;&#x5D4;&#x5D6;&#x5DE;&#x5D9;&#x5DF; &#x5DE;&#x5D7;&#x5D3;&#x5E9;</mm_help>
+  </reorder>
+  <order_date>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5D5;&#x5E8;&#x5D4; &#x5E2;&#x5DC;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D5;&#x5E8;&#x5D4; &#x5E2;&#x5DC;</mm_text>
+    <mm_help>&#x5D4;&#x5D5;&#x5E8;&#x5D4; &#x5E2;&#x5DC;</mm_help>
+  </order_date>
+  <shipping_method>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E9;&#x5D9;&#x5D8;&#x5EA; &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E9;&#x5D9;&#x5D8;&#x5EA; &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_text>
+    <mm_help>&#x5E9;&#x5D9;&#x5D8;&#x5EA; &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_help>
+  </shipping_method>
+  <no_shipping_methods_available>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D0;&#x5D9;&#x5DF; &#x5E9;&#x5D9;&#x5D8;&#x5EA; &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7; &#x5D6;&#x5DE;&#x5D9;&#x5E0;&#x5D4; &#x5E2;&#x5D1;&#x5D5;&#x5E8; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5DE;&#x5E1;&#x5D5;&#x5E4;&#x5E7;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D0;&#x5D9;&#x5DF; &#x5E9;&#x5D9;&#x5D8;&#x5EA; &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7; &#x5D6;&#x5DE;&#x5D9;&#x5E0;&#x5D4; &#x5E2;&#x5D1;&#x5D5;&#x5E8; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5DE;&#x5E1;&#x5D5;&#x5E4;&#x5E7;&#x5EA;</mm_text>
+    <mm_help>&#x5D0;&#x5D9;&#x5DF; &#x5E9;&#x5D9;&#x5D8;&#x5EA; &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7; &#x5D6;&#x5DE;&#x5D9;&#x5E0;&#x5D4; &#x5E2;&#x5D1;&#x5D5;&#x5E8; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5DE;&#x5E1;&#x5D5;&#x5E4;&#x5E7;&#x5EA;</mm_help>
+  </no_shipping_methods_available>
+  <write_review>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D3;&#x5E8;&#x5D2; &#x5E1;&#x5E7;&#x5D9;&#x5E8;&#x5D4; &#x5DE;&#x5D5;&#x5E6;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D3;&#x5E8;&#x5D2; &#x5E1;&#x5E7;&#x5D9;&#x5E8;&#x5D4; &#x5DE;&#x5D5;&#x5E6;&#x5E8;</mm_text>
+    <mm_help>&#x5D3;&#x5E8;&#x5D2; &#x5E1;&#x5E7;&#x5D9;&#x5E8;&#x5D4; &#x5DE;&#x5D5;&#x5E6;&#x5E8;</mm_help>
+  </write_review>
+  <delivery>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E2;&#x5DC;&#x5D5;&#x5D9;&#x5D5;&#x5EA; &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E2;&#x5DC;&#x5D5;&#x5D9;&#x5D5;&#x5EA; &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_text>
+    <mm_help>&#x5E2;&#x5DC;&#x5D5;&#x5D9;&#x5D5;&#x5EA; &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_help>
+  </delivery>
+  <ordered_items>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E4;&#x5E8;&#x5D9;&#x5D8;&#x5D9;&#x5DD; &#x5DE;&#x5D5;&#x5D6;&#x5DE;&#x5E0;&#x5D9;&#x5DD;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E4;&#x5E8;&#x5D9;&#x5D8;&#x5D9;&#x5DD; &#x5DE;&#x5D5;&#x5D6;&#x5DE;&#x5E0;&#x5D9;&#x5DD;</mm_text>
+    <mm_help>&#x5E4;&#x5E8;&#x5D9;&#x5D8;&#x5D9;&#x5DD; &#x5DE;&#x5D5;&#x5D6;&#x5DE;&#x5E0;&#x5D9;&#x5DD;</mm_help>
+  </ordered_items>
+  <total>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E1;&#x5D4;"&#x5DB;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E1;&#x5D4;&amp;amp;quot;&#x5DB;</mm_text>
+    <mm_help>&#x5E1;&#x5D4;&amp;amp;quot;&#x5DB;</mm_help>
+  </total>
+  <total_qty>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E4;&#x5E8;&#x5D9;&#x5D8;&#x5D9;&#x5DD;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E4;&#x5E8;&#x5D9;&#x5D8;&#x5D9;&#x5DD;</mm_text>
+    <mm_help>&#x5E4;&#x5E8;&#x5D9;&#x5D8;&#x5D9;&#x5DD;</mm_help>
+  </total_qty>
+  <credit_card_type>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E1;&#x5D5;&#x5D2; &#x5DB;&#x5E8;&#x5D8;&#x5D9;&#x5E1; &#x5D0;&#x5E9;&#x5E8;&#x5D0;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E1;&#x5D5;&#x5D2; &#x5DB;&#x5E8;&#x5D8;&#x5D9;&#x5E1; &#x5D0;&#x5E9;&#x5E8;&#x5D0;&#x5D9;</mm_text>
+    <mm_help>&#x5E1;&#x5D5;&#x5D2; &#x5DB;&#x5E8;&#x5D8;&#x5D9;&#x5E1; &#x5D0;&#x5E9;&#x5E8;&#x5D0;&#x5D9;</mm_help>
+  </credit_card_type>
+  <name_on_card>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E9;&#x5DD; &#x5E2;&#x5DC; &#x5DB;&#x5E8;&#x5D8;&#x5D9;&#x5E1;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E9;&#x5DD; &#x5E2;&#x5DC; &#x5DB;&#x5E8;&#x5D8;&#x5D9;&#x5E1;</mm_text>
+    <mm_help>&#x5E9;&#x5DD; &#x5E2;&#x5DC; &#x5DB;&#x5E8;&#x5D8;&#x5D9;&#x5E1;</mm_help>
+  </name_on_card>
+  <credit_card_number>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5E1;&#x5E4;&#x5E8; &#x5DB;&#x5E8;&#x5D8;&#x5D9;&#x5E1; &#x5D0;&#x5E9;&#x5E8;&#x5D0;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5E1;&#x5E4;&#x5E8; &#x5DB;&#x5E8;&#x5D8;&#x5D9;&#x5E1; &#x5D0;&#x5E9;&#x5E8;&#x5D0;&#x5D9;</mm_text>
+    <mm_help>&#x5DE;&#x5E1;&#x5E4;&#x5E8; &#x5DB;&#x5E8;&#x5D8;&#x5D9;&#x5E1; &#x5D0;&#x5E9;&#x5E8;&#x5D0;&#x5D9;</mm_help>
+  </credit_card_number>
+  <month>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D7;&#x5D5;&#x5B9;&#x5D3;&#x5B6;&#x5E9;&#x5C1;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D7;&#x5D5;&#x5B9;&#x5D3;&#x5B6;&#x5E9;&#x5C1;</mm_text>
+    <mm_help>&#x5D7;&#x5D5;&#x5B9;&#x5D3;&#x5B6;&#x5E9;&#x5C1;</mm_help>
+  </month>
+  <year>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E9;&#x5C1;&#x5B8;&#x5E0;&#x5B8;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E9;&#x5C1;&#x5B8;&#x5E0;&#x5B8;&#x5D4;</mm_text>
+    <mm_help>&#x5E9;&#x5C1;&#x5B8;&#x5E0;&#x5B8;&#x5D4;</mm_help>
+  </year>
+  <cvv>
+    <mm_type>label</mm_type>
+    <mm_label>CVV</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>CVV</mm_text>
+    <mm_help>CVV</mm_help>
+  </cvv>
+  <edit>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DC;&#x5B7;&#x5E2;&#x5B2;&#x5E8;&#x5D5;&#x5B9;&#x5DA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5B7;&#x5E2;&#x5B2;&#x5E8;&#x5D5;&#x5B9;&#x5DA;</mm_text>
+    <mm_help>&#x5DC;&#x5B7;&#x5E2;&#x5B2;&#x5E8;&#x5D5;&#x5B9;&#x5DA;</mm_help>
+  </edit>
+  <account>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5D7;&#x5E9;&#x5D1;&#x5D5;&#x5DF; &#x5E9;&#x5DC;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D7;&#x5E9;&#x5D1;&#x5D5;&#x5DF; &#x5E9;&#x5DC;&#x5D9;</mm_text>
+    <mm_help>&#x5D4;&#x5D7;&#x5E9;&#x5D1;&#x5D5;&#x5DF; &#x5E9;&#x5DC;&#x5D9;</mm_help>
+  </account>
+  <notifications>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5EA;&#x5E8;&#x5D0;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5EA;&#x5E8;&#x5D0;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5D4;&#x5EA;&#x5E8;&#x5D0;&#x5D5;&#x5EA;</mm_help>
+  </notifications>
+  <description>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5EA;&#x5D9;&#x5D0;&#x5D5;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5EA;&#x5D9;&#x5D0;&#x5D5;&#x5E8;</mm_text>
+    <mm_help>&#x5EA;&#x5D9;&#x5D0;&#x5D5;&#x5E8;</mm_help>
+  </description>
+  <additional_information>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5D9;&#x5D3;&#x5E2; &#x5E0;&#x5D5;&#x5E1;&#x5E3;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5D9;&#x5D3;&#x5E2; &#x5E0;&#x5D5;&#x5E1;&#x5E3;</mm_text>
+    <mm_help>&#x5DE;&#x5D9;&#x5D3;&#x5E2; &#x5E0;&#x5D5;&#x5E1;&#x5E3;</mm_help>
+  </additional_information>
+  <push_notifications>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D0;&#x5E4;&#x5E9;&#x5E8; &#x5D4;&#x5D5;&#x5D3;&#x5E2;&#x5D5;&#x5EA; &#x5D3;&#x5D7;&#x5D9;&#x5E4;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D0;&#x5E4;&#x5E9;&#x5E8; &#x5D4;&#x5D5;&#x5D3;&#x5E2;&#x5D5;&#x5EA; &#x5D3;&#x5D7;&#x5D9;&#x5E4;&#x5D4;</mm_text>
+    <mm_help>&#x5D0;&#x5E4;&#x5E9;&#x5E8; &#x5D4;&#x5D5;&#x5D3;&#x5E2;&#x5D5;&#x5EA; &#x5D3;&#x5D7;&#x5D9;&#x5E4;&#x5D4;</mm_help>
+  </push_notifications>
+  <store>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D7;&#x5B2;&#x5E0;&#x5D5;&#x5BC;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D7;&#x5B2;&#x5E0;&#x5D5;&#x5BC;&#x5EA;</mm_text>
+    <mm_help>&#x5D7;&#x5B2;&#x5E0;&#x5D5;&#x5BC;&#x5EA;</mm_help>
+  </store>
+  <currency>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5B7;&#x5D8;&#x5B0;&#x5D1;&#x5BC;&#x5B5;&#x5E2;&#x5B7;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5B7;&#x5D8;&#x5B0;&#x5D1;&#x5BC;&#x5B5;&#x5E2;&#x5B7;</mm_text>
+    <mm_help>&#x5DE;&#x5B7;&#x5D8;&#x5B0;&#x5D1;&#x5BC;&#x5B5;&#x5E2;&#x5B7;</mm_help>
+  </currency>
+  <add_to_cart>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5D5;&#x5E1;&#x5E3; &#x5DC;&#x5E2;&#x5D2;&#x5DC;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D5;&#x5E1;&#x5E3; &#x5DC;&#x5E2;&#x5D2;&#x5DC;&#x5D4;</mm_text>
+    <mm_help>&#x5D4;&#x5D5;&#x5E1;&#x5E3; &#x5DC;&#x5E2;&#x5D2;&#x5DC;&#x5D4;</mm_help>
+  </add_to_cart>
+  <add_to_wishlist>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5D5;&#x5E1;&#x5E3; &#x5DC;&#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5EA; &#x5DE;&#x5E9;&#x5D0;&#x5DC;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D5;&#x5E1;&#x5E3; &#x5DC;&#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5EA; &#x5DE;&#x5E9;&#x5D0;&#x5DC;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5D4;&#x5D5;&#x5E1;&#x5E3; &#x5DC;&#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5EA; &#x5DE;&#x5E9;&#x5D0;&#x5DC;&#x5D5;&#x5EA;</mm_help>
+  </add_to_wishlist>
+  <buy_now>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E7;&#x5E0;&#x5D4; &#x5E2;&#x5DB;&#x5E9;&#x5D9;&#x5D5;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E7;&#x5E0;&#x5D4; &#x5E2;&#x5DB;&#x5E9;&#x5D9;&#x5D5;</mm_text>
+    <mm_help>&#x5E7;&#x5E0;&#x5D4; &#x5E2;&#x5DB;&#x5E9;&#x5D9;&#x5D5;</mm_help>
+  </buy_now>
+  <out_of_stock>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D0;&#x5D6;&#x5DC; &#x5D1;&#x5DE;&#x5DC;&#x5D0;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D0;&#x5D6;&#x5DC; &#x5D1;&#x5DE;&#x5DC;&#x5D0;&#x5D9;</mm_text>
+    <mm_help>&#x5D0;&#x5D6;&#x5DC; &#x5D1;&#x5DE;&#x5DC;&#x5D0;&#x5D9;</mm_help>
+  </out_of_stock>
+  <off>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DB;&#x5D1;&#x5D5;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DB;&#x5D1;&#x5D5;&#x5D9;</mm_text>
+    <mm_help>&#x5DB;&#x5D1;&#x5D5;&#x5D9;</mm_help>
+  </off>
+  <share>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DC;&#x5B7;&#x5D7;&#x5B2;&#x5DC;&#x5D5;&#x5B9;&#x5E7;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5B7;&#x5D7;&#x5B2;&#x5DC;&#x5D5;&#x5B9;&#x5E7;</mm_text>
+    <mm_help>&#x5DC;&#x5B7;&#x5D7;&#x5B2;&#x5DC;&#x5D5;&#x5B9;&#x5E7;</mm_help>
+  </share>
+  <item_details>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E4;&#x5E8;&#x5D8;&#x5D9; &#x5D4;&#x5E4;&#x5E8;&#x5D9;&#x5D8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E4;&#x5E8;&#x5D8;&#x5D9; &#x5D4;&#x5E4;&#x5E8;&#x5D9;&#x5D8;</mm_text>
+    <mm_help>&#x5E4;&#x5E8;&#x5D8;&#x5D9; &#x5D4;&#x5E4;&#x5E8;&#x5D9;&#x5D8;</mm_help>
+  </item_details>
+  <know_more>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D9;&#x5D5;&#x5D3;&#x5E2; &#x5D9;&#x5D5;&#x5EA;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D9;&#x5D5;&#x5D3;&#x5E2; &#x5D9;&#x5D5;&#x5EA;&#x5E8;</mm_text>
+    <mm_help>&#x5D9;&#x5D5;&#x5D3;&#x5E2; &#x5D9;&#x5D5;&#x5EA;&#x5E8;</mm_help>
+  </know_more>
+  <customer_rating_and_reviews>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D3;&#x5D9;&#x5E8;&#x5D5;&#x5D2; &#x5DC;&#x5E7;&#x5D5;&#x5D7;&#x5D5;&#x5EA; &#x5D5;&#x5E1;&#x5E7;&#x5D9;&#x5E8;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D3;&#x5D9;&#x5E8;&#x5D5;&#x5D2; &#x5DC;&#x5E7;&#x5D5;&#x5D7;&#x5D5;&#x5EA; &#x5D5;&#x5E1;&#x5E7;&#x5D9;&#x5E8;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5D3;&#x5D9;&#x5E8;&#x5D5;&#x5D2; &#x5DC;&#x5E7;&#x5D5;&#x5D7;&#x5D5;&#x5EA; &#x5D5;&#x5E1;&#x5E7;&#x5D9;&#x5E8;&#x5D5;&#x5EA;</mm_help>
+  </customer_rating_and_reviews>
+  <be_the_first_one_to_review>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DC;&#x5D4;&#x5D9;&#x5D5;&#x5EA; &#x5D4;&#x5E8;&#x5D0;&#x5E9;&#x5D5;&#x5DF; &#x5DC;&#x5E1;&#x5E7;&#x5D5;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5D4;&#x5D9;&#x5D5;&#x5EA; &#x5D4;&#x5E8;&#x5D0;&#x5E9;&#x5D5;&#x5DF; &#x5DC;&#x5E1;&#x5E7;&#x5D5;&#x5E8;</mm_text>
+    <mm_help>&#x5DC;&#x5D4;&#x5D9;&#x5D5;&#x5EA; &#x5D4;&#x5E8;&#x5D0;&#x5E9;&#x5D5;&#x5DF; &#x5DC;&#x5E1;&#x5E7;&#x5D5;&#x5E8;</mm_help>
+  </be_the_first_one_to_review>
+  <reviews>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D7;&#x5D5;&#x5D5;&#x5EA; &#x5D3;&#x5E2;&#x5EA; &#x5E9;&#x5DC; &#x5DC;&#x5E7;&#x5D5;&#x5D7;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D7;&#x5D5;&#x5D5;&#x5EA; &#x5D3;&#x5E2;&#x5EA; &#x5E9;&#x5DC; &#x5DC;&#x5E7;&#x5D5;&#x5D7;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5D7;&#x5D5;&#x5D5;&#x5EA; &#x5D3;&#x5E2;&#x5EA; &#x5E9;&#x5DC; &#x5DC;&#x5E7;&#x5D5;&#x5D7;&#x5D5;&#x5EA;</mm_help>
+  </reviews>
+  <all_reviews>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5E6;&#x5D2; &#x5D0;&#x5EA; &#x5DB;&#x5DC; &#x5D4;&#x5D1;&#x5D9;&#x5E7;&#x5D5;&#x5E8;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5E6;&#x5D2; &#x5D0;&#x5EA; &#x5DB;&#x5DC; &#x5D4;&#x5D1;&#x5D9;&#x5E7;&#x5D5;&#x5E8;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5D4;&#x5E6;&#x5D2; &#x5D0;&#x5EA; &#x5DB;&#x5DC; &#x5D4;&#x5D1;&#x5D9;&#x5E7;&#x5D5;&#x5E8;&#x5D5;&#x5EA;</mm_help>
+  </all_reviews>
+  <similar_products>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5D5;&#x5E6;&#x5E8;&#x5D9;&#x5DD; &#x5D3;&#x5D5;&#x5DE;&#x5D9;&#x5DD;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5D5;&#x5E6;&#x5E8;&#x5D9;&#x5DD; &#x5D3;&#x5D5;&#x5DE;&#x5D9;&#x5DD;</mm_text>
+    <mm_help>&#x5DE;&#x5D5;&#x5E6;&#x5E8;&#x5D9;&#x5DD; &#x5D3;&#x5D5;&#x5DE;&#x5D9;&#x5DD;</mm_help>
+  </similar_products>
+  <clear>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D1;&#x5E8;&#x5D5;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D1;&#x5E8;&#x5D5;&#x5E8;</mm_text>
+    <mm_help>&#x5D1;&#x5E8;&#x5D5;&#x5E8;</mm_help>
+  </clear>
+  <min_price>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5D7;&#x5D9;&#x5E8; &#x5DE;&#x5D9;&#x5E0;&#x5D9;&#x5DE;&#x5D5;&#x5DD;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5D7;&#x5D9;&#x5E8; &#x5DE;&#x5D9;&#x5E0;&#x5D9;&#x5DE;&#x5D5;&#x5DD;</mm_text>
+    <mm_help>&#x5DE;&#x5D7;&#x5D9;&#x5E8; &#x5DE;&#x5D9;&#x5E0;&#x5D9;&#x5DE;&#x5D5;&#x5DD;</mm_help>
+  </min_price>
+  <max_price>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5D7;&#x5D9;&#x5E8; &#x5DE;&#x5E7;&#x5E1;&#x5D9;&#x5DE;&#x5DC;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5D7;&#x5D9;&#x5E8; &#x5DE;&#x5E7;&#x5E1;&#x5D9;&#x5DE;&#x5DC;&#x5D9;</mm_text>
+    <mm_help>&#x5DE;&#x5D7;&#x5D9;&#x5E8; &#x5DE;&#x5E7;&#x5E1;&#x5D9;&#x5DE;&#x5DC;&#x5D9;</mm_help>
+  </max_price>
+  <search>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DC;&#x5D7;&#x5E4;&#x5E9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5D7;&#x5E4;&#x5E9;</mm_text>
+    <mm_help>&#x5DC;&#x5D7;&#x5E4;&#x5E9;</mm_help>
+  </search>
+  <all>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D0;&#x5EA; &#x5DB;&#x5DC;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D0;&#x5EA; &#x5DB;&#x5DC;</mm_text>
+    <mm_help>&#x5D0;&#x5EA; &#x5DB;&#x5DC;</mm_help>
+  </all>
+  <current_password>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D4; &#x5E0;&#x5D5;&#x5DB;&#x5D7;&#x5D9;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D4; &#x5E0;&#x5D5;&#x5DB;&#x5D7;&#x5D9;&#x5EA;</mm_text>
+    <mm_help>&#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D4; &#x5E0;&#x5D5;&#x5DB;&#x5D7;&#x5D9;&#x5EA;</mm_help>
+  </current_password>
+  <new_password>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D4; &#x5D7;&#x5D3;&#x5E9;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D4; &#x5D7;&#x5D3;&#x5E9;&#x5D4;</mm_text>
+    <mm_help>&#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D4; &#x5D7;&#x5D3;&#x5E9;&#x5D4;</mm_help>
+  </new_password>
+  <confirm_new_password>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5EA;&#x5D0;&#x5E9;&#x5E8; &#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D0; &#x5D7;&#x5D3;&#x5E9;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5EA;&#x5D0;&#x5E9;&#x5E8; &#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D0; &#x5D7;&#x5D3;&#x5E9;&#x5D4;</mm_text>
+    <mm_help>&#x5EA;&#x5D0;&#x5E9;&#x5E8; &#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D0; &#x5D7;&#x5D3;&#x5E9;&#x5D4;</mm_help>
+  </confirm_new_password>
+  <choose_gender>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D1;&#x5D7;&#x5E8; &#x5D1;&#x5D0;&#x5E4;&#x5E9;&#x5E8;&#x5D5;&#x5EA; &#x5DE;&#x5D2;&#x5D3;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D1;&#x5D7;&#x5E8; &#x5D1;&#x5D0;&#x5E4;&#x5E9;&#x5E8;&#x5D5;&#x5EA; &#x5DE;&#x5D2;&#x5D3;&#x5E8;</mm_text>
+    <mm_help>&#x5D1;&#x5D7;&#x5E8; &#x5D1;&#x5D0;&#x5E4;&#x5E9;&#x5E8;&#x5D5;&#x5EA; &#x5DE;&#x5D2;&#x5D3;&#x5E8;</mm_help>
+  </choose_gender>
+  <nickname>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DB;&#x5D9;&#x5E0;&#x5D5;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DB;&#x5D9;&#x5E0;&#x5D5;&#x5D9;</mm_text>
+    <mm_help>&#x5DB;&#x5D9;&#x5E0;&#x5D5;&#x5D9;</mm_help>
+  </nickname>
+  <summary_of_review>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E1;&#x5D9;&#x5DB;&#x5D5;&#x5DD; &#x5D4;&#x5E1;&#x5E7;&#x5D9;&#x5E8;&#x5D4; &#x5E9;&#x5DC;&#x5DA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E1;&#x5D9;&#x5DB;&#x5D5;&#x5DD; &#x5D4;&#x5E1;&#x5E7;&#x5D9;&#x5E8;&#x5D4; &#x5E9;&#x5DC;&#x5DA;</mm_text>
+    <mm_help>&#x5E1;&#x5D9;&#x5DB;&#x5D5;&#x5DD; &#x5D4;&#x5E1;&#x5E7;&#x5D9;&#x5E8;&#x5D4; &#x5E9;&#x5DC;&#x5DA;</mm_help>
+  </summary_of_review>
+  <comments>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5E2;&#x5E8;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5E2;&#x5E8;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5D4;&#x5E2;&#x5E8;&#x5D5;&#x5EA;</mm_help>
+  </comments>
+  <submit_review>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E9;&#x5DC;&#x5D7; &#x5D1;&#x5D9;&#x5E7;&#x5D5;&#x5E8;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E9;&#x5DC;&#x5D7; &#x5D1;&#x5D9;&#x5E7;&#x5D5;&#x5E8;&#x5EA;</mm_text>
+    <mm_help>&#x5E9;&#x5DC;&#x5D7; &#x5D1;&#x5D9;&#x5E7;&#x5D5;&#x5E8;&#x5EA;</mm_help>
+  </submit_review>
+  <maximum_number_of_characters>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5E1;&#x5E4;&#x5E8; &#x5EA;&#x5D5;&#x5D5;&#x5D9;&#x5DD; &#x5DE;&#x5E8;&#x5D1;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5E1;&#x5E4;&#x5E8; &#x5EA;&#x5D5;&#x5D5;&#x5D9;&#x5DD; &#x5DE;&#x5E8;&#x5D1;&#x5D9;</mm_text>
+    <mm_help>&#x5DE;&#x5E1;&#x5E4;&#x5E8; &#x5EA;&#x5D5;&#x5D5;&#x5D9;&#x5DD; &#x5DE;&#x5E8;&#x5D1;&#x5D9;</mm_help>
+  </maximum_number_of_characters>
+  <please_wait>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5DE;&#x5EA;&#x5DF;, &#x5D4;&#x5E4;&#x5E2;&#x5D5;&#x5DC;&#x5D4; &#x5D4;&#x5D0;&#x5D7;&#x5E8;&#x5D5;&#x5E0;&#x5D4; &#x5E2;&#x5D3;&#x5D9;&#x5D9;&#x5DF; &#x5D1;&#x5EA;&#x5D4;&#x5DC;&#x5D9;&#x5DA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5DE;&#x5EA;&#x5DF;, &#x5D4;&#x5E4;&#x5E2;&#x5D5;&#x5DC;&#x5D4; &#x5D4;&#x5D0;&#x5D7;&#x5E8;&#x5D5;&#x5E0;&#x5D4; &#x5E2;&#x5D3;&#x5D9;&#x5D9;&#x5DF; &#x5D1;&#x5EA;&#x5D4;&#x5DC;&#x5D9;&#x5DA;</mm_text>
+    <mm_help>&#x5D4;&#x5DE;&#x5EA;&#x5DF;, &#x5D4;&#x5E4;&#x5E2;&#x5D5;&#x5DC;&#x5D4; &#x5D4;&#x5D0;&#x5D7;&#x5E8;&#x5D5;&#x5E0;&#x5D4; &#x5E2;&#x5D3;&#x5D9;&#x5D9;&#x5DF; &#x5D1;&#x5EA;&#x5D4;&#x5DC;&#x5D9;&#x5DA;</mm_help>
+  </please_wait>
+  <clear_all>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E0;&#x5E7;&#x5D4; &#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E0;&#x5E7;&#x5D4; &#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5D4;</mm_text>
+    <mm_help>&#x5E0;&#x5E7;&#x5D4; &#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5D4;</mm_help>
+  </clear_all>
+  <confirm>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5E1;&#x5E8; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5E1;&#x5E8; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA;</mm_text>
+    <mm_help>&#x5D4;&#x5E1;&#x5E8; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA;</mm_help>
+  </confirm>
+  <done>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D1;&#x5D5;&#x5E6;&#x5E2;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D1;&#x5D5;&#x5E6;&#x5E2;</mm_text>
+    <mm_help>&#x5D1;&#x5D5;&#x5E6;&#x5E2;</mm_help>
+  </done>
+  <delete>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DC;&#x5B4;&#x5DE;&#x5B0;&#x5D7;&#x5D5;&#x5B9;&#x5E7;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5B4;&#x5DE;&#x5B0;&#x5D7;&#x5D5;&#x5B9;&#x5E7;</mm_text>
+    <mm_help>&#x5DC;&#x5B4;&#x5DE;&#x5B0;&#x5D7;&#x5D5;&#x5B9;&#x5E7;</mm_help>
+  </delete>
+  <delete_this_address>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5D0;&#x5DD; &#x5D0;&#x5EA;&#x5D4; &#x5D1;&#x5D8;&#x5D5;&#x5D7; &#x5E9;&#x5D1;&#x5E8;&#x5E6;&#x5D5;&#x5E0;&#x5DA; &#x5DC;&#x5DE;&#x5D7;&#x5D5;&#x5E7; &#x5D0;&#x5EA; &#x5D4;&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D4;&#x5D6;&#x5D5;?</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D0;&#x5DD; &#x5D0;&#x5EA;&#x5D4; &#x5D1;&#x5D8;&#x5D5;&#x5D7; &#x5E9;&#x5D1;&#x5E8;&#x5E6;&#x5D5;&#x5E0;&#x5DA; &#x5DC;&#x5DE;&#x5D7;&#x5D5;&#x5E7; &#x5D0;&#x5EA; &#x5D4;&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D4;&#x5D6;&#x5D5;?</mm_text>
+    <mm_help>&#x5D4;&#x5D0;&#x5DD; &#x5D0;&#x5EA;&#x5D4; &#x5D1;&#x5D8;&#x5D5;&#x5D7; &#x5E9;&#x5D1;&#x5E8;&#x5E6;&#x5D5;&#x5E0;&#x5DA; &#x5DC;&#x5DE;&#x5D7;&#x5D5;&#x5E7; &#x5D0;&#x5EA; &#x5D4;&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D4;&#x5D6;&#x5D5;?</mm_help>
+  </delete_this_address>
+  <cancelled>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5D1;&#x5D5;&#x5D8;&#x5DC;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5D1;&#x5D5;&#x5D8;&#x5DC;</mm_text>
+    <mm_help>&#x5DE;&#x5D1;&#x5D5;&#x5D8;&#x5DC;</mm_help>
+  </cancelled>
+  <select>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D1;&#x5D7;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D1;&#x5D7;&#x5E8;</mm_text>
+    <mm_help>&#x5D1;&#x5D7;&#x5E8;</mm_help>
+  </select>
+  <recently_viewed>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E4;&#x5E8;&#x5D9;&#x5D8;&#x5D9;&#x5DD; &#x5E9;&#x5E0;&#x5E6;&#x5E4;&#x5D5; &#x5DC;&#x5D0;&#x5D7;&#x5E8;&#x5D5;&#x5E0;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E4;&#x5E8;&#x5D9;&#x5D8;&#x5D9;&#x5DD; &#x5E9;&#x5E0;&#x5E6;&#x5E4;&#x5D5; &#x5DC;&#x5D0;&#x5D7;&#x5E8;&#x5D5;&#x5E0;&#x5D4;</mm_text>
+    <mm_help>&#x5E4;&#x5E8;&#x5D9;&#x5D8;&#x5D9;&#x5DD; &#x5E9;&#x5E0;&#x5E6;&#x5E4;&#x5D5; &#x5DC;&#x5D0;&#x5D7;&#x5E8;&#x5D5;&#x5E0;&#x5D4;</mm_help>
+  </recently_viewed>
+  <january>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D9;&#x5B8;&#x5E0;&#x5D5;&#x5BC;&#x5D0;&#x5B8;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D9;&#x5B8;&#x5E0;&#x5D5;&#x5BC;&#x5D0;&#x5B8;&#x5E8;</mm_text>
+    <mm_help>&#x5D9;&#x5B8;&#x5E0;&#x5D5;&#x5BC;&#x5D0;&#x5B8;&#x5E8;</mm_help>
+  </january>
+  <february>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E4;&#x5D1;&#x5E8;&#x5D5;&#x5D0;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E4;&#x5D1;&#x5E8;&#x5D5;&#x5D0;&#x5E8;</mm_text>
+    <mm_help>&#x5E4;&#x5D1;&#x5E8;&#x5D5;&#x5D0;&#x5E8;</mm_help>
+  </february>
+  <march>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5E8;&#x5E5;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5E8;&#x5E5;</mm_text>
+    <mm_help>&#x5DE;&#x5E8;&#x5E5;</mm_help>
+  </march>
+  <april>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D0;&#x5B7;&#x5E4;&#x5BC;&#x5E8;&#x5B4;&#x5D9;&#x5DC;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D0;&#x5B7;&#x5E4;&#x5BC;&#x5E8;&#x5B4;&#x5D9;&#x5DC;</mm_text>
+    <mm_help>&#x5D0;&#x5B7;&#x5E4;&#x5BC;&#x5E8;&#x5B4;&#x5D9;&#x5DC;</mm_help>
+  </april>
+  <may>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5D0;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5D0;&#x5D9;</mm_text>
+    <mm_help>&#x5DE;&#x5D0;&#x5D9;</mm_help>
+  </may>
+  <june>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D9;&#x5D5;&#x5E0;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D9;&#x5D5;&#x5E0;&#x5D9;</mm_text>
+    <mm_help>&#x5D9;&#x5D5;&#x5E0;&#x5D9;</mm_help>
+  </june>
+  <july>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D9;&#x5D5;&#x5DC;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D9;&#x5D5;&#x5DC;&#x5D9;</mm_text>
+    <mm_help>&#x5D9;&#x5D5;&#x5DC;&#x5D9;</mm_help>
+  </july>
+  <august>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D0;&#x5D5;&#x5D2;&#x5D5;&#x5E1;&#x5D8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D0;&#x5D5;&#x5D2;&#x5D5;&#x5E1;&#x5D8;</mm_text>
+    <mm_help>&#x5D0;&#x5D5;&#x5D2;&#x5D5;&#x5E1;&#x5D8;</mm_help>
+  </august>
+  <september>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E1;&#x5B6;&#x5E4;&#x5BC;&#x5D8;&#x5B6;&#x5DE;&#x5D1;&#x5BC;&#x5B6;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E1;&#x5B6;&#x5E4;&#x5BC;&#x5D8;&#x5B6;&#x5DE;&#x5D1;&#x5BC;&#x5B6;&#x5E8;</mm_text>
+    <mm_help>&#x5E1;&#x5B6;&#x5E4;&#x5BC;&#x5D8;&#x5B6;&#x5DE;&#x5D1;&#x5BC;&#x5B6;&#x5E8;</mm_help>
+  </september>
+  <october>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D0;&#x5D5;&#x5B9;&#x5E7;&#x5B0;&#x5D8;&#x5D5;&#x5B9;&#x5D1;&#x5BC;&#x5B6;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D0;&#x5D5;&#x5B9;&#x5E7;&#x5B0;&#x5D8;&#x5D5;&#x5B9;&#x5D1;&#x5BC;&#x5B6;&#x5E8;</mm_text>
+    <mm_help>&#x5D0;&#x5D5;&#x5B9;&#x5E7;&#x5B0;&#x5D8;&#x5D5;&#x5B9;&#x5D1;&#x5BC;&#x5B6;&#x5E8;</mm_help>
+  </october>
+  <november>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E0;&#x5D5;&#x5B9;&#x5D1;&#x5B6;&#x5DE;&#x5D1;&#x5BC;&#x5B6;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E0;&#x5D5;&#x5B9;&#x5D1;&#x5B6;&#x5DE;&#x5D1;&#x5BC;&#x5B6;&#x5E8;</mm_text>
+    <mm_help>&#x5E0;&#x5D5;&#x5B9;&#x5D1;&#x5B6;&#x5DE;&#x5D1;&#x5BC;&#x5B6;&#x5E8;</mm_help>
+  </november>
+  <december>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D3;&#x5B5;&#x5E6;&#x5B6;&#x5DE;&#x5D1;&#x5BC;&#x5B6;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D3;&#x5B5;&#x5E6;&#x5B6;&#x5DE;&#x5D1;&#x5BC;&#x5B6;&#x5E8;</mm_text>
+    <mm_help>&#x5D3;&#x5B5;&#x5E6;&#x5B6;&#x5DE;&#x5D1;&#x5BC;&#x5B6;&#x5E8;</mm_help>
+  </december>
+  <estimate_shipping_tax>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7; &#x5DE;&#x5E9;&#x5D5;&#x5E2;&#x5E8; &#x5D5;&#x5DE;&#x5E1;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7; &#x5DE;&#x5E9;&#x5D5;&#x5E2;&#x5E8; &#x5D5;&#x5DE;&#x5E1;</mm_text>
+    <mm_help>&#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7; &#x5DE;&#x5E9;&#x5D5;&#x5E2;&#x5E8; &#x5D5;&#x5DE;&#x5E1;</mm_help>
+  </estimate_shipping_tax>
+  <products>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5D5;&#x5E6;&#x5E8;&#x5D9;&#x5DD;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5D5;&#x5E6;&#x5E8;&#x5D9;&#x5DD;</mm_text>
+    <mm_help>&#x5DE;&#x5D5;&#x5E6;&#x5E8;&#x5D9;&#x5DD;</mm_help>
+  </products>
+  <edit_profile>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E2;&#x5E8;&#x5D5;&#x5DA; &#x5E4;&#x5E8;&#x5D5;&#x5E4;&#x5D9;&#x5DC;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E2;&#x5E8;&#x5D5;&#x5DA; &#x5E4;&#x5E8;&#x5D5;&#x5E4;&#x5D9;&#x5DC;</mm_text>
+    <mm_help>&#x5E2;&#x5E8;&#x5D5;&#x5DA; &#x5E4;&#x5E8;&#x5D5;&#x5E4;&#x5D9;&#x5DC;</mm_help>
+  </edit_profile>
+  <addresses>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E4;&#x5E0;&#x5E7;&#x5E1; &#x5D4;&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E4;&#x5E0;&#x5E7;&#x5E1; &#x5D4;&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5E4;&#x5E0;&#x5E7;&#x5E1; &#x5D4;&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5D5;&#x5EA;</mm_help>
+  </addresses>
+  <add_review>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5D5;&#x5E1;&#x5E3; &#x5D1;&#x5D9;&#x5E7;&#x5D5;&#x5E8;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D5;&#x5E1;&#x5E3; &#x5D1;&#x5D9;&#x5E7;&#x5D5;&#x5E8;&#x5EA;</mm_text>
+    <mm_help>&#x5D4;&#x5D5;&#x5E1;&#x5E3; &#x5D1;&#x5D9;&#x5E7;&#x5D5;&#x5E8;&#x5EA;</mm_help>
+  </add_review>
+  <cart>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E2;&#x5B2;&#x5D2;&#x5B8;&#x5DC;&#x5B8;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E2;&#x5B2;&#x5D2;&#x5B8;&#x5DC;&#x5B8;&#x5D4;</mm_text>
+    <mm_help>&#x5E2;&#x5B2;&#x5D2;&#x5B8;&#x5DC;&#x5B8;&#x5D4;</mm_help>
+  </cart>
+  <contact>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D0;&#x5D9;&#x5E9; &#x5E7;&#x5E9;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D0;&#x5D9;&#x5E9; &#x5E7;&#x5E9;&#x5E8;</mm_text>
+    <mm_help>&#x5D0;&#x5D9;&#x5E9; &#x5E7;&#x5E9;&#x5E8;</mm_help>
+  </contact>
+  <credit_card>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DB;&#x5E8;&#x5D8;&#x5D9;&#x5E1; &#x5D0;&#x5E9;&#x5E8;&#x5D0;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DB;&#x5E8;&#x5D8;&#x5D9;&#x5E1; &#x5D0;&#x5E9;&#x5E8;&#x5D0;&#x5D9;</mm_text>
+    <mm_help>&#x5DB;&#x5E8;&#x5D8;&#x5D9;&#x5E1; &#x5D0;&#x5E9;&#x5E8;&#x5D0;&#x5D9;</mm_help>
+  </credit_card>
+  <error>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E9;&#x5C1;&#x5B0;&#x5D2;&#x5B4;&#x5D9;&#x5D0;&#x5B8;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E9;&#x5C1;&#x5B0;&#x5D2;&#x5B4;&#x5D9;&#x5D0;&#x5B8;&#x5D4;</mm_text>
+    <mm_help>&#x5E9;&#x5C1;&#x5B0;&#x5D2;&#x5B4;&#x5D9;&#x5D0;&#x5B8;&#x5D4;</mm_help>
+  </error>
+  <my_profile>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5E4;&#x5E8;&#x5D5;&#x5E4;&#x5D9;&#x5DC; &#x5E9;&#x5DC;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5E4;&#x5E8;&#x5D5;&#x5E4;&#x5D9;&#x5DC; &#x5E9;&#x5DC;&#x5D9;</mm_text>
+    <mm_help>&#x5D4;&#x5E4;&#x5E8;&#x5D5;&#x5E4;&#x5D9;&#x5DC; &#x5E9;&#x5DC;&#x5D9;</mm_help>
+  </my_profile>
+  <my_orders>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D5;&#x5EA; &#x5E9;&#x5DC;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D5;&#x5EA; &#x5E9;&#x5DC;&#x5D9;</mm_text>
+    <mm_help>&#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D5;&#x5EA; &#x5E9;&#x5DC;&#x5D9;</mm_help>
+  </my_orders>
+  <order_review>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E1;&#x5E7;&#x5D9;&#x5E8;&#x5EA; &#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E1;&#x5E7;&#x5D9;&#x5E8;&#x5EA; &#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4;</mm_text>
+    <mm_help>&#x5E1;&#x5E7;&#x5D9;&#x5E8;&#x5EA; &#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4;</mm_help>
+  </order_review>
+  <order_success>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4; &#x5D1;&#x5D5;&#x5E6;&#x5E2;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4; &#x5D1;&#x5D5;&#x5E6;&#x5E2;&#x5D4;</mm_text>
+    <mm_help>&#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4; &#x5D1;&#x5D5;&#x5E6;&#x5E2;&#x5D4;</mm_help>
+  </order_success>
+  <order_detail>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E4;&#x5E8;&#x5D8;&#x5D9; &#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E4;&#x5E8;&#x5D8;&#x5D9; &#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4;</mm_text>
+    <mm_help>&#x5E4;&#x5E8;&#x5D8;&#x5D9; &#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4;</mm_help>
+  </order_detail>
+  <shipping>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7; &amp; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D4;&#x5D7;&#x5D9;&#x5D5;&#x5D1;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7; &amp;amp;amp; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D4;&#x5D7;&#x5D9;&#x5D5;&#x5D1;</mm_text>
+    <mm_help>&#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7; &amp;amp;amp; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D4;&#x5D7;&#x5D9;&#x5D5;&#x5D1;</mm_help>
+  </shipping>
+  <no_more_records>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D0;&#x5D9;&#x5DF; &#x5E2;&#x5D5;&#x5D3; &#x5E8;&#x5E9;&#x5D5;&#x5DE;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D0;&#x5D9;&#x5DF; &#x5E2;&#x5D5;&#x5D3; &#x5E8;&#x5E9;&#x5D5;&#x5DE;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5D0;&#x5D9;&#x5DF; &#x5E2;&#x5D5;&#x5D3; &#x5E8;&#x5E9;&#x5D5;&#x5DE;&#x5D5;&#x5EA;</mm_help>
+  </no_more_records>
+  <popularity>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E4;&#x5BC;&#x5D5;&#x5B9;&#x5E4;&#x5BC;&#x5D5;&#x5BC;&#x5DC;&#x5B8;&#x5E8;&#x5B4;&#x5D9;&#x5D5;&#x5BC;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E4;&#x5BC;&#x5D5;&#x5B9;&#x5E4;&#x5BC;&#x5D5;&#x5BC;&#x5DC;&#x5B8;&#x5E8;&#x5B4;&#x5D9;&#x5D5;&#x5BC;&#x5EA;</mm_text>
+    <mm_help>&#x5E4;&#x5BC;&#x5D5;&#x5B9;&#x5E4;&#x5BC;&#x5D5;&#x5BC;&#x5DC;&#x5B8;&#x5E8;&#x5B4;&#x5D9;&#x5D5;&#x5BC;&#x5EA;</mm_help>
+  </popularity>
+  <position>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E2;&#x5DE;&#x5D3;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E2;&#x5DE;&#x5D3;&#x5D4;</mm_text>
+    <mm_help>&#x5E2;&#x5DE;&#x5D3;&#x5D4;</mm_help>
+  </position>
+  <price_high_to_low>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5D7;&#x5D9;&#x5E8; - &#x5D2;&#x5D1;&#x5D5;&#x5D4; &#x5E2;&#x5D3; &#x5E0;&#x5DE;&#x5D5;&#x5DA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5D7;&#x5D9;&#x5E8; - &#x5D2;&#x5D1;&#x5D5;&#x5D4; &#x5E2;&#x5D3; &#x5E0;&#x5DE;&#x5D5;&#x5DA;</mm_text>
+    <mm_help>&#x5DE;&#x5D7;&#x5D9;&#x5E8; - &#x5D2;&#x5D1;&#x5D5;&#x5D4; &#x5E2;&#x5D3; &#x5E0;&#x5DE;&#x5D5;&#x5DA;</mm_help>
+  </price_high_to_low>
+  <price_low_to_high>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5D7;&#x5D9;&#x5E8; &#x5DE;&#x5D4;&#x5E0;&#x5DE;&#x5D5;&#x5DA; &#x5DC;&#x5D2;&#x5D1;&#x5D5;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5D7;&#x5D9;&#x5E8; &#x5DE;&#x5D4;&#x5E0;&#x5DE;&#x5D5;&#x5DA; &#x5DC;&#x5D2;&#x5D1;&#x5D5;&#x5D4;</mm_text>
+    <mm_help>&#x5DE;&#x5D7;&#x5D9;&#x5E8; &#x5DE;&#x5D4;&#x5E0;&#x5DE;&#x5D5;&#x5DA; &#x5DC;&#x5D2;&#x5D1;&#x5D5;&#x5D4;</mm_help>
+  </price_low_to_high>
+  <rating>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D3;&#x5B5;&#x5E8;&#x5D5;&#x5BC;&#x5D2;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D3;&#x5B5;&#x5E8;&#x5D5;&#x5BC;&#x5D2;</mm_text>
+    <mm_help>&#x5D3;&#x5B5;&#x5E8;&#x5D5;&#x5BC;&#x5D2;</mm_help>
+  </rating>
+  <a_to_z>
+    <mm_type>label</mm_type>
+    <mm_label>A - Z</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>A - Z</mm_text>
+    <mm_help>A - Z</mm_help>
+  </a_to_z>
+  <z_to_a>
+    <mm_type>label</mm_type>
+    <mm_label>Z - A</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>Z - A</mm_text>
+    <mm_help>Z - A</mm_help>
+  </z_to_a>
+  <newest>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D4;&#x5D7;&#x5D3;&#x5E9; &#x5D1;&#x5D9;&#x5D5;&#x5EA;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D7;&#x5D3;&#x5E9; &#x5D1;&#x5D9;&#x5D5;&#x5EA;&#x5E8;</mm_text>
+    <mm_help>&#x5D4;&#x5D7;&#x5D3;&#x5E9; &#x5D1;&#x5D9;&#x5D5;&#x5EA;&#x5E8;</mm_help>
+  </newest>
+  <f_home>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D1;&#x5D9;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D1;&#x5D9;&#x5EA;</mm_text>
+    <mm_help>&#x5D1;&#x5D9;&#x5EA;</mm_help>
+  </f_home>
+  <f_search>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DC;&#x5D7;&#x5E4;&#x5E9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5D7;&#x5E4;&#x5E9;</mm_text>
+    <mm_help>&#x5DC;&#x5D7;&#x5E4;&#x5E9;</mm_help>
+  </f_search>
+  <f_wishlist>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DE;&#x5D5;&#x5E2;&#x5D3;&#x5E4;&#x5D9;&#x5DD;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5D5;&#x5E2;&#x5D3;&#x5E4;&#x5D9;&#x5DD;</mm_text>
+    <mm_help>&#x5DE;&#x5D5;&#x5E2;&#x5D3;&#x5E4;&#x5D9;&#x5DD;</mm_help>
+  </f_wishlist>
+  <f_cart>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5E2;&#x5B2;&#x5D2;&#x5B8;&#x5DC;&#x5B8;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E2;&#x5B2;&#x5D2;&#x5B8;&#x5DC;&#x5B8;&#x5D4;</mm_text>
+    <mm_help>&#x5E2;&#x5B2;&#x5D2;&#x5B8;&#x5DC;&#x5B8;&#x5D4;</mm_help>
+  </f_cart>
+  <f_account>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D7;&#x5B6;&#x5E9;&#x5C1;&#x5B0;&#x5D1;&#x5BC;&#x5D5;&#x5B9;&#x5DF;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D7;&#x5B6;&#x5E9;&#x5C1;&#x5B0;&#x5D1;&#x5BC;&#x5D5;&#x5B9;&#x5DF;</mm_text>
+    <mm_help>&#x5D7;&#x5B6;&#x5E9;&#x5C1;&#x5B0;&#x5D1;&#x5BC;&#x5D5;&#x5B9;&#x5DF;</mm_help>
+  </f_account>
+  <cms_page_no_more_available>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D3;&#x5E3; CMS &#x5DC;&#x5D0; &#x5D6;&#x5DE;&#x5D9;&#x5DF; &#x5D9;&#x5D5;&#x5EA;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D3;&#x5E3; CMS &#x5DC;&#x5D0; &#x5D6;&#x5DE;&#x5D9;&#x5DF; &#x5D9;&#x5D5;&#x5EA;&#x5E8;</mm_text>
+    <mm_help>&#x5D3;&#x5E3; CMS &#x5DC;&#x5D0; &#x5D6;&#x5DE;&#x5D9;&#x5DF; &#x5D9;&#x5D5;&#x5EA;&#x5E8;</mm_help>
+  </cms_page_no_more_available>
+  <we_could_not_find_requested_cms_page>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DC;&#x5D0; &#x5D4;&#x5E6;&#x5DC;&#x5D7;&#x5E0;&#x5D5; &#x5DC;&#x5DE;&#x5E6;&#x5D5;&#x5D0; &#x5D3;&#x5E3; CMS &#x5D4;&#x5DE;&#x5D1;&#x5D5;&#x5E7;&#x5E9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5D0; &#x5D4;&#x5E6;&#x5DC;&#x5D7;&#x5E0;&#x5D5; &#x5DC;&#x5DE;&#x5E6;&#x5D5;&#x5D0; &#x5D3;&#x5E3; CMS &#x5D4;&#x5DE;&#x5D1;&#x5D5;&#x5E7;&#x5E9;</mm_text>
+    <mm_help>&#x5DC;&#x5D0; &#x5D4;&#x5E6;&#x5DC;&#x5D7;&#x5E0;&#x5D5; &#x5DC;&#x5DE;&#x5E6;&#x5D5;&#x5D0; &#x5D3;&#x5E3; CMS &#x5D4;&#x5DE;&#x5D1;&#x5D5;&#x5E7;&#x5E9;</mm_help>
+  </we_could_not_find_requested_cms_page>
+  <back>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5D7;&#x5D6;&#x5D5;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D7;&#x5D6;&#x5D5;&#x5E8;</mm_text>
+    <mm_help>&#x5D7;&#x5D6;&#x5D5;&#x5E8;</mm_help>
+  </back>
+  <close>
+    <mm_type>label</mm_type>
+    <mm_label>&#x5DC;&#x5B4;&#x5E1;&#x5B0;&#x5D2;&#x5D5;&#x5B9;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5B4;&#x5E1;&#x5B0;&#x5D2;&#x5D5;&#x5B9;&#x5E8;</mm_text>
+    <mm_help>&#x5DC;&#x5B4;&#x5E1;&#x5B0;&#x5D2;&#x5D5;&#x5B9;&#x5E8;</mm_help>
+  </close>
+  <ship_here>
+    <mm_type>label</mm_type>
+    <mm_label>Ship here</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>Ship here</mm_text>
+    <mm_help>Ship here</mm_help>
+  </ship_here>
+  <currently_selected_address>
+    <mm_type>label</mm_type>
+    <mm_label>Currently selected</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>Currently selected</mm_text>
+    <mm_help>Currently selected</mm_help>
+  </currently_selected_address>
+  <billing_and_shipping_address_same_label>
+    <mm_type>label</mm_type>
+    <mm_label>My biling and shipping adress are same</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>My biling and shipping adress are same</mm_text>
+    <mm_help>My biling and shipping adress are same</mm_help>
+  </billing_and_shipping_address_same_label>
+  <new_address>
+    <mm_type>label</mm_type>
+    <mm_label>New Address</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>New Address</mm_text>
+    <mm_help>New Address</mm_help>
+  </new_address>
+  <save_in_address_book>
+    <mm_type>label</mm_type>
+    <mm_label>Save in Address Book</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>Save in Address Book</mm_text>
+    <mm_help>Save in Address Book</mm_help>
+  </save_in_address_book>
+  <select_address>
+    <mm_type>label</mm_type>
+    <mm_label>Select Address</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>Select Address</mm_text>
+    <mm_help>Select Address</mm_help>
+  </select_address>
+  <scan_qr_code>
+    <mm_type>label</mm_type>
+    <mm_label>Scan QR Code</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>Scan QR Code</mm_text>
+    <mm_help>Scan QR Code</mm_help>
+  </scan_qr_code>
+  <press_again_to_close_app>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5DC;&#x5D7;&#x5E5; &#x5E9;&#x5D5;&#x5D1; &#x5DB;&#x5D3;&#x5D9; &#x5DC;&#x5E1;&#x5D2;&#x5D5;&#x5E8; &#x5D0;&#x5EA; &#x5D4;&#x5D9;&#x5D9;&#x5E9;&#x5D5;&#x5DD;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5D7;&#x5E5; &#x5E9;&#x5D5;&#x5D1; &#x5DB;&#x5D3;&#x5D9; &#x5DC;&#x5E1;&#x5D2;&#x5D5;&#x5E8; &#x5D0;&#x5EA; &#x5D4;&#x5D9;&#x5D9;&#x5E9;&#x5D5;&#x5DD;</mm_text>
+    <mm_help>&#x5DC;&#x5D7;&#x5E5; &#x5E9;&#x5D5;&#x5D1; &#x5DB;&#x5D3;&#x5D9; &#x5DC;&#x5E1;&#x5D2;&#x5D5;&#x5E8; &#x5D0;&#x5EA; &#x5D4;&#x5D9;&#x5D9;&#x5E9;&#x5D5;&#x5DD;</mm_help>
+  </press_again_to_close_app>
+  <invalid_format>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5E4;&#x5D5;&#x5E8;&#x5DE;&#x5D8; &#x5DC;&#x5D0; &#x5D7;&#x5D5;&#x5E7;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E4;&#x5D5;&#x5E8;&#x5DE;&#x5D8; &#x5DC;&#x5D0; &#x5D7;&#x5D5;&#x5E7;&#x5D9;</mm_text>
+    <mm_help>&#x5E4;&#x5D5;&#x5E8;&#x5DE;&#x5D8; &#x5DC;&#x5D0; &#x5D7;&#x5D5;&#x5E7;&#x5D9;</mm_help>
+  </invalid_format>
+  <plugin_not_supported>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D0;&#x5D4;! &#x5DC;&#x5D0; &#x5E0;&#x5D9;&#x5EA;&#x5DF; &#x5DC;&#x5D1;&#x5E6;&#x5E2; &#x5E4;&#x5E2;&#x5D5;&#x5DC;&#x5D4; &#x5D6;&#x5D5; &#x5D1;&#x5DE;&#x5DB;&#x5E9;&#x5D9;&#x5E8; &#x5D6;&#x5D4;. &#x5EA;&#x5DE;&#x5D9;&#x5DB;&#x5D4; &#x5E0;&#x5D3;&#x5E8;&#x5E9;&#x5EA; &#x5D0;&#x5D9;&#x5E0;&#x5D4; &#x5D6;&#x5DE;&#x5D9;&#x5E0;&#x5D4; &#x5D1;&#x5DE;&#x5DB;&#x5E9;&#x5D9;&#x5E8; &#x5D6;&#x5D4;.</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D0;&#x5D4;! &#x5DC;&#x5D0; &#x5E0;&#x5D9;&#x5EA;&#x5DF; &#x5DC;&#x5D1;&#x5E6;&#x5E2; &#x5E4;&#x5E2;&#x5D5;&#x5DC;&#x5D4; &#x5D6;&#x5D5; &#x5D1;&#x5DE;&#x5DB;&#x5E9;&#x5D9;&#x5E8; &#x5D6;&#x5D4;. &#x5EA;&#x5DE;&#x5D9;&#x5DB;&#x5D4; &#x5E0;&#x5D3;&#x5E8;&#x5E9;&#x5EA; &#x5D0;&#x5D9;&#x5E0;&#x5D4; &#x5D6;&#x5DE;&#x5D9;&#x5E0;&#x5D4; &#x5D1;&#x5DE;&#x5DB;&#x5E9;&#x5D9;&#x5E8; &#x5D6;&#x5D4;.</mm_text>
+    <mm_help>&#x5D0;&#x5D4;! &#x5DC;&#x5D0; &#x5E0;&#x5D9;&#x5EA;&#x5DF; &#x5DC;&#x5D1;&#x5E6;&#x5E2; &#x5E4;&#x5E2;&#x5D5;&#x5DC;&#x5D4; &#x5D6;&#x5D5; &#x5D1;&#x5DE;&#x5DB;&#x5E9;&#x5D9;&#x5E8; &#x5D6;&#x5D4;. &#x5EA;&#x5DE;&#x5D9;&#x5DB;&#x5D4; &#x5E0;&#x5D3;&#x5E8;&#x5E9;&#x5EA; &#x5D0;&#x5D9;&#x5E0;&#x5D4; &#x5D6;&#x5DE;&#x5D9;&#x5E0;&#x5D4; &#x5D1;&#x5DE;&#x5DB;&#x5E9;&#x5D9;&#x5E8; &#x5D6;&#x5D4;.</mm_help>
+  </plugin_not_supported>
+  <please_select>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D1;&#x5D1;&#x5E7;&#x5E9;&#x5D4; &#x5EA;&#x5D1;&#x5D7;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D1;&#x5D1;&#x5E7;&#x5E9;&#x5D4; &#x5EA;&#x5D1;&#x5D7;&#x5E8;</mm_text>
+    <mm_help>&#x5D1;&#x5D1;&#x5E7;&#x5E9;&#x5D4; &#x5EA;&#x5D1;&#x5D7;&#x5E8;</mm_help>
+  </please_select>
+  <please_enter_coupon_code>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D4;&#x5D6;&#x5DF; &#x5E7;&#x5D5;&#x5D3; &#x5E9;&#x5D5;&#x5D1;&#x5E8; &#x5D7;&#x5D5;&#x5E7;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D6;&#x5DF; &#x5E7;&#x5D5;&#x5D3; &#x5E9;&#x5D5;&#x5D1;&#x5E8; &#x5D7;&#x5D5;&#x5E7;&#x5D9;</mm_text>
+    <mm_help>&#x5D4;&#x5D6;&#x5DF; &#x5E7;&#x5D5;&#x5D3; &#x5E9;&#x5D5;&#x5D1;&#x5E8; &#x5D7;&#x5D5;&#x5E7;&#x5D9;</mm_help>
+  </please_enter_coupon_code>
+  <enter_shipping_country>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D4;&#x5D6;&#x5DF; &#x5D0;&#x5E8;&#x5E5; &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D6;&#x5DF; &#x5D0;&#x5E8;&#x5E5; &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_text>
+    <mm_help>&#x5D4;&#x5D6;&#x5DF; &#x5D0;&#x5E8;&#x5E5; &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_help>
+  </enter_shipping_country>
+  <enter_shipping_state>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D4;&#x5D6;&#x5DF; &#x5DE;&#x5E6;&#x5D1; &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D6;&#x5DF; &#x5DE;&#x5E6;&#x5D1; &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_text>
+    <mm_help>&#x5D4;&#x5D6;&#x5DF; &#x5DE;&#x5E6;&#x5D1; &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_help>
+  </enter_shipping_state>
+  <enter_shipping_pincode>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D4;&#x5D6;&#x5DF; pincode &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D6;&#x5DF; pincode &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_text>
+    <mm_help>&#x5D4;&#x5D6;&#x5DF; pincode &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_help>
+  </enter_shipping_pincode>
+  <choose_shipping_method_error>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D1;&#x5D7;&#x5E8; &#x5E9;&#x5D9;&#x5D8;&#x5EA; &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D1;&#x5D7;&#x5E8; &#x5E9;&#x5D9;&#x5D8;&#x5EA; &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_text>
+    <mm_help>&#x5D1;&#x5D7;&#x5E8; &#x5E9;&#x5D9;&#x5D8;&#x5EA; &#x5DE;&#x5E9;&#x5DC;&#x5D5;&#x5D7;</mm_help>
+  </choose_shipping_method_error>
+  <moved_to_wishlist>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D4;&#x5E4;&#x5E8;&#x5D9;&#x5D8; &#x5D4;&#x5D5;&#x5E2;&#x5D1;&#x5E8; &#x5DC;&#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5EA; &#x5D4;&#x5DE;&#x5E9;&#x5D0;&#x5DC;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5E4;&#x5E8;&#x5D9;&#x5D8; &#x5D4;&#x5D5;&#x5E2;&#x5D1;&#x5E8; &#x5DC;&#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5EA; &#x5D4;&#x5DE;&#x5E9;&#x5D0;&#x5DC;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5D4;&#x5E4;&#x5E8;&#x5D9;&#x5D8; &#x5D4;&#x5D5;&#x5E2;&#x5D1;&#x5E8; &#x5DC;&#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5EA; &#x5D4;&#x5DE;&#x5E9;&#x5D0;&#x5DC;&#x5D5;&#x5EA;</mm_help>
+  </moved_to_wishlist>
+  <payment_cancelled>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D4;&#x5EA;&#x5E9;&#x5DC;&#x5D5;&#x5DD; &#x5E0;&#x5DB;&#x5E9;&#x5DC;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5EA;&#x5E9;&#x5DC;&#x5D5;&#x5DD; &#x5E0;&#x5DB;&#x5E9;&#x5DC;</mm_text>
+    <mm_help>&#x5D4;&#x5EA;&#x5E9;&#x5DC;&#x5D5;&#x5DD; &#x5E0;&#x5DB;&#x5E9;&#x5DC;</mm_help>
+  </payment_cancelled>
+  <please_select_all_agreements>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D0;&#x5EA;&#x5D4; &#x5D7;&#x5D9;&#x5D9;&#x5D1; &#x5DC;&#x5E7;&#x5D1;&#x5DC; &#x5D0;&#x5EA; &#x5DB;&#x5DC; &#x5D4;&#x5D4;&#x5E1;&#x5DB;&#x5DE;&#x5D9;&#x5DD;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D0;&#x5EA;&#x5D4; &#x5D7;&#x5D9;&#x5D9;&#x5D1; &#x5DC;&#x5E7;&#x5D1;&#x5DC; &#x5D0;&#x5EA; &#x5DB;&#x5DC; &#x5D4;&#x5D4;&#x5E1;&#x5DB;&#x5DE;&#x5D9;&#x5DD;</mm_text>
+    <mm_help>&#x5D0;&#x5EA;&#x5D4; &#x5D7;&#x5D9;&#x5D9;&#x5D1; &#x5DC;&#x5E7;&#x5D1;&#x5DC; &#x5D0;&#x5EA; &#x5DB;&#x5DC; &#x5D4;&#x5D4;&#x5E1;&#x5DB;&#x5DE;&#x5D9;&#x5DD;</mm_help>
+  </please_select_all_agreements>
+  <invalid_deeplink_url>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D0;&#x5EA;&#x5E8; &#x5DC;&#x5D0; &#x5D7;&#x5D5;&#x5E7;&#x5D9;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D0;&#x5EA;&#x5E8; &#x5DC;&#x5D0; &#x5D7;&#x5D5;&#x5E7;&#x5D9;&#x5EA;</mm_text>
+    <mm_help>&#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D0;&#x5EA;&#x5E8; &#x5DC;&#x5D0; &#x5D7;&#x5D5;&#x5E7;&#x5D9;&#x5EA;</mm_help>
+  </invalid_deeplink_url>
+  <cart_is_empty>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5E2;&#x5D2;&#x5DC;&#x5EA; &#x5D4;&#x5E7;&#x5E0;&#x5D9;&#x5D5;&#x5EA; &#x5E8;&#x5D9;&#x5E7;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E2;&#x5D2;&#x5DC;&#x5EA; &#x5D4;&#x5E7;&#x5E0;&#x5D9;&#x5D5;&#x5EA; &#x5E8;&#x5D9;&#x5E7;&#x5D4;</mm_text>
+    <mm_help>&#x5E2;&#x5D2;&#x5DC;&#x5EA; &#x5D4;&#x5E7;&#x5E0;&#x5D9;&#x5D5;&#x5EA; &#x5E8;&#x5D9;&#x5E7;&#x5D4;</mm_help>
+  </cart_is_empty>
+  <cart_item_error>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D0;&#x5D7;&#x5D3; &#x5DE;&#x5D4;&#x5E4;&#x5E8;&#x5D9;&#x5D8;&#x5D9;&#x5DD; &#x5D1;&#x5E2;&#x5D2;&#x5DC;&#x5D4; &#x5E9;&#x5DC;&#x5DA; &#x5E0;&#x5EA;&#x5E7;&#x5DC; &#x5D1;&#x5E9;&#x5D2;&#x5D9;&#x5D0;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D0;&#x5D7;&#x5D3; &#x5DE;&#x5D4;&#x5E4;&#x5E8;&#x5D9;&#x5D8;&#x5D9;&#x5DD; &#x5D1;&#x5E2;&#x5D2;&#x5DC;&#x5D4; &#x5E9;&#x5DC;&#x5DA; &#x5E0;&#x5EA;&#x5E7;&#x5DC; &#x5D1;&#x5E9;&#x5D2;&#x5D9;&#x5D0;&#x5D4;</mm_text>
+    <mm_help>&#x5D0;&#x5D7;&#x5D3; &#x5DE;&#x5D4;&#x5E4;&#x5E8;&#x5D9;&#x5D8;&#x5D9;&#x5DD; &#x5D1;&#x5E2;&#x5D2;&#x5DC;&#x5D4; &#x5E9;&#x5DC;&#x5DA; &#x5E0;&#x5EA;&#x5E7;&#x5DC; &#x5D1;&#x5E9;&#x5D2;&#x5D9;&#x5D0;&#x5D4;</mm_help>
+  </cart_item_error>
+  <cc_name_error>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D4;&#x5D6;&#x5DF; &#x5E9;&#x5DD; &#x5E2;&#x5DC; &#x5D4;&#x5DB;&#x5E8;&#x5D8;&#x5D9;&#x5E1;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D6;&#x5DF; &#x5E9;&#x5DD; &#x5E2;&#x5DC; &#x5D4;&#x5DB;&#x5E8;&#x5D8;&#x5D9;&#x5E1;</mm_text>
+    <mm_help>&#x5D4;&#x5D6;&#x5DF; &#x5E9;&#x5DD; &#x5E2;&#x5DC; &#x5D4;&#x5DB;&#x5E8;&#x5D8;&#x5D9;&#x5E1;</mm_help>
+  </cc_name_error>
+  <cc_number_error>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D4;&#x5D6;&#x5DF; &#x5DE;&#x5E1;&#x5E4;&#x5E8; &#x5DB;&#x5E8;&#x5D8;&#x5D9;&#x5E1;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D6;&#x5DF; &#x5DE;&#x5E1;&#x5E4;&#x5E8; &#x5DB;&#x5E8;&#x5D8;&#x5D9;&#x5E1;</mm_text>
+    <mm_help>&#x5D4;&#x5D6;&#x5DF; &#x5DE;&#x5E1;&#x5E4;&#x5E8; &#x5DB;&#x5E8;&#x5D8;&#x5D9;&#x5E1;</mm_help>
+  </cc_number_error>
+  <cc_month_error>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D1;&#x5D7;&#x5E8; &#x5D7;&#x5D5;&#x5D3;&#x5E9; &#x5EA;&#x5E4;&#x5D5;&#x5D2;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D1;&#x5D7;&#x5E8; &#x5D7;&#x5D5;&#x5D3;&#x5E9; &#x5EA;&#x5E4;&#x5D5;&#x5D2;&#x5D4;</mm_text>
+    <mm_help>&#x5D1;&#x5D7;&#x5E8; &#x5D7;&#x5D5;&#x5D3;&#x5E9; &#x5EA;&#x5E4;&#x5D5;&#x5D2;&#x5D4;</mm_help>
+  </cc_month_error>
+  <cc_year_error>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D1;&#x5D7;&#x5E8; &#x5E9;&#x5E0;&#x5EA; &#x5EA;&#x5E4;&#x5D5;&#x5D2;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D1;&#x5D7;&#x5E8; &#x5E9;&#x5E0;&#x5EA; &#x5EA;&#x5E4;&#x5D5;&#x5D2;&#x5D4;</mm_text>
+    <mm_help>&#x5D1;&#x5D7;&#x5E8; &#x5E9;&#x5E0;&#x5EA; &#x5EA;&#x5E4;&#x5D5;&#x5D2;&#x5D4;</mm_help>
+  </cc_year_error>
+  <cc_cvv_error>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D4;&#x5D6;&#x5DF; &#x5DE;&#x5E1;&#x5E4;&#x5E8; CVV</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D6;&#x5DF; &#x5DE;&#x5E1;&#x5E4;&#x5E8; CVV</mm_text>
+    <mm_help>&#x5D4;&#x5D6;&#x5DF; &#x5DE;&#x5E1;&#x5E4;&#x5E8; CVV</mm_help>
+  </cc_cvv_error>
+  <cc_type_error>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D1;&#x5D7;&#x5E8; &#x5E1;&#x5D5;&#x5D2; &#x5DB;&#x5E8;&#x5D8;&#x5D9;&#x5E1;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D1;&#x5D7;&#x5E8; &#x5E1;&#x5D5;&#x5D2; &#x5DB;&#x5E8;&#x5D8;&#x5D9;&#x5E1;</mm_text>
+    <mm_help>&#x5D1;&#x5D7;&#x5E8; &#x5E1;&#x5D5;&#x5D2; &#x5DB;&#x5E8;&#x5D8;&#x5D9;&#x5E1;</mm_help>
+  </cc_type_error>
+  <choose_rating_option_error>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D1;&#x5D7;&#x5E8; &#x5D3;&#x5D9;&#x5E8;&#x5D5;&#x5D2; &#x5E2;&#x5D1;&#x5D5;&#x5E8; &#x5DB;&#x5DC; &#x5E4;&#x5E8;&#x5DE;&#x5D8;&#x5E8; &#x5D3;&#x5D9;&#x5E8;&#x5D5;&#x5D2;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D1;&#x5D7;&#x5E8; &#x5D3;&#x5D9;&#x5E8;&#x5D5;&#x5D2; &#x5E2;&#x5D1;&#x5D5;&#x5E8; &#x5DB;&#x5DC; &#x5E4;&#x5E8;&#x5DE;&#x5D8;&#x5E8; &#x5D3;&#x5D9;&#x5E8;&#x5D5;&#x5D2;</mm_text>
+    <mm_help>&#x5D1;&#x5D7;&#x5E8; &#x5D3;&#x5D9;&#x5E8;&#x5D5;&#x5D2; &#x5E2;&#x5D1;&#x5D5;&#x5E8; &#x5DB;&#x5DC; &#x5E4;&#x5E8;&#x5DE;&#x5D8;&#x5E8; &#x5D3;&#x5D9;&#x5E8;&#x5D5;&#x5D2;</mm_help>
+  </choose_rating_option_error>
+  <rating_nickname_error>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D4;&#x5D6;&#x5DF; &#x5E9;&#x5DD; nick</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D6;&#x5DF; &#x5E9;&#x5DD; nick</mm_text>
+    <mm_help>&#x5D4;&#x5D6;&#x5DF; &#x5E9;&#x5DD; nick</mm_help>
+  </rating_nickname_error>
+  <rating_summary_error>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D4;&#x5D6;&#x5DF; &#x5E1;&#x5D9;&#x5DB;&#x5D5;&#x5DD; &#x5E9;&#x5DC; &#x5D4;&#x5E1;&#x5E7;&#x5D9;&#x5E8;&#x5D4; &#x5E9;&#x5DC;&#x5DA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D6;&#x5DF; &#x5E1;&#x5D9;&#x5DB;&#x5D5;&#x5DD; &#x5E9;&#x5DC; &#x5D4;&#x5E1;&#x5E7;&#x5D9;&#x5E8;&#x5D4; &#x5E9;&#x5DC;&#x5DA;</mm_text>
+    <mm_help>&#x5D4;&#x5D6;&#x5DF; &#x5E1;&#x5D9;&#x5DB;&#x5D5;&#x5DD; &#x5E9;&#x5DC; &#x5D4;&#x5E1;&#x5E7;&#x5D9;&#x5E8;&#x5D4; &#x5E9;&#x5DC;&#x5DA;</mm_help>
+  </rating_summary_error>
+  <rating_comment_error>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D4;&#x5D6;&#x5DF; &#x5D4;&#x5E2;&#x5E8;&#x5D5;&#x5EA; &#x5D1;&#x5D9;&#x5E7;&#x5D5;&#x5E8;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D6;&#x5DF; &#x5D4;&#x5E2;&#x5E8;&#x5D5;&#x5EA; &#x5D1;&#x5D9;&#x5E7;&#x5D5;&#x5E8;&#x5EA;</mm_text>
+    <mm_help>&#x5D4;&#x5D6;&#x5DF; &#x5D4;&#x5E2;&#x5E8;&#x5D5;&#x5EA; &#x5D1;&#x5D9;&#x5E7;&#x5D5;&#x5E8;&#x5EA;</mm_help>
+  </rating_comment_error>
+  <email_required_error>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D4;&#x5D6;&#x5DF; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D3;&#x5D5;&#x5D0;"&#x5DC;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D6;&#x5DF; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D3;&#x5D5;&#x5D0;&amp;amp;quot;&#x5DC;</mm_text>
+    <mm_help>&#x5D4;&#x5D6;&#x5DF; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D3;&#x5D5;&#x5D0;&amp;amp;quot;&#x5DC;</mm_help>
+  </email_required_error>
+  <password_required_error>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D4;&#x5D6;&#x5DF; &#x5D0;&#x5EA; &#x5D4;&#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D6;&#x5DF; &#x5D0;&#x5EA; &#x5D4;&#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D4;</mm_text>
+    <mm_help>&#x5D4;&#x5D6;&#x5DF; &#x5D0;&#x5EA; &#x5D4;&#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D4;</mm_help>
+  </password_required_error>
+  <firstname_required_error>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D4;&#x5D6;&#x5DF; &#x5E9;&#x5DD; &#x5E4;&#x5E8;&#x5D8;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D6;&#x5DF; &#x5E9;&#x5DD; &#x5E4;&#x5E8;&#x5D8;&#x5D9;</mm_text>
+    <mm_help>&#x5D4;&#x5D6;&#x5DF; &#x5E9;&#x5DD; &#x5E4;&#x5E8;&#x5D8;&#x5D9;</mm_help>
+  </firstname_required_error>
+  <lastname_required_error>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D4;&#x5D6;&#x5DF; &#x5E9;&#x5DD; &#x5DE;&#x5E9;&#x5E4;&#x5D7;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D6;&#x5DF; &#x5E9;&#x5DD; &#x5DE;&#x5E9;&#x5E4;&#x5D7;&#x5D4;</mm_text>
+    <mm_help>&#x5D4;&#x5D6;&#x5DF; &#x5E9;&#x5DD; &#x5DE;&#x5E9;&#x5E4;&#x5D7;&#x5D4;</mm_help>
+  </lastname_required_error>
+  <email_valid_error>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D4;&#x5D6;&#x5DF; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D3;&#x5D5;&#x5D0;"&#x5DC; &#x5D7;&#x5D5;&#x5E7;&#x5D9;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D6;&#x5DF; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D3;&#x5D5;&#x5D0;&amp;amp;quot;&#x5DC; &#x5D7;&#x5D5;&#x5E7;&#x5D9;&#x5EA;</mm_text>
+    <mm_help>&#x5D4;&#x5D6;&#x5DF; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D3;&#x5D5;&#x5D0;&amp;amp;quot;&#x5DC; &#x5D7;&#x5D5;&#x5E7;&#x5D9;&#x5EA;</mm_help>
+  </email_valid_error>
+  <invalid_login_message>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5E9;&#x5DD; &#x5DE;&#x5E9;&#x5EA;&#x5DE;&#x5E9; &#x5D0;&#x5D5; &#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D4; &#x5DC;&#x5D0; &#x5D7;&#x5D5;&#x5E7;&#x5D9;&#x5D9;&#x5DD;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E9;&#x5DD; &#x5DE;&#x5E9;&#x5EA;&#x5DE;&#x5E9; &#x5D0;&#x5D5; &#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D4; &#x5DC;&#x5D0; &#x5D7;&#x5D5;&#x5E7;&#x5D9;&#x5D9;&#x5DD;</mm_text>
+    <mm_help>&#x5E9;&#x5DD; &#x5DE;&#x5E9;&#x5EA;&#x5DE;&#x5E9; &#x5D0;&#x5D5; &#x5E1;&#x5D9;&#x5E1;&#x5DE;&#x5D4; &#x5DC;&#x5D0; &#x5D7;&#x5D5;&#x5E7;&#x5D9;&#x5D9;&#x5DD;</mm_help>
+  </invalid_login_message>
+  <registration_success_message>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5DE;&#x5D6;&#x5DC; &#x5D8;&#x5D5;&#x5D1;! &#x5E9;&#x5DC;&#x5DA; &#x5E8;&#x5E9;&#x5D5;&#x5DE;&#x5D9;&#x5DD; &#x5D1;&#x5D4;&#x5E6;&#x5DC;&#x5D7;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5D6;&#x5DC; &#x5D8;&#x5D5;&#x5D1;! &#x5E9;&#x5DC;&#x5DA; &#x5E8;&#x5E9;&#x5D5;&#x5DE;&#x5D9;&#x5DD; &#x5D1;&#x5D4;&#x5E6;&#x5DC;&#x5D7;&#x5D4;</mm_text>
+    <mm_help>&#x5DE;&#x5D6;&#x5DC; &#x5D8;&#x5D5;&#x5D1;! &#x5E9;&#x5DC;&#x5DA; &#x5E8;&#x5E9;&#x5D5;&#x5DE;&#x5D9;&#x5DD; &#x5D1;&#x5D4;&#x5E6;&#x5DC;&#x5D7;&#x5D4;</mm_help>
+  </registration_success_message>
+  <please_check_email>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D1;&#x5D3;&#x5D5;&#x5E7; &#x5D0;&#x5EA; &#x5D4;&#x5D0;&#x5D9;&#x5DE;&#x5D9;&#x5D9;&#x5DC;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D1;&#x5D3;&#x5D5;&#x5E7; &#x5D0;&#x5EA; &#x5D4;&#x5D0;&#x5D9;&#x5DE;&#x5D9;&#x5D9;&#x5DC;</mm_text>
+    <mm_help>&#x5D1;&#x5D3;&#x5D5;&#x5E7; &#x5D0;&#x5EA; &#x5D4;&#x5D0;&#x5D9;&#x5DE;&#x5D9;&#x5D9;&#x5DC;</mm_help>
+  </please_check_email>
+  <wishlist_added_message>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D4;&#x5E4;&#x5E8;&#x5D9;&#x5D8; &#x5E0;&#x5D5;&#x5E1;&#x5E3; &#x5DC;&#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5EA; &#x5D4;&#x5DE;&#x5E9;&#x5D0;&#x5DC;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5E4;&#x5E8;&#x5D9;&#x5D8; &#x5E0;&#x5D5;&#x5E1;&#x5E3; &#x5DC;&#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5EA; &#x5D4;&#x5DE;&#x5E9;&#x5D0;&#x5DC;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5D4;&#x5E4;&#x5E8;&#x5D9;&#x5D8; &#x5E0;&#x5D5;&#x5E1;&#x5E3; &#x5DC;&#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5EA; &#x5D4;&#x5DE;&#x5E9;&#x5D0;&#x5DC;&#x5D5;&#x5EA;</mm_help>
+  </wishlist_added_message>
+  <item_removed_message>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D4;&#x5E4;&#x5E8;&#x5D9;&#x5D8; &#x5E0;&#x5DE;&#x5D7;&#x5E7; &#x5DE;&#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5EA; &#x5D4;&#x5DE;&#x5E9;&#x5D0;&#x5DC;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5E4;&#x5E8;&#x5D9;&#x5D8; &#x5E0;&#x5DE;&#x5D7;&#x5E7; &#x5DE;&#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5EA; &#x5D4;&#x5DE;&#x5E9;&#x5D0;&#x5DC;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5D4;&#x5E4;&#x5E8;&#x5D9;&#x5D8; &#x5E0;&#x5DE;&#x5D7;&#x5E7; &#x5DE;&#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5EA; &#x5D4;&#x5DE;&#x5E9;&#x5D0;&#x5DC;&#x5D5;&#x5EA;</mm_help>
+  </item_removed_message>
+  <cart_updated_message>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D4;&#x5E2;&#x5D2;&#x5DC;&#x5D4; &#x5E9;&#x5DC;&#x5DA; &#x5E2;&#x5D5;&#x5D3;&#x5DB;&#x5E0;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5E2;&#x5D2;&#x5DC;&#x5D4; &#x5E9;&#x5DC;&#x5DA; &#x5E2;&#x5D5;&#x5D3;&#x5DB;&#x5E0;&#x5D4;</mm_text>
+    <mm_help>&#x5D4;&#x5E2;&#x5D2;&#x5DC;&#x5D4; &#x5E9;&#x5DC;&#x5DA; &#x5E2;&#x5D5;&#x5D3;&#x5DB;&#x5E0;&#x5D4;</mm_help>
+  </cart_updated_message>
+  <item_added_message>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5E4;&#x5E8;&#x5D9;&#x5D8; &#x5E0;&#x5D5;&#x5E1;&#x5E3; &#x5DC;&#x5E1;&#x5DC;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E4;&#x5E8;&#x5D9;&#x5D8; &#x5E0;&#x5D5;&#x5E1;&#x5E3; &#x5DC;&#x5E1;&#x5DC;</mm_text>
+    <mm_help>&#x5E4;&#x5E8;&#x5D9;&#x5D8; &#x5E0;&#x5D5;&#x5E1;&#x5E3; &#x5DC;&#x5E1;&#x5DC;</mm_help>
+  </item_added_message>
+  <couponcode_applied_message>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5E9;&#x5D5;&#x5D1;&#x5E8; &#x5E7;&#x5D5;&#x5D3; &#x5E7;&#x5D5;&#x5E4;&#x5D5;&#x5DF;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E9;&#x5D5;&#x5D1;&#x5E8; &#x5E7;&#x5D5;&#x5D3; &#x5E7;&#x5D5;&#x5E4;&#x5D5;&#x5DF;</mm_text>
+    <mm_help>&#x5E9;&#x5D5;&#x5D1;&#x5E8; &#x5E7;&#x5D5;&#x5D3; &#x5E7;&#x5D5;&#x5E4;&#x5D5;&#x5DF;</mm_help>
+  </couponcode_applied_message>
+  <couponcode_removed_message>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5E7;&#x5D5;&#x5D3; &#x5D4;&#x5E7;&#x5D5;&#x5E4;&#x5D5;&#x5DF; &#x5D4;&#x5D5;&#x5E1;&#x5E8;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E7;&#x5D5;&#x5D3; &#x5D4;&#x5E7;&#x5D5;&#x5E4;&#x5D5;&#x5DF; &#x5D4;&#x5D5;&#x5E1;&#x5E8;</mm_text>
+    <mm_help>&#x5E7;&#x5D5;&#x5D3; &#x5D4;&#x5E7;&#x5D5;&#x5E4;&#x5D5;&#x5DF; &#x5D4;&#x5D5;&#x5E1;&#x5E8;</mm_help>
+  </couponcode_removed_message>
+  <choose_payment_method_error>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D1;&#x5D7;&#x5E8; &#x5E9;&#x5D9;&#x5D8;&#x5EA; &#x5EA;&#x5E9;&#x5DC;&#x5D5;&#x5DD;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D1;&#x5D7;&#x5E8; &#x5E9;&#x5D9;&#x5D8;&#x5EA; &#x5EA;&#x5E9;&#x5DC;&#x5D5;&#x5DD;</mm_text>
+    <mm_help>&#x5D1;&#x5D7;&#x5E8; &#x5E9;&#x5D9;&#x5D8;&#x5EA; &#x5EA;&#x5E9;&#x5DC;&#x5D5;&#x5DD;</mm_help>
+  </choose_payment_method_error>
+  <account_already_exists>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D4;&#x5D7;&#x5E9;&#x5D1;&#x5D5;&#x5DF; &#x5DB;&#x5D1;&#x5E8; &#x5E7;&#x5D9;&#x5D9;&#x5DD;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5D7;&#x5E9;&#x5D1;&#x5D5;&#x5DF; &#x5DB;&#x5D1;&#x5E8; &#x5E7;&#x5D9;&#x5D9;&#x5DD;</mm_text>
+    <mm_help>&#x5D4;&#x5D7;&#x5E9;&#x5D1;&#x5D5;&#x5DF; &#x5DB;&#x5D1;&#x5E8; &#x5E7;&#x5D9;&#x5D9;&#x5DD;</mm_help>
+  </account_already_exists>
+  <please_login_to_continue>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D0;&#x5E0;&#x5D0; &#x5D4;&#x5EA;&#x5D7;&#x5D1;&#x5E8; &#x5E2;&#x5DC; &#x5DE;&#x5E0;&#x5EA; &#x5DC;&#x5D4;&#x5DE;&#x5E9;&#x5D9;&#x5DA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D0;&#x5E0;&#x5D0; &#x5D4;&#x5EA;&#x5D7;&#x5D1;&#x5E8; &#x5E2;&#x5DC; &#x5DE;&#x5E0;&#x5EA; &#x5DC;&#x5D4;&#x5DE;&#x5E9;&#x5D9;&#x5DA;</mm_text>
+    <mm_help>&#x5D0;&#x5E0;&#x5D0; &#x5D4;&#x5EA;&#x5D7;&#x5D1;&#x5E8; &#x5E2;&#x5DC; &#x5DE;&#x5E0;&#x5EA; &#x5DC;&#x5D4;&#x5DE;&#x5E9;&#x5D9;&#x5DA;</mm_help>
+  </please_login_to_continue>
+  <cannot_reorder_this_order>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5DC;&#x5D0; &#x5E0;&#x5D9;&#x5EA;&#x5DF; &#x5DC;&#x5E1;&#x5D3;&#x5E8; &#x5DE;&#x5D7;&#x5D3;&#x5E9; &#x5D0;&#x5EA; &#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5D0; &#x5E0;&#x5D9;&#x5EA;&#x5DF; &#x5DC;&#x5E1;&#x5D3;&#x5E8; &#x5DE;&#x5D7;&#x5D3;&#x5E9; &#x5D0;&#x5EA; &#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4;</mm_text>
+    <mm_help>&#x5DC;&#x5D0; &#x5E0;&#x5D9;&#x5EA;&#x5DF; &#x5DC;&#x5E1;&#x5D3;&#x5E8; &#x5DE;&#x5D7;&#x5D3;&#x5E9; &#x5D0;&#x5EA; &#x5D4;&#x5D4;&#x5D6;&#x5DE;&#x5E0;&#x5D4;</mm_help>
+  </cannot_reorder_this_order>
+  <invalid_qrcode>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5E7;&#x5D5;&#x5D3; QR &#x5DC;&#x5D0; &#x5D7;&#x5D5;&#x5E7;&#x5D9;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E7;&#x5D5;&#x5D3; QR &#x5DC;&#x5D0; &#x5D7;&#x5D5;&#x5E7;&#x5D9;</mm_text>
+    <mm_help>&#x5E7;&#x5D5;&#x5D3; QR &#x5DC;&#x5D0; &#x5D7;&#x5D5;&#x5E7;&#x5D9;</mm_help>
+  </invalid_qrcode>
+  <product_not_available>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D4;&#x5DE;&#x5D5;&#x5E6;&#x5E8; &#x5D0;&#x5D9;&#x5E0;&#x5D5; &#x5D6;&#x5DE;&#x5D9;&#x5DF;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D4;&#x5DE;&#x5D5;&#x5E6;&#x5E8; &#x5D0;&#x5D9;&#x5E0;&#x5D5; &#x5D6;&#x5DE;&#x5D9;&#x5DF;</mm_text>
+    <mm_help>&#x5D4;&#x5DE;&#x5D5;&#x5E6;&#x5E8; &#x5D0;&#x5D9;&#x5E0;&#x5D5; &#x5D6;&#x5DE;&#x5D9;&#x5DF;</mm_help>
+  </product_not_available>
+  <message_agree_terms>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5D0;&#x5E0;&#x5D0; &#x5DE;&#x5DC;&#x5D0; &#x5D0;&#x5EA; &#x5DB;&#x5DC; &#x5D4;&#x5EA;&#x5E0;&#x5D0;&#x5D9;&#x5DD; &#x5D5;&#x5D4;&#x5D4;&#x5D2;&#x5D1;&#x5DC;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5D0;&#x5E0;&#x5D0; &#x5DE;&#x5DC;&#x5D0; &#x5D0;&#x5EA; &#x5DB;&#x5DC; &#x5D4;&#x5EA;&#x5E0;&#x5D0;&#x5D9;&#x5DD; &#x5D5;&#x5D4;&#x5D4;&#x5D2;&#x5D1;&#x5DC;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5D0;&#x5E0;&#x5D0; &#x5DE;&#x5DC;&#x5D0; &#x5D0;&#x5EA; &#x5DB;&#x5DC; &#x5D4;&#x5EA;&#x5E0;&#x5D0;&#x5D9;&#x5DD; &#x5D5;&#x5D4;&#x5D4;&#x5D2;&#x5D1;&#x5DC;&#x5D5;&#x5EA;</mm_help>
+  </message_agree_terms>
+  <invalid_data>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5E0;&#x5EA;&#x5D5;&#x5E0;&#x5D9;&#x5DD; &#x5DC;&#x5D0; &#x5D7;&#x5D5;&#x5E7;&#x5D9;&#x5D9;&#x5DD;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5E0;&#x5EA;&#x5D5;&#x5E0;&#x5D9;&#x5DD; &#x5DC;&#x5D0; &#x5D7;&#x5D5;&#x5E7;&#x5D9;&#x5D9;&#x5DD;</mm_text>
+    <mm_help>&#x5E0;&#x5EA;&#x5D5;&#x5E0;&#x5D9;&#x5DD; &#x5DC;&#x5D0; &#x5D7;&#x5D5;&#x5E7;&#x5D9;&#x5D9;&#x5DD;</mm_help>
+  </invalid_data>
+  <address_save_error>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5DC;&#x5D0; &#x5E0;&#x5D9;&#x5EA;&#x5DF; &#x5DC;&#x5E9;&#x5DE;&#x5D5;&#x5E8; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5D0; &#x5E0;&#x5D9;&#x5EA;&#x5DF; &#x5DC;&#x5E9;&#x5DE;&#x5D5;&#x5E8; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA;</mm_text>
+    <mm_help>&#x5DC;&#x5D0; &#x5E0;&#x5D9;&#x5EA;&#x5DF; &#x5DC;&#x5E9;&#x5DE;&#x5D5;&#x5E8; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA;</mm_help>
+  </address_save_error>
+  <account_not_found_error>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5DC;&#x5D0; &#x5E7;&#x5D9;&#x5D9;&#x5DD; &#x5D7;&#x5E9;&#x5D1;&#x5D5;&#x5DF; &#x5E2;&#x5DD; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D4;&#x5D0;&#x5D9;&#x5DE;&#x5D9;&#x5D9;&#x5DC; &#x5E9;&#x5E1;&#x5D5;&#x5E4;&#x5E7;&#x5D4;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5D0; &#x5E7;&#x5D9;&#x5D9;&#x5DD; &#x5D7;&#x5E9;&#x5D1;&#x5D5;&#x5DF; &#x5E2;&#x5DD; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D4;&#x5D0;&#x5D9;&#x5DE;&#x5D9;&#x5D9;&#x5DC; &#x5E9;&#x5E1;&#x5D5;&#x5E4;&#x5E7;&#x5D4;</mm_text>
+    <mm_help>&#x5DC;&#x5D0; &#x5E7;&#x5D9;&#x5D9;&#x5DD; &#x5D7;&#x5E9;&#x5D1;&#x5D5;&#x5DF; &#x5E2;&#x5DD; &#x5DB;&#x5EA;&#x5D5;&#x5D1;&#x5EA; &#x5D4;&#x5D0;&#x5D9;&#x5DE;&#x5D9;&#x5D9;&#x5DC; &#x5E9;&#x5E1;&#x5D5;&#x5E4;&#x5E7;&#x5D4;</mm_help>
+  </account_not_found_error>
+  <wishlist_not_found_error>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5DC;&#x5D0; &#x5E0;&#x5DE;&#x5E6;&#x5D0;&#x5D5; &#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5D5;&#x5EA;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DC;&#x5D0; &#x5E0;&#x5DE;&#x5E6;&#x5D0;&#x5D5; &#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5D5;&#x5EA;</mm_text>
+    <mm_help>&#x5DC;&#x5D0; &#x5E0;&#x5DE;&#x5E6;&#x5D0;&#x5D5; &#x5E8;&#x5E9;&#x5D9;&#x5DE;&#x5D5;&#x5EA;</mm_help>
+  </wishlist_not_found_error>
+  <products_found>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5DE;&#x5D5;&#x5E6;&#x5E8;&#x5D9;&#x5DD; &#x5E9;&#x5E0;&#x5DE;&#x5E6;&#x5D0;&#x5D5;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5D5;&#x5E6;&#x5E8;&#x5D9;&#x5DD; &#x5E9;&#x5E0;&#x5DE;&#x5E6;&#x5D0;&#x5D5;</mm_text>
+    <mm_help>&#x5DE;&#x5D5;&#x5E6;&#x5E8;&#x5D9;&#x5DD; &#x5E9;&#x5E0;&#x5DE;&#x5E6;&#x5D0;&#x5D5;</mm_help>
+  </products_found>
+  <this_product_is_no_longer_in_stock>
+    <mm_type>message</mm_type>
+    <mm_label>&#x5DE;&#x5D5;&#x5E6;&#x5E8; &#x5D6;&#x5D4; &#x5D0;&#x5D9;&#x5E0;&#x5D5; &#x5E0;&#x5DE;&#x5E6;&#x5D0; &#x5E2;&#x5D5;&#x5D3; &#x5D1;&#x5DE;&#x5DC;&#x5D0;&#x5D9; &#x5E2;&#x5DD; &#x5EA;&#x5DB;&#x5D5;&#x5E0;&#x5D5;&#x5EA; &#x5D0;&#x5DC;&#x5D4;, &#x5D0;&#x5DA; &#x5D4;&#x5D5;&#x5D0; &#x5D6;&#x5DE;&#x5D9;&#x5DF; &#x5E2;&#x5DD; &#x5D0;&#x5D7;&#x5E8;&#x5D9;&#x5DD;</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>&#x5DE;&#x5D5;&#x5E6;&#x5E8; &#x5D6;&#x5D4; &#x5D0;&#x5D9;&#x5E0;&#x5D5; &#x5E0;&#x5DE;&#x5E6;&#x5D0; &#x5E2;&#x5D5;&#x5D3; &#x5D1;&#x5DE;&#x5DC;&#x5D0;&#x5D9; &#x5E2;&#x5DD; &#x5EA;&#x5DB;&#x5D5;&#x5E0;&#x5D5;&#x5EA; &#x5D0;&#x5DC;&#x5D4;, &#x5D0;&#x5DA; &#x5D4;&#x5D5;&#x5D0; &#x5D6;&#x5DE;&#x5D9;&#x5DF; &#x5E2;&#x5DD; &#x5D0;&#x5D7;&#x5E8;&#x5D9;&#x5DD;</mm_text>
+    <mm_help>&#x5DE;&#x5D5;&#x5E6;&#x5E8; &#x5D6;&#x5D4; &#x5D0;&#x5D9;&#x5E0;&#x5D5; &#x5E0;&#x5DE;&#x5E6;&#x5D0; &#x5E2;&#x5D5;&#x5D3; &#x5D1;&#x5DE;&#x5DC;&#x5D0;&#x5D9; &#x5E2;&#x5DD; &#x5EA;&#x5DB;&#x5D5;&#x5E0;&#x5D5;&#x5EA; &#x5D0;&#x5DC;&#x5D4;, &#x5D0;&#x5DA; &#x5D4;&#x5D5;&#x5D0; &#x5D6;&#x5DE;&#x5D9;&#x5DF; &#x5E2;&#x5DD; &#x5D0;&#x5D7;&#x5E8;&#x5D9;&#x5DD;</mm_help>
+  </this_product_is_no_longer_in_stock>
+</mobicommerce_multilanguage>

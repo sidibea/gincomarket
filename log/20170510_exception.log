@@ -1,0 +1,5 @@
+*ERROR* 	2017/05/10 - 09:26:09: Property SellerInfo->phone is not valid at line 909 in file classes/ObjectModel.php
+*ERROR* 	2017/05/10 - 09:28:08: Property SellerInfo->id_seller is empty at line 909 in file classes/ObjectModel.php
+*ERROR* 	2017/05/10 - 09:29:20: Property SellerInfo->id_seller is empty at line 909 in file classes/ObjectModel.php
+*ERROR* 	2017/05/10 - 09:29:56: Property SellerInfo->id_seller is empty at line 909 in file classes/ObjectModel.php
+*ERROR* 	2017/05/10 - 09:35:54: Property SellerInfo->id_seller is empty at line 909 in file classes/ObjectModel.php

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<mobicommerce_personalizer>
+  <android_primary_theme>
+    <current_value>theme-indigo</current_value>
+  </android_primary_theme>
+  <android_secondary_theme>
+    <current_value>theme-accent-deeporange</current_value>
+  </android_secondary_theme>
+  <android_discount_rating>
+    <current_value>#4CAF50</current_value>
+  </android_discount_rating>
+  <ios_primary_theme>
+    <current_value>theme-blue</current_value>
+  </ios_primary_theme>
+  <ios_secondary_theme>
+    <current_value>theme-accent-deeporange</current_value>
+  </ios_secondary_theme>
+  <ios_discount_rating>
+    <current_value>#F44336</current_value>
+  </ios_discount_rating>
+</mobicommerce_personalizer>

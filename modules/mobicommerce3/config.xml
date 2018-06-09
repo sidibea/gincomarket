@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>mobicommerce3</name>
+	<displayName><![CDATA[MobiCommerce 3.0]]></displayName>
+	<version><![CDATA[3.0.0]]></version>
+	<description><![CDATA[Create Mobile Native iOS &amp; Android apps and Mobile website for your magento store. All you can do through Mageto admin.
+			Preview and test your mobile apps and mobile website before you buy it.
+			Personalize and customize your apps on the fly.
+			Send Push notification to all of your mobile user.
+			No coding and technical skills required to create and manage your mobile apps.
+			    Create Mobile Native iOS &amp; Android apps and Mobile website for your magento store. All you can do through Mageto admin.
+			Preview and test your mobile apps and mobile website before you buy it.
+			Personalize and customize your apps on the fly.
+			Send Push notification to all of your mobile user.
+			No coding and technical skills required to create and manage your mobile apps.]]></description>
+	<author><![CDATA[MobiCommerce]]></author>
+	<tab><![CDATA[mobile]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
+	<is_configurable>0</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

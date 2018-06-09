@@ -1,0 +1,63 @@
+a:2:{i:0;a:12:{s:10:"id_product";s:4:"1257";s:7:"id_shop";s:1:"1";s:7:"id_lang";s:1:"1";s:11:"description";s:3420:"<div class="LooprArticleDetailsSection SparkColor--background-default SparkCard SparkFlexbox SparkFlexbox--padding">
+<div class="SparkText SparkText--variant-title SparkText--nowrap SparkText--block">Valeurs Nutritionnelles</div>
+<div class="SparkTable">
+<div class="SparkTable__BodyContainer">
+<table class="SparkTable__Table"><thead class="SparkColor--background-secondary SparkTableHeader"><tr class="SparkTableRow"><th class="SparkTableCell SparkTableCell--header">
+<div class="SparkText SparkText--align-left SparkText--block">Informations pour 100g</div>
+</th><th class="SparkTableCell SparkTableCell--header"></th></tr></thead><tbody class="SparkTableBody SparkTableBody--striped"><tr class="SparkTableRow"><td class="SparkTableCell">Fibres en g pour 100g/100ml</td>
+<td class="SparkTableCell">
+<div class="SparkText SparkText--align-right SparkText--block">2.3</div>
+</td>
+</tr><tr class="SparkTableRow"><td class="SparkTableCell">Glucides en g pour 100g/100ml</td>
+<td class="SparkTableCell">
+<div class="SparkText SparkText--align-right SparkText--block">9.4</div>
+</td>
+</tr><tr class="SparkTableRow"><td class="SparkTableCell">Graisse en g pour 100g/100ml</td>
+<td class="SparkTableCell">
+<div class="SparkText SparkText--align-right SparkText--block">0.6</div>
+</td>
+</tr><tr class="SparkTableRow"><td class="SparkTableCell">Protéines en g pour 100g/100ml</td>
+<td class="SparkTableCell">
+<div class="SparkText SparkText--align-right SparkText--block">4.2</div>
+</td>
+</tr><tr class="SparkTableRow"><td class="SparkTableCell">Protides en g/100g</td>
+<td class="SparkTableCell">
+<div class="SparkText SparkText--align-right SparkText--block">5.6</div>
+</td>
+</tr><tr class="SparkTableRow"><td class="SparkTableCell">Quantité de sel g pour 100g/100ml</td>
+<td class="SparkTableCell">
+<div class="SparkText SparkText--align-right SparkText--block">0.67</div>
+</td>
+</tr><tr class="SparkTableRow"><td class="SparkTableCell">Quantité d'acides gras saturés en g pour 100g/100ml</td>
+<td class="SparkTableCell">
+<div class="SparkText SparkText--align-right SparkText--block">0</div>
+</td>
+</tr></tbody></table></div>
+</div>
+<div class="SparkTable">
+<div class="SparkTable__BodyContainer">
+<table class="SparkTable__Table"><thead class="SparkColor--background-secondary SparkTableHeader"><tr class="SparkTableRow"><th class="SparkTableCell SparkTableCell--header">
+<div class="SparkText SparkText--align-left SparkText--block">Apports Journaliers Recommandés (AJR)</div>
+</th><th class="SparkTableCell SparkTableCell--header"></th></tr></thead><tbody class="SparkTableBody SparkTableBody--striped"><tr class="SparkTableRow"><td class="SparkTableCell">Lipides (en % des ajr)</td>
+<td class="SparkTableCell">
+<div class="SparkText SparkText--align-right SparkText--block">1</div>
+</td>
+</tr><tr class="SparkTableRow"><td class="SparkTableCell">Protéines (en % des ajr)</td>
+<td class="SparkTableCell">
+<div class="SparkText SparkText--align-right SparkText--block">8</div>
+</td>
+</tr><tr class="SparkTableRow"><td class="SparkTableCell">Sucres (en % des ajr)</td>
+<td class="SparkTableCell">
+<div class="SparkText SparkText--align-right SparkText--block">2</div>
+</td>
+</tr><tr class="SparkTableRow"><td class="SparkTableCell">Valeur énergétique (% des AJR)</td>
+<td class="SparkTableCell">
+<div class="SparkText SparkText--align-right SparkText--block">3</div>
+</td>
+</tr></tbody></table></div>
+</div>
+</div>";s:17:"description_short";s:535:"<div class="LooprArticleDetailsSection SparkColor--background-default SparkCard SparkFlexbox SparkFlexbox--padding">
+<div class="SparkFlexbox">
+<div class="SparkText SparkText--variant-body-1 SparkText--align-justify SparkText--block">Lentilles sèches trempées et carottes en bâtonnets en proportion variable, eau, arômes* (blé, orge), sel, arôme naturel d'épices, antioxydant : acide ascorbique, arôme naturel de thym, arôme naturel de romarin. *présence d'ingrédients d'origine animale (poule et porc).</div>
+</div>
+</div>";s:12:"link_rewrite";s:61:"bonduelle-lentilles-carottes-la-conserve-de-800g-530g-egoutte";s:16:"meta_description";s:0:"";s:13:"meta_keywords";s:0:"";s:10:"meta_title";s:0:"";s:4:"name";s:67:"Bonduelle Lentilles & Carottes La conserve de 800G (530G égoutté)";s:13:"available_now";s:0:"";s:15:"available_later";s:0:"";}i:1;a:12:{s:10:"id_product";s:4:"1257";s:7:"id_shop";s:1:"1";s:7:"id_lang";s:1:"2";s:11:"description";s:0:"";s:17:"description_short";s:0:"";s:12:"link_rewrite";s:61:"bonduelle-lentilles-carottes-la-conserve-de-800g-530g-egoutte";s:16:"meta_description";s:0:"";s:13:"meta_keywords";s:0:"";s:10:"meta_title";s:0:"";s:4:"name";s:67:"Bonduelle Lentilles & Carottes La conserve de 800G (530G égoutté)";s:13:"available_now";s:0:"";s:15:"available_later";s:0:"";}}

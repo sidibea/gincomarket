@@ -1,0 +1,15 @@
+﻿===========================================
+KuteShop Theme(03.16.2016)
+===========================================				
+***** Released version 1.0.2 *****
+1.	Fixed	:	Megamenus show on mobile devices
+2.	Fixed	:	checkout page, payment checkount page,...
+3.	Fixed	:	cart box on sticky menu
+4.	Fixed	:	Translate the text (Search...) in search box
+===========================================
+KuteShop Theme(03.15.2016)
+===========================================				
+***** Released version 1.0.1 *****
+1.	Fixed	:	Megamenus show on mobile devices
+	Files 	:	../themes/kuteshop/css/global.css
+2.	Update	:	smartblog with multi-store

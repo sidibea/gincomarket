@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>agilesellershipping</name>
+	<displayName><![CDATA[Agile Livraison Vendeur]]></displayName>
+	<version><![CDATA[2.5.0.3]]></version>
+	<description><![CDATA[Permet aux vendeurs de d&eacute;finir leurs modes de livraison]]></description>
+	<author><![CDATA[addons-modules.com]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

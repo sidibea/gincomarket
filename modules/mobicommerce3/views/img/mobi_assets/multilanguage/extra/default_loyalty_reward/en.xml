@@ -1,0 +1,147 @@
+<my_loyalty_points>
+    <mm_type>label</mm_type>
+    <mm_label>My Loyalty Points</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>My Loyalty Points</mm_text>
+    <mm_help>My Loyalty Points</mm_help>
+</my_loyalty_points>
+<my_vouchers>
+    <mm_type>label</mm_type>
+    <mm_label>My Vouchers</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>My Vouchers</mm_text>
+    <mm_help>My Vouchers</mm_help>
+</my_vouchers>
+<points>
+    <mm_type>label</mm_type>
+    <mm_label>Points</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>Points</mm_text>
+    <mm_help>Points</mm_help>
+</points>
+<available_points>
+    <mm_type>label</mm_type>
+    <mm_label>Available Points</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>Available Points</mm_text>
+    <mm_help>Available Points</mm_help>
+</available_points>
+<order_id>
+    <mm_type>label</mm_type>
+    <mm_label>Order ID</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>Order ID</mm_text>
+    <mm_help>Order ID</mm_help>
+</order_id>
+<date>
+    <mm_type>label</mm_type>
+    <mm_label>Date</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>Date</mm_text>
+    <mm_help>Date</mm_help>
+</date>
+<point_history>
+    <mm_type>label</mm_type>
+    <mm_label>Points History</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>Points History</mm_text>
+    <mm_help>Points History</mm_help>
+</point_history>
+<available_vouchers>
+    <mm_type>label</mm_type>
+    <mm_label>Available Vouchers</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>Available Vouchers</mm_text>
+    <mm_help>Available Vouchers</mm_help>
+</available_vouchers>
+<status>
+    <mm_type>label</mm_type>
+    <mm_label>Status</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>Status</mm_text>
+    <mm_help>Status</mm_help>
+</status>
+<exp_date>
+    <mm_type>label</mm_type>
+    <mm_label>Expiry Date</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>Expiry Date</mm_text>
+    <mm_help>Expiry Date</mm_help>
+</exp_date>
+<available>
+    <mm_type>label</mm_type>
+    <mm_label>Available</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>Available</mm_text>
+    <mm_help>Available</mm_help>
+</available>
+<used>
+    <mm_type>label</mm_type>
+    <mm_label>Used</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>Used</mm_text>
+    <mm_help>Used</mm_help>
+</used>
+<code>
+    <mm_type>label</mm_type>
+    <mm_label>Code</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>Code</mm_text>
+    <mm_help>Code</mm_help>
+</code>
+<no_loyalty_points>
+    <mm_type>label</mm_type>
+    <mm_label>No loyalty points</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>No loyalty points</mm_text>
+    <mm_help>No loyalty points</mm_help>
+</no_loyalty_points>
+<you_dont_have_loyalty_points>
+    <mm_type>label</mm_type>
+    <mm_label>You dont have loyalty points</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>You dont have loyalty points</mm_text>
+    <mm_help>You dont have loyalty points</mm_help>
+</you_dont_have_loyalty_points>
+<no_vouchers>
+    <mm_type>label</mm_type>
+    <mm_label>No Vouchers</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>No Vouchers</mm_text>
+    <mm_help>No Vouchers</mm_help>
+</no_vouchers>
+<you_dont_have_vouchers>
+    <mm_type>label</mm_type>
+    <mm_label>You dont have vouchers</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>You dont have vouchers</mm_text>
+    <mm_help>You dont have vouchers</mm_help>
+</you_dont_have_vouchers>
+<sponsorship>
+    <mm_type>label</mm_type>
+    <mm_label>Sponsership</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>Sponsership</mm_text>
+    <mm_help>Sponsership</mm_help>
+</sponsorship>
+<sponsor_my_friend>
+    <mm_type>label</mm_type>
+    <mm_label>Sponser my friend</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>Sponser my friend</mm_text>
+    <mm_help>Sponser my friend</mm_help>
+</sponsor_my_friend>
+<friends_waiting>
+    <mm_type>label</mm_type>
+    <mm_label>Friends Waiting</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>Friends Waiting</mm_text>
+    <mm_help>Friends Waiting</mm_help>
+</friends_waiting>
+<friends_reported>
+    <mm_type>label</mm_type>
+    <mm_label>Friends I have reported</mm_label>
+    <mm_maxlength>255</mm_maxlength>
+    <mm_text>Friends I have reported</mm_text>
+    <mm_help>Friends I have reported</mm_help>
+</friends_reported>

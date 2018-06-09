@@ -1,0 +1,48 @@
+.style-7 .box-header{
+    background: #ff823c
+}
+.style-7 .group-types{
+    background: #e32700
+}
+.style-7 .category-list li a:hover,
+.style-7 .category-list li.active a{
+    border-left: 3px solid #7c3400;
+    color: #7c3400
+}
+.style-7 .manufacturer-list-paginations:hover,
+.style-7 .group-products-paginations:hover{
+    background: #ff823c;
+    color: #fff
+}
+.style-7 .div-quick-view a:hover{
+    color: #ff823c
+}
+.style-7 .group-banners{
+    background: #ffffff;
+    background: -moz-linear-gradient(top,  #ffffff 0%, #ffffff 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#ffffff));
+    background: -webkit-linear-gradient(top,  #ffffff 0%,#ffffff 100%);
+    background: -o-linear-gradient(top,  #ffffff 0%,#ffffff 100%);
+    background: -ms-linear-gradient(top,  #ffffff 0%,#ffffff 100%);
+    background: linear-gradient(to bottom,  #ffffff 0%,#ffffff 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 )
+}
+.style-7 .add-to-cart{
+    background: #ff823c
+}
+.style-7 .product-price-new{
+    color: #7c3400
+}
+.style-7 .owl-nav .owl-prev:hover,
+.style-7 .owl-nav .owl-next:hover{
+    background: #ff823c !important;
+}
+.style-7.option3 ul.list li.active, 
+.style-7.option3 ul.list li:hover{
+    border-top-color: #ff823c;   
+    border-bottom-color: #ff823c;
+}
+.style-7.option3 ul.list li.active:before, 
+.style-7.option3 ul.list li:hover:before{
+    color: #ff823c;    
+}

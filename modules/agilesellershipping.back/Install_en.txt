@@ -1,0 +1,42 @@
+This module requires Agile Multiple Seller 1.4.1.7 or higher
+
+
+New Install
+======================
+1. Login to PrestaShop back office and click Modules tab
+2. Click "Add a module from my computer" and choose the module package you have downlaoded and click "Upload this module"
+3. Input "agile" in the search bix of Module page and select "Agile Seller Shipping"
+4. Click "install" link under the module, the module will be installed automatically.
+5. Click "Configure" link under the module, it will bring you to the module configuration screen
+
+
+Upgrade from old version
+========================
+0. As best practice, please back up your database for just in case.
+1. Record/Memo the module configuration parameters
+2. Uninstall old version of Agile Seller Shipping, back office - Modules tab
+3. Delete the module (uninstalled already) , Back office - Modules tab
+   (make sure all files are gone via FTP or File manager)
+4. Execute above "New Insall" from 1. - 6.
+
+Your existing data will remain unchanged.
+But you will need to re-configure the module.
+
+
+In order to make this module work
+=================
+1. Set the carrier information, linked from this module screen (or go Shipping Tab -> Carriers tab)
+   Change carrier name if necessary
+   Set all other infomraiton based on your needs
+   Set this carrier as default carrier
+   Disable all otehr carriers
+2. Create a prices range or weight range based on your setting above
+3. Set the shipping prices for each zone at "Shipping" tab home page
+
+
+Limitatiomns
+==========================
+- This module requires Agile Multiple Seller 1.4.1.7 or higher
+- This module must be work together with Agile Multiple Seller module
+- When this module is installed, all other carrier must be disabled
+- Carrier linked to this module must be set as detaul carrier

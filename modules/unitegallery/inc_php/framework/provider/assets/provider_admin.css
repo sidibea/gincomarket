@@ -1,0 +1,28 @@
+@CHARSET "ISO-8859-1";
+
+.ui-dialog{
+	z-index:1000;
+}
+
+/* --------- Items View ------------ */
+
+.list_items li .item_title{
+	paddibng-top:1px;
+	padding-bottom:4px;
+}
+
+#dv_button_video_add{
+	top:430px;
+}
+
+#dv_error_message_bottom{
+	top:457px;
+}
+
+/* --------- settings ------------ */
+
+.settings_wrapper label{
+	cursor:pointer;
+}
+
+

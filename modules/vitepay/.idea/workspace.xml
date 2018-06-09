@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="610f8142-7449-4803-a5b2-6c15b92f9087" name="Default" comment="" />
+    <ignored path="vitepay.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="vitepay" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="255">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vitepay.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vitepay.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-23.166666" vertical-offset="5924" max-vertical-offset="7650">
+              <caret line="456" column="15" selection-start-line="456" selection-start-column="15" selection-end-line="456" selection-end-column="54" />
+              <folding>
+                <marker date="1440425274000" expanded="true" signature="5274:5285" placeholder="..." />
+                <marker date="1440425274000" expanded="true" signature="5286:5497" placeholder="..." />
+                <marker date="1440425274000" expanded="false" signature="5310:5328" placeholder="..." />
+                <marker date="1440425274000" expanded="true" signature="8938:9064" placeholder="..." />
+                <marker date="1440425274000" expanded="true" signature="14442:14507" placeholder="..." />
+                <marker date="1440425274000" expanded="false" signature="14553:14567" placeholder="..." />
+                <marker date="1440425274000" expanded="true" signature="14568:14708" placeholder="..." />
+                <marker date="1440425274000" expanded="true" signature="14728:14793" placeholder="..." />
+                <marker date="1440425274000" expanded="false" signature="14839:14853" placeholder="..." />
+                <marker date="1440425274000" expanded="true" signature="14854:15319" placeholder="..." />
+                <marker date="1440425274000" expanded="true" signature="15339:15410" placeholder="..." />
+                <marker date="1440425274000" expanded="false" signature="15456:15470" placeholder="..." />
+                <marker date="1440425274000" expanded="true" signature="15471:15901" placeholder="..." />
+                <marker date="1440425274000" expanded="true" signature="16041:16252" placeholder="..." />
+                <marker date="1440425274000" expanded="true" signature="16126:16252" placeholder="..." />
+                <marker date="1440425274000" expanded="false" signature="16172:16203" placeholder="..." />
+                <marker date="1440425274000" expanded="true" signature="16204:16252" placeholder="..." />
+                <marker date="1440425274000" expanded="false" signature="16594:16606" placeholder="..." />
+                <marker date="1440425274000" expanded="true" signature="16814:17525" placeholder="..." />
+                <marker date="1440425274000" expanded="true" signature="17257:17268" placeholder="..." />
+                <marker date="1440425274000" expanded="true" signature="17505:17514" placeholder="..." />
+                <marker date="1440425274000" expanded="true" signature="17784:17802" placeholder="..." />
+                <marker date="1440425274000" expanded="true" signature="18265:18506" placeholder="..." />
+                <marker date="1440425274000" expanded="false" signature="18295:18313" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wp-config.php" pinned="false" current-in-tab="true">
+        <entry file="file:///private/var/folders/lk/3ggrzwnn1rd0952j_lypc0n00000gn/T/fz3temp-2/wp-config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1695">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="confirmation.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/templates/front/confirmation.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vitepay.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/templates/front/vitepay.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="660">
+              <caret line="33" column="78" selection-start-line="33" selection-start-column="78" selection-end-line="33" selection-end-column="78" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vitepay_payment.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/templates/front/vitepay_payment.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vitepay.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Archives/vitepay/vitepay.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="7275">
+              <caret line="81" column="47" selection-start-line="81" selection-start-column="47" selection-end-line="81" selection-end-column="47" />
+              <folding>
+                <marker date="1436280742000" expanded="true" signature="4814:4825" placeholder="..." />
+                <marker date="1436280742000" expanded="true" signature="4826:5023" placeholder="..." />
+                <marker date="1436280742000" expanded="false" signature="4850:4868" placeholder="..." />
+                <marker date="1436280742000" expanded="true" signature="8873:8999" placeholder="..." />
+                <marker date="1436280742000" expanded="true" signature="14294:14355" placeholder="..." />
+                <marker date="1436280742000" expanded="false" signature="14401:14415" placeholder="..." />
+                <marker date="1436280742000" expanded="true" signature="14416:14553" placeholder="..." />
+                <marker date="1436280742000" expanded="true" signature="14573:14634" placeholder="..." />
+                <marker date="1436280742000" expanded="false" signature="14680:14694" placeholder="..." />
+                <marker date="1436280742000" expanded="true" signature="14695:15132" placeholder="..." />
+                <marker date="1436280742000" expanded="true" signature="15152:15219" placeholder="..." />
+                <marker date="1436280742000" expanded="false" signature="15265:15279" placeholder="..." />
+                <marker date="1436280742000" expanded="true" signature="15280:15692" placeholder="..." />
+                <marker date="1436280742000" expanded="true" signature="15828:16035" placeholder="..." />
+                <marker date="1436280742000" expanded="true" signature="15909:16035" placeholder="..." />
+                <marker date="1436280742000" expanded="false" signature="15955:15986" placeholder="..." />
+                <marker date="1436280742000" expanded="true" signature="15987:16035" placeholder="..." />
+                <marker date="1436280742000" expanded="false" signature="16435:16447" placeholder="..." />
+                <marker date="1436280742000" expanded="true" signature="16651:17346" placeholder="..." />
+                <marker date="1436280742000" expanded="true" signature="17082:17093" placeholder="..." />
+                <marker date="1436280742000" expanded="true" signature="17326:17335" placeholder="..." />
+                <marker date="1436280742000" expanded="true" signature="17489:17507" placeholder="..." />
+                <marker date="1436280742000" expanded="true" signature="18084:18311" placeholder="..." />
+                <marker date="1436280742000" expanded="false" signature="18114:18132" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vitepay_success.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/templates/front/vitepay_success.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/views/templates/front/vitepay.tpl" />
+        <option value="$PROJECT_DIR$/../../../../../../../../../../SANY/Wordpress.php" />
+        <option value="$PROJECT_DIR$/../../../../../../../../../../SANY/Prestashop.php" />
+        <option value="$PROJECT_DIR$/vitepay.php" />
+        <option value="/private/var/folders/lk/3ggrzwnn1rd0952j_lypc0n00000gn/T/fz3temp-2/vitepay.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="118" />
+    <option name="y" value="23" />
+    <option name="width" value="1764" />
+    <option name="height" value="1177" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vitepay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vitepay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vitepay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vitepay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vitepay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vitepay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vitepay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vitepay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vitepay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="610f8142-7449-4803-a5b2-6c15b92f9087" name="Default" comment="" />
+      <created>1439982084964</created>
+      <option name="number" value="Default" />
+      <updated>1439982084964</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="118" y="23" width="1764" height="1177" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18524972" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vitepay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7650">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1440425274000" expanded="true" signature="5274:5285" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="5286:5497" placeholder="..." />
+            <marker date="1440425274000" expanded="false" signature="5310:5328" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="8938:9064" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="14442:14507" placeholder="..." />
+            <marker date="1440425274000" expanded="false" signature="14553:14567" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="14568:14708" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="14728:14793" placeholder="..." />
+            <marker date="1440425274000" expanded="false" signature="14839:14853" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="14854:15319" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="15339:15410" placeholder="..." />
+            <marker date="1440425274000" expanded="false" signature="15456:15470" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="15471:15901" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="16041:16252" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="16126:16252" placeholder="..." />
+            <marker date="1440425274000" expanded="false" signature="16172:16203" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="16204:16252" placeholder="..." />
+            <marker date="1440425274000" expanded="false" signature="16594:16606" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="16814:17525" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="17257:17268" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="17505:17514" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="17784:17802" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="18265:18506" placeholder="..." />
+            <marker date="1440425274000" expanded="false" signature="18295:18313" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/confirmation.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/vitepay.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="660">
+          <caret line="33" column="78" selection-start-line="33" selection-start-column="78" selection-end-line="33" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/vitepay_payment.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Archives/vitepay/vitepay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="7275">
+          <caret line="81" column="47" selection-start-line="81" selection-start-column="47" selection-end-line="81" selection-end-column="47" />
+          <folding>
+            <marker date="1436280742000" expanded="true" signature="4814:4825" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="4826:5023" placeholder="..." />
+            <marker date="1436280742000" expanded="false" signature="4850:4868" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="8873:8999" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="14294:14355" placeholder="..." />
+            <marker date="1436280742000" expanded="false" signature="14401:14415" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="14416:14553" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="14573:14634" placeholder="..." />
+            <marker date="1436280742000" expanded="false" signature="14680:14694" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="14695:15132" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="15152:15219" placeholder="..." />
+            <marker date="1436280742000" expanded="false" signature="15265:15279" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="15280:15692" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="15828:16035" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="15909:16035" placeholder="..." />
+            <marker date="1436280742000" expanded="false" signature="15955:15986" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="15987:16035" placeholder="..." />
+            <marker date="1436280742000" expanded="false" signature="16435:16447" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="16651:17346" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="17082:17093" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="17326:17335" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="17489:17507" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="18084:18311" placeholder="..." />
+            <marker date="1436280742000" expanded="false" signature="18114:18132" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/vitepay_success.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vitepay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7650">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1440425274000" expanded="true" signature="5274:5285" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="5286:5497" placeholder="..." />
+            <marker date="1440425274000" expanded="false" signature="5310:5328" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="8938:9064" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="14442:14507" placeholder="..." />
+            <marker date="1440425274000" expanded="false" signature="14553:14567" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="14568:14708" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="14728:14793" placeholder="..." />
+            <marker date="1440425274000" expanded="false" signature="14839:14853" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="14854:15319" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="15339:15410" placeholder="..." />
+            <marker date="1440425274000" expanded="false" signature="15456:15470" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="15471:15901" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="16041:16252" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="16126:16252" placeholder="..." />
+            <marker date="1440425274000" expanded="false" signature="16172:16203" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="16204:16252" placeholder="..." />
+            <marker date="1440425274000" expanded="false" signature="16594:16606" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="16814:17525" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="17257:17268" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="17505:17514" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="17784:17802" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="18265:18506" placeholder="..." />
+            <marker date="1440425274000" expanded="false" signature="18295:18313" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/confirmation.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/vitepay.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="660">
+          <caret line="33" column="78" selection-start-line="33" selection-start-column="78" selection-end-line="33" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/vitepay_payment.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Archives/vitepay/vitepay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="7275">
+          <caret line="81" column="47" selection-start-line="81" selection-start-column="47" selection-end-line="81" selection-end-column="47" />
+          <folding>
+            <marker date="1436280742000" expanded="true" signature="4814:4825" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="4826:5023" placeholder="..." />
+            <marker date="1436280742000" expanded="false" signature="4850:4868" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="8873:8999" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="14294:14355" placeholder="..." />
+            <marker date="1436280742000" expanded="false" signature="14401:14415" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="14416:14553" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="14573:14634" placeholder="..." />
+            <marker date="1436280742000" expanded="false" signature="14680:14694" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="14695:15132" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="15152:15219" placeholder="..." />
+            <marker date="1436280742000" expanded="false" signature="15265:15279" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="15280:15692" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="15828:16035" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="15909:16035" placeholder="..." />
+            <marker date="1436280742000" expanded="false" signature="15955:15986" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="15987:16035" placeholder="..." />
+            <marker date="1436280742000" expanded="false" signature="16435:16447" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="16651:17346" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="17082:17093" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="17326:17335" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="17489:17507" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="18084:18311" placeholder="..." />
+            <marker date="1436280742000" expanded="false" signature="18114:18132" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/vitepay_success.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1057">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/confirmation.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1057">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/vitepay.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="660">
+          <caret line="33" column="78" selection-start-line="33" selection-start-column="78" selection-end-line="33" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/vitepay_success.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1057">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates/front/vitepay_payment.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1057">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Archives/vitepay/vitepay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="7275">
+          <caret line="81" column="47" selection-start-line="81" selection-start-column="47" selection-end-line="81" selection-end-column="47" />
+          <folding>
+            <marker date="1436280742000" expanded="true" signature="4814:4825" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="4826:5023" placeholder="..." />
+            <marker date="1436280742000" expanded="false" signature="4850:4868" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="8873:8999" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="14294:14355" placeholder="..." />
+            <marker date="1436280742000" expanded="false" signature="14401:14415" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="14416:14553" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="14573:14634" placeholder="..." />
+            <marker date="1436280742000" expanded="false" signature="14680:14694" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="14695:15132" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="15152:15219" placeholder="..." />
+            <marker date="1436280742000" expanded="false" signature="15265:15279" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="15280:15692" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="15828:16035" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="15909:16035" placeholder="..." />
+            <marker date="1436280742000" expanded="false" signature="15955:15986" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="15987:16035" placeholder="..." />
+            <marker date="1436280742000" expanded="false" signature="16435:16447" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="16651:17346" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="17082:17093" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="17326:17335" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="17489:17507" placeholder="..." />
+            <marker date="1436280742000" expanded="true" signature="18084:18311" placeholder="..." />
+            <marker date="1436280742000" expanded="false" signature="18114:18132" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vitepay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.166666" vertical-offset="5924" max-vertical-offset="7650">
+          <caret line="456" column="15" selection-start-line="456" selection-start-column="15" selection-end-line="456" selection-end-column="54" />
+          <folding>
+            <marker date="1440425274000" expanded="true" signature="5274:5285" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="5286:5497" placeholder="..." />
+            <marker date="1440425274000" expanded="false" signature="5310:5328" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="8938:9064" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="14442:14507" placeholder="..." />
+            <marker date="1440425274000" expanded="false" signature="14553:14567" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="14568:14708" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="14728:14793" placeholder="..." />
+            <marker date="1440425274000" expanded="false" signature="14839:14853" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="14854:15319" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="15339:15410" placeholder="..." />
+            <marker date="1440425274000" expanded="false" signature="15456:15470" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="15471:15901" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="16041:16252" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="16126:16252" placeholder="..." />
+            <marker date="1440425274000" expanded="false" signature="16172:16203" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="16204:16252" placeholder="..." />
+            <marker date="1440425274000" expanded="false" signature="16594:16606" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="16814:17525" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="17257:17268" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="17505:17514" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="17784:17802" placeholder="..." />
+            <marker date="1440425274000" expanded="true" signature="18265:18506" placeholder="..." />
+            <marker date="1440425274000" expanded="false" signature="18295:18313" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///private/var/folders/lk/3ggrzwnn1rd0952j_lypc0n00000gn/T/fz3temp-2/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1695">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

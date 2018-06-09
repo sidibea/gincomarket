@@ -1,0 +1,18 @@
+<?php /*%%SmartyHeaderCode:291657175b0dcc5b088095-36698577%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+$_valid = $_smarty_tpl->decodeProperties(array (
+  'file_dependency' => 
+  array (
+    'bab51c76917fd349aa2d54382db66dab1e320359' => 
+    array (
+      0 => '/home/abdouhanne/www/pr/modules/groupcategory/views/templates/hook/banners.option1.default.tpl',
+      1 => 1492385467,
+      2 => 'file',
+    ),
+  ),
+  'nocache_hash' => '291657175b0dcc5b088095-36698577',
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_5b0dcc5c56e713_70724407',
+  'has_nocache_code' => false,
+  'cache_lifetime' => 31536000,
+),true); /*/%%SmartyHeaderCode%%*/?>
+<?php if ($_valid && !is_callable('content_5b0dcc5c56e713_70724407')) {function content_5b0dcc5c56e713_70724407($_smarty_tpl) {?><div class="group-banners"><div class="banner-item tab-content-10-0-0 tab-pane fade in active"><div class="inner"><div class="banner-img"> <a href="" title="Alimentaires"> <img alt="Alimentaires" src="https://www.gincomarket.com/modules/groupcategory/images/banners/default.jpg" /> </a></div></div></div><div class="banner-item tab-content-10-seller-0 tab-pane fade"><div class="inner"><div class="banner-img"> <a href="" title="Alimentaires - Best Sellers"> <img alt="Alimentaires - Best Sellers" src="https://www.gincomarket.com/modules/groupcategory/images/banners/default.jpg" /> </a></div></div></div><div class="banner-item tab-content-10-arrival-0 tab-pane fade"><div class="inner"><div class="banner-img"> <a href="" title="Alimentaires - New Arrivals"> <img alt="Alimentaires - New Arrivals" src="https://www.gincomarket.com/modules/groupcategory/images/banners/default.jpg" /> </a></div></div></div><div class="banner-item tab-content-10-0-41 tab-pane fade"><div class="inner"><div class="banner-img"> <a href="" title="Fruits et Legumes"> <img alt="Fruits et Legumes" src="https://www.gincomarket.com/modules/groupcategory/images/banners/default.jpg" /> </a></div></div></div><div class="banner-item tab-content-10-0-42 tab-pane fade"><div class="inner"><div class="banner-img"> <a href="" title="Produits Laitiers"> <img alt="Produits Laitiers" src="https://www.gincomarket.com/modules/groupcategory/images/banners/default.jpg" /> </a></div></div></div><div class="banner-item tab-content-10-0-43 tab-pane fade"><div class="inner"><div class="banner-img"> <a href="" title="Chocolates et Biscuits"> <img alt="Chocolates et Biscuits" src="https://www.gincomarket.com/modules/groupcategory/images/banners/default.jpg" /> </a></div></div></div><div class="banner-item tab-content-10-0-44 tab-pane fade"><div class="inner"><div class="banner-img"> <a href="" title="Viandes"> <img alt="Viandes" src="https://www.gincomarket.com/modules/groupcategory/images/banners/default.jpg" /> </a></div></div></div><div class="banner-item tab-content-10-0-45 tab-pane fade"><div class="inner"><div class="banner-img"> <a href="" title="Fruits de Mer et Poissons"> <img alt="Fruits de Mer et Poissons" src="https://www.gincomarket.com/modules/groupcategory/images/banners/default.jpg" /> </a></div></div></div><div class="banner-item tab-content-10-0-46 tab-pane fade"><div class="inner"><div class="banner-img"> <a href="" title="Conserves"> <img alt="Conserves" src="https://www.gincomarket.com/modules/groupcategory/images/banners/default.jpg" /> </a></div></div></div><div class="banner-item tab-content-10-0-47 tab-pane fade"><div class="inner"><div class="banner-img"> <a href="" title="Boissons"> <img alt="Boissons" src="https://www.gincomarket.com/modules/groupcategory/images/banners/default.jpg" /> </a></div></div></div></div><?php }} ?>

@@ -1,0 +1,46 @@
+a:58:{s:10:"id_product";s:2:"27";s:11:"id_supplier";s:1:"0";s:15:"id_manufacturer";s:1:"0";s:19:"id_category_default";s:2:"69";s:15:"id_shop_default";s:1:"1";s:18:"id_tax_rules_group";s:1:"0";s:7:"on_sale";s:1:"0";s:11:"online_only";s:1:"0";s:5:"ean13";s:0:"";s:3:"upc";s:0:"";s:6:"ecotax";s:8:"0.000000";s:8:"quantity";s:1:"0";s:16:"minimal_quantity";s:1:"1";s:5:"price";s:11:"2500.000000";s:15:"wholesale_price";s:8:"0.000000";s:5:"unity";s:0:"";s:16:"unit_price_ratio";s:8:"0.000000";s:24:"additional_shipping_cost";s:4:"0.00";s:9:"reference";s:6:"2s lux";s:18:"supplier_reference";s:0:"";s:8:"location";s:0:"";s:5:"width";s:8:"0.000000";s:6:"height";s:8:"0.000000";s:5:"depth";s:8:"0.000000";s:6:"weight";s:8:"0.000000";s:12:"out_of_stock";s:1:"2";s:17:"quantity_discount";s:1:"0";s:12:"customizable";s:1:"0";s:16:"uploadable_files";s:1:"0";s:11:"text_fields";s:1:"0";s:6:"active";s:1:"1";s:13:"redirect_type";s:3:"404";s:21:"id_product_redirected";s:1:"0";s:19:"available_for_order";s:1:"1";s:14:"available_date";s:10:"0000-00-00";s:9:"condition";s:3:"new";s:10:"show_price";s:1:"1";s:7:"indexed";s:1:"1";s:10:"visibility";s:4:"both";s:13:"cache_is_pack";s:1:"0";s:21:"cache_has_attachments";s:1:"0";s:10:"is_virtual";s:1:"0";s:23:"cache_default_attribute";s:1:"0";s:8:"date_add";s:19:"2017-04-26 11:54:06";s:8:"date_upd";s:19:"2017-11-30 12:17:29";s:25:"advanced_stock_management";s:1:"0";s:15:"pack_stock_type";s:1:"3";s:7:"id_shop";s:1:"1";s:7:"id_lang";s:1:"1";s:11:"description";s:1870:"<div class="text">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+<div class="field-items">
+<div class="field-item even">
+<p><span>Les plus du produit :</span></p>
+<p>• une formule spéciale sans parabène qui respecte votre peau </p>
+<p>• triple action </p>
+<p>• provitamine B5</p>
+<p>• 2 en 1 (visage et corps)</p>
+<p>• pour elle et pour lui</p>
+</div>
+</div>
+</div>
+</div>
+<div class="ingredients">
+<div class="field field-name-field-product-ingredients field-type-text-long field-label-hidden">
+<div class="field-items">
+<div class="field-item even">
+<p><span>Ingrédients :</span> Aqua (Water), Aloe Barbadensis Leaf Juice, Propylene Glycol, Alcohol Denat., Polysorbate 20, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Phenoxyethanol, Sodium Hydroxide, Caprylyl Glycol, Parfum (Fragrance), Disodium EDTA, Panthenol, Amyl Cinnamal, Benzyl Benzoate, Citronellol, Butylphenyl Methylpropional, Limonene, Linalool, Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde, Alpha-Isomethyl Ionone, CI 19140 (FD&amp;C Yellow No. 5), CI 42053 (FD&amp;C Green No. 3).</p>
+</div>
+</div>
+</div>
+</div>
+<div class="usage">
+<div class="field field-name-field-product-usage-tips field-type-text-long field-label-hidden">
+<div class="field-items">
+<div class="field-item even">
+<p><span>Conseils d'utilisation :</span> Appliquer quotidiennement sur le visage et le corps pour une peau plus douce.<span class="Apple-tab-span"><br /></span></p>
+</div>
+</div>
+</div>
+</div>
+<div class="care">
+<div class="field field-name-field-product-supportive-care field-type-text-long field-label-hidden">
+<div class="field-items">
+<div class="field-item even">
+<p><span>Les soins complémentaires : </span>Vous pouvez aussi découvrir les laits  corporels à l’huile d’amande douce et à la gelée royale BYPHASSE. </p>
+</div>
+</div>
+</div>
+</div>";s:17:"description_short";s:542:"<p><span>Catégorie :</span> Soin du corps</p>
+<p><span>Présentation :</span> Bouteille pompe </p>
+<p><span>Capacité :</span> 400 ml</p>
+<p><span>Type de peaux :</span> Tous types de peaux</p>
+<p><span>Description :</span> Le gel douceur BYPHASSEE dernière génération à l’aloe vera Fresh &amp; Silk hydrate, assouplit et rafraîchit votre peau. Sa texture gel pénètre instantanément sans effet gras ni collant.</p>
+<p><span>Résultat beauté :</span> Parfait après l’épilation, le rasage ou une exposition au soleil.</p>";s:12:"link_rewrite";s:46:"byphasse-gel-hydratant-douceur-aloe-vera-400ml";s:16:"meta_description";s:22:"BYPHASSE Gel hydratant";s:13:"meta_keywords";s:22:"byphasse gel hydratant";s:10:"meta_title";s:22:"BYPHASSE Gel hydratant";s:4:"name";s:48:"BYPHASSE - Gel hydratant douceur aloe vera 400ml";s:13:"available_now";s:0:"";s:15:"available_later";s:0:"";}

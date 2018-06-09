@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>agilepaypaladaptive</name>
+	<displayName><![CDATA[Module de paiement Paypal Agile Adaptive]]></displayName>
+	<version><![CDATA[2.5.0.1]]></version>
+	<description><![CDATA[Accepte les paiements par PayPal, paiement Adaptive un &eacute;metteur / r&eacute;cepteurs multiples]]></description>
+	<author><![CDATA[addons-modules.com]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Etes-vous sûr de vouloir effacer vos données?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

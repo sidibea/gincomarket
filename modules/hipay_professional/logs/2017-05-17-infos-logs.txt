@@ -1,0 +1,4 @@
+## 2017-05-17 23:38:49 ##
+---- >> function insertConfigHiPay
+## 2017-05-17 23:38:49 ##
+---- >> function setAllConfigHiPay

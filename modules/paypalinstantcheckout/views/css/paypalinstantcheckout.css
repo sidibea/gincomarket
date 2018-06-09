@@ -1,0 +1,204 @@
+/*
+    Document   : Paypal Instant List Button
+    Created on : Feb 28, 2014, 2:26:13 PM
+    Author     : PrestaMonster
+    Description:
+    Purpose of the stylesheet follows.
+*/
+
+a.ajax_add_to_paypalinstant_list_button {
+    color: #fff;
+    background: #51b11d;
+    border: none;
+    margin-top: 10px;
+}
+a.ajax_add_to_paypalinstant_list_button:hover {
+    background: #359202;
+    color: #fff;
+}
+
+a.ajax_add_to_paypalinstant_list_button span {
+    display: block;
+}
+
+/*Quote button on list page*/
+ul.product_list.grid > li .button-container .ajax_add_to_paypalinstant_list_button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    margin: 0;
+}
+ul.product_list.list > li .button-container .ajax_add_to_paypalinstant_list_button {
+    background: url('../img/pp_list_button_logo.png') 0 0 no-repeat;
+    padding: 0 0 0 29px;
+    margin-top: 20px;
+    font-weight: 700;
+    line-height: 20px;
+    display: block;
+    color: #777;
+    margin-bottom: 0 !important;
+}
+ul.product_list.list > li .button-container .ajax_add_to_paypalinstant_list_button:hover {
+    color: #515151;
+}
+ul.product_list.list > li .right-block .right-block-content .button-container {
+    padding-bottom: 10px;
+}
+
+/***CHANGE DEFAULT HEIGHT SIZE OF BLOCK ACCESSORIES***/
+.block_content .bx-viewport {
+    height: 308px !important;
+}
+
+/*End of css for list button paypal*/
+
+/* Css order comfirm page*/
+.paypal_link {
+    text-decoration: underline;
+}
+/* End of Css order comfirm page*/
+
+/* Css block payment*/
+.payment_module .instantly {
+    text-decoration: underline;
+}
+/* End of Css block payment*/
+
+/* Css hooks*/
+.pp-checkout-btn {
+    float: right;
+    margin: 0 0 15px 0;
+    cursor: pointer;
+}
+
+.hs_paypal_img_btn img {
+    max-height: 80px;
+}
+.order-opc .hs_paypal_img_btn img, .order .hs_paypal_img_btn img {
+    width: auto;
+    max-width: 230px;
+}
+.cart_block .hs_paypal_img_btn img {
+    max-height: 230px;
+    max-width: 230px;
+}
+.hs_paypal_btn .instantly{
+    cursor: pointer;
+}
+.box-cart-bottom .pp-checkout-btn {
+    float:left;
+    padding: 19px 19px 6px;
+}
+.pp-checkout-btn + div { text-align: center; }
+.pp-checkout-btn span.heading {
+    font-weight: bold;
+    font-style: italic;
+    color:#00529B;
+}
+
+.hs_paypal_btn {
+    display: inline-block;
+    padding: 5px 10px 5px 40px;
+    text-align: center;
+    background: url('../img/logo.png') 10px 5px no-repeat #F9FDFF;
+    color: #124368!important;
+    -moz-text-shadow: 0px 1px rgba(255,255,255,.6);
+    -webkit-text-shadow: 0px 1px rgba(255,255,255,.6);
+    text-shadow: 0px 1px rgba(255,255,255,.6);
+    font-weight: bold;
+    line-height: 1.2em;
+    min-width: 195px;
+    height: auto;
+    min-height: 48px;
+    border: 1px solid #B1CBD5;
+}
+
+#center_column .hs_paypal_btn_15{
+    min-width: auto;
+    padding-bottom: 12px;
+}
+.hs_paypal_btn_logged_15{
+    min-width: auto;
+    height: 32px;
+}
+#cart_block_list .hs_paypal_btn
+{
+    min-width: auto;
+    margin-top: 10px;
+}
+
+#order-opc .columns-container .page_check_out{
+    margin-top: -15px;
+}
+
+.hs_paypal_btn:hover {
+    background-color: #E7F8FF;
+}
+.hs_paypal_btn span {
+    display: block;
+    font-size: 11px;
+}
+.hs_option_checkout
+{
+    font-size: 15px;
+    padding: 40px 100px 0 0;
+    text-align: right;
+    text-transform: uppercase;
+    font-weight: normal;
+    margin-bottom: 18px;
+}
+img.hs_btn_palpal
+{
+    float: right;
+}
+
+.button-container img.hs_btn_palpal
+{
+    float: left;
+}
+
+.cart_navigation
+{
+    padding-bottom: 0px;
+}
+
+.layer_cart_cart h5 {
+    margin-right: 21px;
+}
+
+.layer_cart_cart .hs_paypal_img_btn img{
+    max-width: 422px;
+}
+
+.pp-checkout-btn .hs_paypal_img_btn img{
+    max-width: 230px;
+}
+/* End of Css hooks*/
+
+/* Css display payment*/
+
+p.payment_module a.paypal-instant-checkout {
+    background: url(../img/paypal.png) 15px 15px no-repeat;
+}
+
+p.payment_module a.paypal-instant-checkout:after {
+    color: #777777;
+    content: "";
+    display: block;
+    font-family: "FontAwesome";
+    font-size: 25px;
+    height: 22px;
+    margin-top: -11px;
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    width: 14px;
+}
+#blockcart-modal .hs_paypal_btn{
+    padding-left: 50px;
+    margin-right: 2px;
+}
+.checkout .pp-checkout-btn {
+    margin-top: 10px;
+}
+/* End of Css display payment*/

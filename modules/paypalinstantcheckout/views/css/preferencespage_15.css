@@ -1,0 +1,123 @@
+/*GENERAL STYLES **********************************************/
+#pos_perferences label {
+    text-align: left;
+}
+
+.image_size{
+    width: 215px !important;
+}
+.delete_default_customer{
+    background: rgba(0, 0, 0, 0) url("../img/icons/delete.png") no-repeat scroll center center;
+    padding: 10px;
+}
+#customer_autocomplete_input{
+    background: url("../img/icons/search.png") no-repeat scroll center right #FFF;
+    width: 215px;
+}
+#pos_default_customer .form-control-static
+{
+    padding-top: 10px;
+}
+.hide{
+    display: none;
+}
+.checkbox{
+    width: 100%;
+}
+.checkbox label{
+    width: 100%;
+    text-align: left;
+}
+.col-lg-9 {
+    width: 55%;
+    float: left;
+}
+.col-lg-3 {
+    width: 45%;
+    float: left;
+}
+.col-lg-offset-3 {
+    margin-left: 242px;
+}
+.search_default_customer{
+    width: 238px;
+    padding: 5px;
+}
+#conf_id_PAYPAL_DEFAULT_CUSTOMER .col-lg-offset-3 {
+    padding-top: 15px !important;
+}
+.col-lg-9 label{
+    font-weight: normal;
+    line-height: 150%;
+}
+.disabled_checkbox{
+    opacity: 0.5;
+}
+.image_size {
+    width: 250px !important;
+}
+ /* new css*/
+.configuration_fieldset_paypal_button {
+    margin-top: -15px;
+}
+.configuration_fieldset_advanced {
+    margin-top: -30px;
+}
+fieldset {
+    border: 1px solid #ebedf4;
+}
+.configuration_fieldset_paypal_account .paypal_text, .configuration_fieldset_advanced .paypal_text {
+    width: 60%;
+    min-width: 250px;
+}
+#conf_id_PAYPAL_MODE .col-lg-9 {
+    padding-left: 20px;
+}
+#conf_id_PAYPAL_GUEST_AS_CUSTOMER .margin-form,
+#conf_id_PAYPAL_POSTCODE_FORM .margin-form,
+#conf_id_PAYPAL_COMMUNICATION_METHOD .margin-form,
+#conf_id_PAYPAL_CONVERT_CURRENCY .margin-form,
+#conf_id_PAYPAL_CONFIRM_ADDRESS .margin-form
+{
+    padding-left: 245px;
+}
+p.preference_description {
+    width: auto !important;
+}
+a.btn-link {
+    color: #00aff0;
+}
+a.btn-link:hover {
+    text-decoration: underline;
+}
+
+#conf_id_paypal_buttons .table tr th{
+    color: #585a69 !important;
+}
+#configuration_form_submit_btn {
+    display: none;
+}
+.productTabs .active{
+    background: #ebedf4;
+}
+.productTabs ul li.active a{
+    background-color: #ebedf4;
+    color: #000;
+    font-weight: bold;
+}
+.productTabs ul li.tab-row a{
+    border-right: none;
+}
+.fixed-width-xxl, #PAYPAL_COMMUNICATION_METHOD{
+    padding: 5px 0;
+    width: 250px !important;
+}
+#HS_PAYPAL_STANDARD_RATE{
+    padding: 5px 0;
+}
+.margin-form input[type="text"], .col-lg-9 input[type="text"]{
+    padding: 5px;
+}
+.productTabs{
+    margin-top: 11px;
+}

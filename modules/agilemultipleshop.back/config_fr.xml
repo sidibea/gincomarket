@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>agilemultipleshop</name>
+	<displayName><![CDATA[Agile Boutiques Multiples ]]></displayName>
+	<version><![CDATA[2.0.1.4]]></version>
+	<description><![CDATA[Permet &agrave; chaque vendeur d&#039;avoir sa propre boutique.]]></description>
+	<author><![CDATA[addons-modules.com]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

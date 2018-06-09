@@ -1,0 +1,50 @@
+/*
+    Document   : Paypal Instant List Button
+    Created on : Feb 28, 2014, 2:26:13 PM
+    Author     : PrestaMonster
+    Description:
+    Purpose of the stylesheet follows.
+*/
+a.ajax_add_to_paypalinstant_list_button {
+    color: #fff;
+    background: #51b11d;
+    border: none;
+    margin-top: 10px;
+}
+a.ajax_add_to_paypalinstant_list_button:hover {
+    background: #359202;
+    color: #fff;
+}
+
+a.ajax_add_to_paypalinstant_list_button span {
+    display: block;
+}
+
+/*Quote button on list page*/
+ul.product_list.grid > li .button-container .ajax_add_to_paypalinstant_list_button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    margin: 0;
+}
+ul.product_list.list > li .button-container .ajax_add_to_paypalinstant_list_button {
+    background: url('../img/pp_list_button_logo.png') 0 0 no-repeat;
+    padding: 0 0 0 29px;
+    margin-top: 20px;
+    font-weight: 700;
+    line-height: 20px;
+    display: block;
+    color: #777;
+    margin-bottom: 0 !important;
+}
+ul.product_list.list > li .button-container .ajax_add_to_paypalinstant_list_button:hover {
+    color: #515151;
+}
+ul.product_list.list > li .right-block .right-block-content .button-container {
+    padding-bottom: 10px;
+}
+
+/***CHANGE DEFAULT HEIGHT SIZE OF BLOCK ACCESSORIES***/
+.block_content .bx-viewport {
+    height: 308px !important;
+}

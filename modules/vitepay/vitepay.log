@@ -1,0 +1,1843 @@
+2015-07-07 01:14:32 : VitePay vp_request call received
+2015-07-07 01:14:32 : Get posted data
+2015-07-07 01:14:32 : VitePay Data: 
+2015-07-07 01:14:32 : Error occurred: Bad access of page
+2015-07-07 01:26:28 : VitePay vp_request call received
+2015-07-07 01:26:28 : Get posted data
+2015-07-07 01:26:28 : VitePay Data: Array
+(
+)
+
+2015-07-07 01:26:28 : VitePay Data: 
+2015-07-07 01:26:28 : Error occurred: Bad access of page
+2015-07-07 01:28:50 : VitePay vp_request call received
+2015-07-07 01:28:50 : Get posted data
+2015-07-07 01:28:50 : VitePay Data: Array
+(
+    [vp_request] => true
+    [order_id] => 21
+    [authenticity] => FBE94889C26A508082B59A13294B52954309E730
+    [failure] => 1
+)
+
+2015-07-07 01:28:50 : VitePay Data: 
+2015-07-07 01:28:50 : Error occurred: Bad access of page
+2015-07-07 01:31:25 : VitePay vp_request call received
+2015-07-07 01:31:25 : Get posted data
+2015-07-07 01:31:25 : VitePay Data: Array
+(
+    [vp_request] => true
+    [order_id] => 21
+    [authenticity] => FBE94889C26A508082B59A13294B52954309E730
+    [failure] => 1
+)
+
+2015-07-07 01:31:25 : VitePay Data: Array
+(
+    [vp_request] => true
+    [order_id] => 21
+    [authenticity] => FBE94889C26A508082B59A13294B52954309E730
+    [failure] => 1
+)
+
+2015-07-07 01:31:25 : Verify security signature
+2015-07-07 01:31:25 : Signature = invalid
+2015-07-07 01:31:25 : Error occurred: Security signature mismatch
+2015-07-07 01:35:15 : VitePay vp_request call received
+2015-07-07 01:35:15 : Get posted data
+2015-07-07 01:35:15 : VitePay Data: Array
+(
+    [vp_request] => true
+    [order_id] => 21
+    [authenticity] => FBE94889C26A508082B59A13294B52954309E730
+    [failure] => 1
+)
+
+2015-07-07 01:35:15 : VitePay Data: Array
+(
+    [vp_request] => true
+    [order_id] => 21
+    [authenticity] => FBE94889C26A508082B59A13294B52954309E730
+    [failure] => 1
+)
+
+2015-07-07 01:35:15 : Verify security signature
+2015-07-07 01:35:15 : Signature = invalid
+2015-07-07 01:35:15 : Error occurred: Security signature mismatch
+2015-07-07 01:39:40 : VitePay vp_request call received
+2015-07-07 01:39:40 : Get posted data
+2015-07-07 01:39:40 : VitePay Data: Array
+(
+    [vp_request] => true
+    [order_id] => 21
+    [authenticity] => FBE94889C26A508082B59A13294B52954309E730
+    [failure] => 1
+)
+
+2015-07-07 01:39:40 : VitePay Data: Array
+(
+    [vp_request] => true
+    [order_id] => 21
+    [authenticity] => FBE94889C26A508082B59A13294B52954309E730
+    [failure] => 1
+)
+
+2015-07-07 01:39:40 : Verify security signature
+2015-07-07 01:39:40 : Ours = EC5195F88566DC227403513CE1F9AC9EC0E6CB63
+2015-07-07 01:39:40 : Theirs = FBE94889C26A508082B59A13294B52954309E730
+2015-07-07 01:39:40 : Signature = invalid
+2015-07-07 01:39:40 : Error occurred: Security signature mismatch
+2015-07-07 01:42:35 : VitePay vp_request call received
+2015-07-07 01:42:35 : Get posted data
+2015-07-07 01:42:35 : VitePay Data: Array
+(
+    [vp_request] => true
+    [order_id] => 21
+    [authenticity] => EC5195F88566DC227403513CE1F9AC9EC0E6CB63
+    [failure] => 1
+)
+
+2015-07-07 01:42:35 : VitePay Data: Array
+(
+    [vp_request] => true
+    [order_id] => 21
+    [authenticity] => EC5195F88566DC227403513CE1F9AC9EC0E6CB63
+    [failure] => 1
+)
+
+2015-07-07 01:42:35 : Verify security signature
+2015-07-07 01:42:35 : Ours = EC5195F88566DC227403513CE1F9AC9EC0E6CB63
+2015-07-07 01:42:35 : Theirs = EC5195F88566DC227403513CE1F9AC9EC0E6CB63
+2015-07-07 01:42:35 : Signature = valid
+2015-07-07 01:42:35 : Purchase:
+Cart Object
+(
+    [id] => 21
+    [id_shop_group] => 1
+    [id_shop] => 1
+    [id_address_delivery] => 5
+    [id_address_invoice] => 5
+    [id_currency] => 3
+    [id_customer] => 2
+    [id_guest] => 2306
+    [id_lang] => 1
+    [recyclable] => 0
+    [gift] => 0
+    [gift_message] => 
+    [mobile_theme] => 0
+    [date_add] => 2015-07-07 01:11:40
+    [secure_key] => edc62a966a670fbd5a316d5eb9aad707
+    [id_carrier] => 3
+    [date_upd] => 2015-07-07 01:25:48
+    [checkedTos] => 
+    [pictures] => 
+    [textFields] => 
+    [delivery_option] => a:1:{i:5;s:2:"3,";}
+    [allow_seperated_package] => 0
+    [_products:protected] => 
+    [_taxCalculationMethod:protected] => 0
+    [webserviceParameters:protected] => Array
+        (
+            [fields] => Array
+                (
+                    [id_address_delivery] => Array
+                        (
+                            [xlink_resource] => addresses
+                        )
+
+                    [id_address_invoice] => Array
+                        (
+                            [xlink_resource] => addresses
+                        )
+
+                    [id_currency] => Array
+                        (
+                            [xlink_resource] => currencies
+                        )
+
+                    [id_customer] => Array
+                        (
+                            [xlink_resource] => customers
+                        )
+
+                    [id_guest] => Array
+                        (
+                            [xlink_resource] => guests
+                        )
+
+                    [id_lang] => Array
+                        (
+                            [xlink_resource] => languages
+                        )
+
+                )
+
+            [associations] => Array
+                (
+                    [cart_rows] => Array
+                        (
+                            [resource] => cart_row
+                            [virtual_entity] => 1
+                            [fields] => Array
+                                (
+                                    [id_product] => Array
+                                        (
+                                            [required] => 1
+                                            [xlink_resource] => products
+                                        )
+
+                                    [id_product_attribute] => Array
+                                        (
+                                            [required] => 1
+                                            [xlink_resource] => combinations
+                                        )
+
+                                    [id_address_delivery] => Array
+                                        (
+                                            [required] => 1
+                                            [xlink_resource] => addresses
+                                        )
+
+                                    [quantity] => Array
+                                        (
+                                            [required] => 1
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [id_shop_list] => 
+    [get_shop_from_context:protected] => 1
+    [table:protected] => cart
+    [identifier:protected] => id_cart
+    [fieldsRequired:protected] => Array
+        (
+            [0] => id_currency
+            [1] => id_lang
+        )
+
+    [fieldsSize:protected] => Array
+        (
+            [secure_key] => 32
+        )
+
+    [fieldsValidate:protected] => Array
+        (
+            [id_shop_group] => isUnsignedId
+            [id_shop] => isUnsignedId
+            [id_address_delivery] => isUnsignedId
+            [id_address_invoice] => isUnsignedId
+            [id_carrier] => isUnsignedId
+            [id_currency] => isUnsignedId
+            [id_customer] => isUnsignedId
+            [id_guest] => isUnsignedId
+            [id_lang] => isUnsignedId
+            [recyclable] => isBool
+            [gift] => isBool
+            [gift_message] => isMessage
+            [mobile_theme] => isBool
+            [allow_seperated_package] => isBool
+            [date_add] => isDateFormat
+            [date_upd] => isDateFormat
+        )
+
+    [fieldsRequiredLang:protected] => Array
+        (
+        )
+
+    [fieldsSizeLang:protected] => Array
+        (
+        )
+
+    [fieldsValidateLang:protected] => Array
+        (
+        )
+
+    [tables:protected] => Array
+        (
+        )
+
+    [image_dir:protected] => 
+    [image_format:protected] => jpg
+    [def:protected] => Array
+        (
+            [table] => cart
+            [primary] => id_cart
+            [fields] => Array
+                (
+                    [id_shop_group] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_shop] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_address_delivery] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_address_invoice] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_carrier] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_currency] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                            [required] => 1
+                        )
+
+                    [id_customer] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_guest] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_lang] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                            [required] => 1
+                        )
+
+                    [recyclable] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [gift] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [gift_message] => Array
+                        (
+                            [type] => 3
+                            [validate] => isMessage
+                        )
+
+                    [mobile_theme] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [delivery_option] => Array
+                        (
+                            [type] => 3
+                        )
+
+                    [secure_key] => Array
+                        (
+                            [type] => 3
+                            [size] => 32
+                        )
+
+                    [allow_seperated_package] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [date_add] => Array
+                        (
+                            [type] => 5
+                            [validate] => isDateFormat
+                        )
+
+                    [date_upd] => Array
+                        (
+                            [type] => 5
+                            [validate] => isDateFormat
+                        )
+
+                )
+
+            [classname] => Cart
+        )
+
+    [update_fields:protected] => 
+    [force_id] => 
+)
+
+2015-07-07 01:42:35 : Check status and update order
+2015-07-07 01:42:35 : - Failed
+2015-07-07 01:45:31 : VitePay vp_request call received
+2015-07-07 01:45:31 : Get posted data
+2015-07-07 01:45:31 : VitePay Data: Array
+(
+    [vp_request] => true
+    [order_id] => 21
+    [authenticity] => EC5195F88566DC227403513CE1F9AC9EC0E6CB63
+    [success] => 1
+)
+
+2015-07-07 01:45:31 : VitePay Data: Array
+(
+    [vp_request] => true
+    [order_id] => 21
+    [authenticity] => EC5195F88566DC227403513CE1F9AC9EC0E6CB63
+    [success] => 1
+)
+
+2015-07-07 01:45:31 : Verify security signature
+2015-07-07 01:45:31 : Ours = EC5195F88566DC227403513CE1F9AC9EC0E6CB63
+2015-07-07 01:45:31 : Theirs = EC5195F88566DC227403513CE1F9AC9EC0E6CB63
+2015-07-07 01:45:31 : Signature = valid
+2015-07-07 01:45:31 : Purchase:
+Cart Object
+(
+    [id] => 21
+    [id_shop_group] => 1
+    [id_shop] => 1
+    [id_address_delivery] => 5
+    [id_address_invoice] => 5
+    [id_currency] => 3
+    [id_customer] => 2
+    [id_guest] => 2306
+    [id_lang] => 1
+    [recyclable] => 0
+    [gift] => 0
+    [gift_message] => 
+    [mobile_theme] => 0
+    [date_add] => 2015-07-07 01:11:40
+    [secure_key] => edc62a966a670fbd5a316d5eb9aad707
+    [id_carrier] => 3
+    [date_upd] => 2015-07-07 01:25:48
+    [checkedTos] => 
+    [pictures] => 
+    [textFields] => 
+    [delivery_option] => a:1:{i:5;s:2:"3,";}
+    [allow_seperated_package] => 0
+    [_products:protected] => 
+    [_taxCalculationMethod:protected] => 0
+    [webserviceParameters:protected] => Array
+        (
+            [fields] => Array
+                (
+                    [id_address_delivery] => Array
+                        (
+                            [xlink_resource] => addresses
+                        )
+
+                    [id_address_invoice] => Array
+                        (
+                            [xlink_resource] => addresses
+                        )
+
+                    [id_currency] => Array
+                        (
+                            [xlink_resource] => currencies
+                        )
+
+                    [id_customer] => Array
+                        (
+                            [xlink_resource] => customers
+                        )
+
+                    [id_guest] => Array
+                        (
+                            [xlink_resource] => guests
+                        )
+
+                    [id_lang] => Array
+                        (
+                            [xlink_resource] => languages
+                        )
+
+                )
+
+            [associations] => Array
+                (
+                    [cart_rows] => Array
+                        (
+                            [resource] => cart_row
+                            [virtual_entity] => 1
+                            [fields] => Array
+                                (
+                                    [id_product] => Array
+                                        (
+                                            [required] => 1
+                                            [xlink_resource] => products
+                                        )
+
+                                    [id_product_attribute] => Array
+                                        (
+                                            [required] => 1
+                                            [xlink_resource] => combinations
+                                        )
+
+                                    [id_address_delivery] => Array
+                                        (
+                                            [required] => 1
+                                            [xlink_resource] => addresses
+                                        )
+
+                                    [quantity] => Array
+                                        (
+                                            [required] => 1
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [id_shop_list] => 
+    [get_shop_from_context:protected] => 1
+    [table:protected] => cart
+    [identifier:protected] => id_cart
+    [fieldsRequired:protected] => Array
+        (
+            [0] => id_currency
+            [1] => id_lang
+        )
+
+    [fieldsSize:protected] => Array
+        (
+            [secure_key] => 32
+        )
+
+    [fieldsValidate:protected] => Array
+        (
+            [id_shop_group] => isUnsignedId
+            [id_shop] => isUnsignedId
+            [id_address_delivery] => isUnsignedId
+            [id_address_invoice] => isUnsignedId
+            [id_carrier] => isUnsignedId
+            [id_currency] => isUnsignedId
+            [id_customer] => isUnsignedId
+            [id_guest] => isUnsignedId
+            [id_lang] => isUnsignedId
+            [recyclable] => isBool
+            [gift] => isBool
+            [gift_message] => isMessage
+            [mobile_theme] => isBool
+            [allow_seperated_package] => isBool
+            [date_add] => isDateFormat
+            [date_upd] => isDateFormat
+        )
+
+    [fieldsRequiredLang:protected] => Array
+        (
+        )
+
+    [fieldsSizeLang:protected] => Array
+        (
+        )
+
+    [fieldsValidateLang:protected] => Array
+        (
+        )
+
+    [tables:protected] => Array
+        (
+        )
+
+    [image_dir:protected] => 
+    [image_format:protected] => jpg
+    [def:protected] => Array
+        (
+            [table] => cart
+            [primary] => id_cart
+            [fields] => Array
+                (
+                    [id_shop_group] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_shop] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_address_delivery] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_address_invoice] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_carrier] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_currency] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                            [required] => 1
+                        )
+
+                    [id_customer] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_guest] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_lang] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                            [required] => 1
+                        )
+
+                    [recyclable] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [gift] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [gift_message] => Array
+                        (
+                            [type] => 3
+                            [validate] => isMessage
+                        )
+
+                    [mobile_theme] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [delivery_option] => Array
+                        (
+                            [type] => 3
+                        )
+
+                    [secure_key] => Array
+                        (
+                            [type] => 3
+                            [size] => 32
+                        )
+
+                    [allow_seperated_package] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [date_add] => Array
+                        (
+                            [type] => 5
+                            [validate] => isDateFormat
+                        )
+
+                    [date_upd] => Array
+                        (
+                            [type] => 5
+                            [validate] => isDateFormat
+                        )
+
+                )
+
+            [classname] => Cart
+        )
+
+    [update_fields:protected] => 
+    [force_id] => 
+)
+
+2015-07-07 01:45:31 : Check status and update order
+2015-07-07 01:45:31 : - Complete
+2015-07-07 01:51:39 : VitePay vp_request call received
+2015-07-07 01:51:39 : Get posted data
+2015-07-07 01:51:39 : VitePay Data: Array
+(
+    [vp_request] => true
+    [order_id] => 22
+    [authenticity] => FCF3CDC1D267E4B16E81D52FB2B75965B1D72B84
+    [success] => 1
+)
+
+2015-07-07 01:51:39 : VitePay Data: Array
+(
+    [vp_request] => true
+    [order_id] => 22
+    [authenticity] => FCF3CDC1D267E4B16E81D52FB2B75965B1D72B84
+    [success] => 1
+)
+
+2015-07-07 01:51:39 : Verify security signature
+2015-07-07 01:51:39 : Ours = F639B1C6B4DA561D94EEE6B02217CE8E5BFA8A02
+2015-07-07 01:51:39 : Theirs = FCF3CDC1D267E4B16E81D52FB2B75965B1D72B84
+2015-07-07 01:51:39 : Signature = invalid
+2015-07-07 01:51:39 : Error occurred: Security signature mismatch
+2015-07-07 01:58:36 : VitePay vp_request call received
+2015-07-07 01:58:36 : Get posted data
+2015-07-07 01:58:36 : VitePay Data: Array
+(
+    [vp_request] => true
+    [order_id] => 22
+    [authenticity] => FCF3CDC1D267E4B16E81D52FB2B75965B1D72B84
+    [success] => 1
+)
+
+2015-07-07 01:58:36 : VitePay Data: Array
+(
+    [vp_request] => true
+    [order_id] => 22
+    [authenticity] => FCF3CDC1D267E4B16E81D52FB2B75965B1D72B84
+    [success] => 1
+)
+
+2015-07-07 01:58:36 : Verify security signature
+2015-07-07 01:58:36 : Ours = F639B1C6B4DA561D94EEE6B02217CE8E5BFA8A02
+2015-07-07 01:58:36 : Theirs = FCF3CDC1D267E4B16E81D52FB2B75965B1D72B84
+2015-07-07 01:58:36 : Signature = invalid
+2015-07-07 01:58:36 : Error occurred: Security signature mismatch
+2015-07-07 02:04:36 : VitePay vp_request call received
+2015-07-07 02:04:36 : Get posted data
+2015-07-07 02:04:36 : VitePay Data: Array
+(
+    [vp_request] => true
+    [order_id] => 22
+    [authenticity] => FCF3CDC1D267E4B16E81D52FB2B75965B1D72B84
+    [success] => 1
+)
+
+2015-07-07 02:04:36 : VitePay Data: Array
+(
+    [vp_request] => true
+    [order_id] => 22
+    [authenticity] => FCF3CDC1D267E4B16E81D52FB2B75965B1D72B84
+    [success] => 1
+)
+
+2015-07-07 02:04:36 : Verify security signature
+2015-07-07 02:04:36 : Ours = FCF3CDC1D267E4B16E81D52FB2B75965B1D72B84
+2015-07-07 02:04:36 : Theirs = FCF3CDC1D267E4B16E81D52FB2B75965B1D72B84
+2015-07-07 02:04:36 : raw = 22;1640;XOF;O1GeP2mAdHUtj6nMghQLo0nKR7fVI0xv+7zLuKRJZBSOm3x5ycR7tF0+Y1kfYGPUdXWMokXNHAo3CZAY
+2015-07-07 02:04:36 : Signature = valid
+2015-07-07 02:04:36 : Purchase:
+Cart Object
+(
+    [id] => 22
+    [id_shop_group] => 1
+    [id_shop] => 1
+    [id_address_delivery] => 5
+    [id_address_invoice] => 5
+    [id_currency] => 3
+    [id_customer] => 2
+    [id_guest] => 29
+    [id_lang] => 1
+    [recyclable] => 0
+    [gift] => 0
+    [gift_message] => 
+    [mobile_theme] => 0
+    [date_add] => 2015-07-07 01:46:58
+    [secure_key] => edc62a966a670fbd5a316d5eb9aad707
+    [id_carrier] => 3
+    [date_upd] => 2015-07-07 01:50:53
+    [checkedTos] => 
+    [pictures] => 
+    [textFields] => 
+    [delivery_option] => a:1:{i:5;s:2:"3,";}
+    [allow_seperated_package] => 0
+    [_products:protected] => 
+    [_taxCalculationMethod:protected] => 0
+    [webserviceParameters:protected] => Array
+        (
+            [fields] => Array
+                (
+                    [id_address_delivery] => Array
+                        (
+                            [xlink_resource] => addresses
+                        )
+
+                    [id_address_invoice] => Array
+                        (
+                            [xlink_resource] => addresses
+                        )
+
+                    [id_currency] => Array
+                        (
+                            [xlink_resource] => currencies
+                        )
+
+                    [id_customer] => Array
+                        (
+                            [xlink_resource] => customers
+                        )
+
+                    [id_guest] => Array
+                        (
+                            [xlink_resource] => guests
+                        )
+
+                    [id_lang] => Array
+                        (
+                            [xlink_resource] => languages
+                        )
+
+                )
+
+            [associations] => Array
+                (
+                    [cart_rows] => Array
+                        (
+                            [resource] => cart_row
+                            [virtual_entity] => 1
+                            [fields] => Array
+                                (
+                                    [id_product] => Array
+                                        (
+                                            [required] => 1
+                                            [xlink_resource] => products
+                                        )
+
+                                    [id_product_attribute] => Array
+                                        (
+                                            [required] => 1
+                                            [xlink_resource] => combinations
+                                        )
+
+                                    [id_address_delivery] => Array
+                                        (
+                                            [required] => 1
+                                            [xlink_resource] => addresses
+                                        )
+
+                                    [quantity] => Array
+                                        (
+                                            [required] => 1
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [id_shop_list] => 
+    [get_shop_from_context:protected] => 1
+    [table:protected] => cart
+    [identifier:protected] => id_cart
+    [fieldsRequired:protected] => Array
+        (
+            [0] => id_currency
+            [1] => id_lang
+        )
+
+    [fieldsSize:protected] => Array
+        (
+            [secure_key] => 32
+        )
+
+    [fieldsValidate:protected] => Array
+        (
+            [id_shop_group] => isUnsignedId
+            [id_shop] => isUnsignedId
+            [id_address_delivery] => isUnsignedId
+            [id_address_invoice] => isUnsignedId
+            [id_carrier] => isUnsignedId
+            [id_currency] => isUnsignedId
+            [id_customer] => isUnsignedId
+            [id_guest] => isUnsignedId
+            [id_lang] => isUnsignedId
+            [recyclable] => isBool
+            [gift] => isBool
+            [gift_message] => isMessage
+            [mobile_theme] => isBool
+            [allow_seperated_package] => isBool
+            [date_add] => isDateFormat
+            [date_upd] => isDateFormat
+        )
+
+    [fieldsRequiredLang:protected] => Array
+        (
+        )
+
+    [fieldsSizeLang:protected] => Array
+        (
+        )
+
+    [fieldsValidateLang:protected] => Array
+        (
+        )
+
+    [tables:protected] => Array
+        (
+        )
+
+    [image_dir:protected] => 
+    [image_format:protected] => jpg
+    [def:protected] => Array
+        (
+            [table] => cart
+            [primary] => id_cart
+            [fields] => Array
+                (
+                    [id_shop_group] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_shop] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_address_delivery] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_address_invoice] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_carrier] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_currency] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                            [required] => 1
+                        )
+
+                    [id_customer] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_guest] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_lang] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                            [required] => 1
+                        )
+
+                    [recyclable] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [gift] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [gift_message] => Array
+                        (
+                            [type] => 3
+                            [validate] => isMessage
+                        )
+
+                    [mobile_theme] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [delivery_option] => Array
+                        (
+                            [type] => 3
+                        )
+
+                    [secure_key] => Array
+                        (
+                            [type] => 3
+                            [size] => 32
+                        )
+
+                    [allow_seperated_package] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [date_add] => Array
+                        (
+                            [type] => 5
+                            [validate] => isDateFormat
+                        )
+
+                    [date_upd] => Array
+                        (
+                            [type] => 5
+                            [validate] => isDateFormat
+                        )
+
+                )
+
+            [classname] => Cart
+        )
+
+    [update_fields:protected] => 
+    [force_id] => 
+)
+
+2015-07-07 02:04:36 : Check status and update order
+2015-07-07 02:04:36 : - Complete
+2015-07-18 13:24:48 : VitePay vp_request call received
+2015-07-18 13:24:48 : Get posted data
+2015-07-18 13:24:48 : VitePay Data: Array
+(
+    [vp_request] => true
+    [failure] => 1
+    [order_id] => 30
+    [authenticity] => 8D77C9C979B8C87334CBB6C503819B67C4054F7C
+)
+
+2015-07-18 13:24:48 : VitePay Data: Array
+(
+    [vp_request] => true
+    [failure] => 1
+    [order_id] => 30
+    [authenticity] => 8D77C9C979B8C87334CBB6C503819B67C4054F7C
+)
+
+2015-07-18 13:24:48 : Verify security signature
+2015-07-18 13:24:48 : Signature = invalid
+2015-07-18 13:24:48 : Error occurred: Security signature mismatch
+2015-07-18 13:28:07 : VitePay vp_request call received
+2015-07-18 13:28:07 : Get posted data
+2015-07-18 13:28:07 : VitePay Data: Array
+(
+    [vp_request] => true
+    [failure] => 1
+    [order_id] => 30
+    [authenticity] => 0542D3B654B29E71254ABFB83BCEA3B244929003
+)
+
+2015-07-18 13:28:07 : VitePay Data: Array
+(
+    [vp_request] => true
+    [failure] => 1
+    [order_id] => 30
+    [authenticity] => 0542D3B654B29E71254ABFB83BCEA3B244929003
+)
+
+2015-07-18 13:28:07 : Verify security signature
+2015-07-18 13:28:07 : Signature = valid
+2015-07-18 13:28:07 : Purchase:
+Cart Object
+(
+    [id] => 30
+    [id_shop_group] => 1
+    [id_shop] => 1
+    [id_address_delivery] => 5
+    [id_address_invoice] => 5
+    [id_currency] => 3
+    [id_customer] => 2
+    [id_guest] => 2400
+    [id_lang] => 1
+    [recyclable] => 0
+    [gift] => 0
+    [gift_message] => 
+    [mobile_theme] => 0
+    [date_add] => 2015-07-18 13:05:33
+    [secure_key] => edc62a966a670fbd5a316d5eb9aad707
+    [id_carrier] => 3
+    [date_upd] => 2015-07-18 13:27:40
+    [checkedTos] => 
+    [pictures] => 
+    [textFields] => 
+    [delivery_option] => a:1:{i:5;s:2:"3,";}
+    [allow_seperated_package] => 0
+    [_products:protected] => 
+    [_taxCalculationMethod:protected] => 0
+    [webserviceParameters:protected] => Array
+        (
+            [fields] => Array
+                (
+                    [id_address_delivery] => Array
+                        (
+                            [xlink_resource] => addresses
+                        )
+
+                    [id_address_invoice] => Array
+                        (
+                            [xlink_resource] => addresses
+                        )
+
+                    [id_currency] => Array
+                        (
+                            [xlink_resource] => currencies
+                        )
+
+                    [id_customer] => Array
+                        (
+                            [xlink_resource] => customers
+                        )
+
+                    [id_guest] => Array
+                        (
+                            [xlink_resource] => guests
+                        )
+
+                    [id_lang] => Array
+                        (
+                            [xlink_resource] => languages
+                        )
+
+                )
+
+            [associations] => Array
+                (
+                    [cart_rows] => Array
+                        (
+                            [resource] => cart_row
+                            [virtual_entity] => 1
+                            [fields] => Array
+                                (
+                                    [id_product] => Array
+                                        (
+                                            [required] => 1
+                                            [xlink_resource] => products
+                                        )
+
+                                    [id_product_attribute] => Array
+                                        (
+                                            [required] => 1
+                                            [xlink_resource] => combinations
+                                        )
+
+                                    [id_address_delivery] => Array
+                                        (
+                                            [required] => 1
+                                            [xlink_resource] => addresses
+                                        )
+
+                                    [quantity] => Array
+                                        (
+                                            [required] => 1
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [id_shop_list] => 
+    [get_shop_from_context:protected] => 1
+    [table:protected] => cart
+    [identifier:protected] => id_cart
+    [fieldsRequired:protected] => Array
+        (
+            [0] => id_currency
+            [1] => id_lang
+        )
+
+    [fieldsSize:protected] => Array
+        (
+            [secure_key] => 32
+        )
+
+    [fieldsValidate:protected] => Array
+        (
+            [id_shop_group] => isUnsignedId
+            [id_shop] => isUnsignedId
+            [id_address_delivery] => isUnsignedId
+            [id_address_invoice] => isUnsignedId
+            [id_carrier] => isUnsignedId
+            [id_currency] => isUnsignedId
+            [id_customer] => isUnsignedId
+            [id_guest] => isUnsignedId
+            [id_lang] => isUnsignedId
+            [recyclable] => isBool
+            [gift] => isBool
+            [gift_message] => isMessage
+            [mobile_theme] => isBool
+            [allow_seperated_package] => isBool
+            [date_add] => isDateFormat
+            [date_upd] => isDateFormat
+        )
+
+    [fieldsRequiredLang:protected] => Array
+        (
+        )
+
+    [fieldsSizeLang:protected] => Array
+        (
+        )
+
+    [fieldsValidateLang:protected] => Array
+        (
+        )
+
+    [tables:protected] => Array
+        (
+        )
+
+    [image_dir:protected] => 
+    [image_format:protected] => jpg
+    [def:protected] => Array
+        (
+            [table] => cart
+            [primary] => id_cart
+            [fields] => Array
+                (
+                    [id_shop_group] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_shop] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_address_delivery] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_address_invoice] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_carrier] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_currency] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                            [required] => 1
+                        )
+
+                    [id_customer] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_guest] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_lang] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                            [required] => 1
+                        )
+
+                    [recyclable] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [gift] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [gift_message] => Array
+                        (
+                            [type] => 3
+                            [validate] => isMessage
+                        )
+
+                    [mobile_theme] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [delivery_option] => Array
+                        (
+                            [type] => 3
+                        )
+
+                    [secure_key] => Array
+                        (
+                            [type] => 3
+                            [size] => 32
+                        )
+
+                    [allow_seperated_package] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [date_add] => Array
+                        (
+                            [type] => 5
+                            [validate] => isDateFormat
+                        )
+
+                    [date_upd] => Array
+                        (
+                            [type] => 5
+                            [validate] => isDateFormat
+                        )
+
+                )
+
+            [classname] => Cart
+        )
+
+    [update_fields:protected] => 
+    [force_id] => 
+)
+
+2015-07-18 13:28:07 : Check status and update order
+2015-07-18 13:28:07 : - Failed
+2015-07-18 13:31:05 : VitePay vp_request call received
+2015-07-18 13:31:05 : Get posted data
+2015-07-18 13:31:05 : VitePay Data: Array
+(
+    [vp_request] => true
+    [success] => 1
+    [order_id] => 31
+    [authenticity] => 68D2B48BBACAC2A8465C2392D7DD5BD188444413
+)
+
+2015-07-18 13:31:05 : VitePay Data: Array
+(
+    [vp_request] => true
+    [success] => 1
+    [order_id] => 31
+    [authenticity] => 68D2B48BBACAC2A8465C2392D7DD5BD188444413
+)
+
+2015-07-18 13:31:05 : Verify security signature
+2015-07-18 13:31:05 : Signature = valid
+2015-07-18 13:31:05 : Purchase:
+Cart Object
+(
+    [id] => 31
+    [id_shop_group] => 1
+    [id_shop] => 1
+    [id_address_delivery] => 5
+    [id_address_invoice] => 5
+    [id_currency] => 3
+    [id_customer] => 2
+    [id_guest] => 29
+    [id_lang] => 1
+    [recyclable] => 0
+    [gift] => 0
+    [gift_message] => 
+    [mobile_theme] => 0
+    [date_add] => 2015-07-18 13:30:03
+    [secure_key] => edc62a966a670fbd5a316d5eb9aad707
+    [id_carrier] => 3
+    [date_upd] => 2015-07-18 13:30:23
+    [checkedTos] => 
+    [pictures] => 
+    [textFields] => 
+    [delivery_option] => a:1:{i:5;s:2:"3,";}
+    [allow_seperated_package] => 0
+    [_products:protected] => 
+    [_taxCalculationMethod:protected] => 0
+    [webserviceParameters:protected] => Array
+        (
+            [fields] => Array
+                (
+                    [id_address_delivery] => Array
+                        (
+                            [xlink_resource] => addresses
+                        )
+
+                    [id_address_invoice] => Array
+                        (
+                            [xlink_resource] => addresses
+                        )
+
+                    [id_currency] => Array
+                        (
+                            [xlink_resource] => currencies
+                        )
+
+                    [id_customer] => Array
+                        (
+                            [xlink_resource] => customers
+                        )
+
+                    [id_guest] => Array
+                        (
+                            [xlink_resource] => guests
+                        )
+
+                    [id_lang] => Array
+                        (
+                            [xlink_resource] => languages
+                        )
+
+                )
+
+            [associations] => Array
+                (
+                    [cart_rows] => Array
+                        (
+                            [resource] => cart_row
+                            [virtual_entity] => 1
+                            [fields] => Array
+                                (
+                                    [id_product] => Array
+                                        (
+                                            [required] => 1
+                                            [xlink_resource] => products
+                                        )
+
+                                    [id_product_attribute] => Array
+                                        (
+                                            [required] => 1
+                                            [xlink_resource] => combinations
+                                        )
+
+                                    [id_address_delivery] => Array
+                                        (
+                                            [required] => 1
+                                            [xlink_resource] => addresses
+                                        )
+
+                                    [quantity] => Array
+                                        (
+                                            [required] => 1
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [id_shop_list] => 
+    [get_shop_from_context:protected] => 1
+    [table:protected] => cart
+    [identifier:protected] => id_cart
+    [fieldsRequired:protected] => Array
+        (
+            [0] => id_currency
+            [1] => id_lang
+        )
+
+    [fieldsSize:protected] => Array
+        (
+            [secure_key] => 32
+        )
+
+    [fieldsValidate:protected] => Array
+        (
+            [id_shop_group] => isUnsignedId
+            [id_shop] => isUnsignedId
+            [id_address_delivery] => isUnsignedId
+            [id_address_invoice] => isUnsignedId
+            [id_carrier] => isUnsignedId
+            [id_currency] => isUnsignedId
+            [id_customer] => isUnsignedId
+            [id_guest] => isUnsignedId
+            [id_lang] => isUnsignedId
+            [recyclable] => isBool
+            [gift] => isBool
+            [gift_message] => isMessage
+            [mobile_theme] => isBool
+            [allow_seperated_package] => isBool
+            [date_add] => isDateFormat
+            [date_upd] => isDateFormat
+        )
+
+    [fieldsRequiredLang:protected] => Array
+        (
+        )
+
+    [fieldsSizeLang:protected] => Array
+        (
+        )
+
+    [fieldsValidateLang:protected] => Array
+        (
+        )
+
+    [tables:protected] => Array
+        (
+        )
+
+    [image_dir:protected] => 
+    [image_format:protected] => jpg
+    [def:protected] => Array
+        (
+            [table] => cart
+            [primary] => id_cart
+            [fields] => Array
+                (
+                    [id_shop_group] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_shop] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_address_delivery] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_address_invoice] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_carrier] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_currency] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                            [required] => 1
+                        )
+
+                    [id_customer] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_guest] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_lang] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                            [required] => 1
+                        )
+
+                    [recyclable] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [gift] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [gift_message] => Array
+                        (
+                            [type] => 3
+                            [validate] => isMessage
+                        )
+
+                    [mobile_theme] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [delivery_option] => Array
+                        (
+                            [type] => 3
+                        )
+
+                    [secure_key] => Array
+                        (
+                            [type] => 3
+                            [size] => 32
+                        )
+
+                    [allow_seperated_package] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [date_add] => Array
+                        (
+                            [type] => 5
+                            [validate] => isDateFormat
+                        )
+
+                    [date_upd] => Array
+                        (
+                            [type] => 5
+                            [validate] => isDateFormat
+                        )
+
+                )
+
+            [classname] => Cart
+        )
+
+    [update_fields:protected] => 
+    [force_id] => 
+)
+
+2015-07-18 13:31:05 : Check status and update order
+2015-07-18 13:31:05 : - Complete
+2015-07-18 13:45:36 : VitePay vp_request call received
+2015-07-18 13:45:36 : Get posted data
+2015-07-18 13:45:36 : VitePay Data: Array
+(
+)
+
+2015-07-18 13:45:36 : VitePay Data: 
+2015-07-18 13:45:36 : Error occurred: Bad access of page
+2015-07-18 13:54:15 : VitePay vp_request call received
+2015-07-18 13:54:15 : Get posted data
+2015-07-18 13:54:15 : VitePay Data: Array
+(
+    [vp_request] => true
+    [success] => 1
+    [order_id] => 32
+    [authenticity] => 68D2B48BBACAC2A8465C2392D7DD5BD188444413
+)
+
+2015-07-18 13:54:15 : VitePay Data: Array
+(
+    [vp_request] => true
+    [success] => 1
+    [order_id] => 32
+    [authenticity] => 68D2B48BBACAC2A8465C2392D7DD5BD188444413
+)
+
+2015-07-18 13:54:15 : Verify security signature
+2015-07-18 13:54:15 : Signature = invalid
+2015-07-18 13:54:15 : Error occurred: Security signature mismatch
+2015-07-18 14:00:21 : VitePay vp_request call received
+2015-07-18 14:00:21 : Get posted data
+2015-07-18 14:00:21 : VitePay Data: Array
+(
+)
+
+2015-07-18 14:00:21 : VitePay Data: 
+2015-07-18 14:00:21 : Error occurred: Bad access of page
+2015-07-18 14:04:51 : VitePay vp_request call received
+2015-07-18 14:04:51 : Get posted data
+2015-07-18 14:04:51 : VitePay Data: Array
+(
+)
+
+2015-07-18 14:04:51 : VitePay Data: 
+2015-07-18 14:04:51 : Error occurred: Bad access of page
+2015-07-18 14:05:57 : VitePay vp_request call received
+2015-07-18 14:05:57 : Get posted data
+2015-07-18 14:05:57 : VitePay Data: Array
+(
+)
+
+2015-07-18 14:05:57 : VitePay Data: 
+2015-07-18 14:05:57 : Error occurred: Bad access of page
+2015-07-18 14:08:46 : VitePay vp_request call received
+2015-07-18 14:08:46 : Get posted data
+2015-07-18 14:08:46 : VitePay Data: Array
+(
+)
+
+2015-07-18 14:08:46 : VitePay Data: 
+2015-07-18 14:08:46 : Error occurred: Bad access of page
+2015-07-18 14:10:34 : VitePay vp_request call received
+2015-07-18 14:10:34 : Get posted data
+2015-07-18 14:10:34 : VitePay Data: Array
+(
+    [success] => 1
+    [order_id] => 32
+    [authenticity] => 68D2B48BBACAC2A8465C2392D7DD5BD188444413
+)
+
+2015-07-18 14:10:34 : VitePay Data: Array
+(
+    [success] => 1
+    [order_id] => 32
+    [authenticity] => 68D2B48BBACAC2A8465C2392D7DD5BD188444413
+)
+
+2015-07-18 14:10:34 : Verify security signature
+2015-07-18 14:10:34 : Signature = invalid
+2015-07-18 14:10:34 : Error occurred: Security signature mismatch
+2015-07-18 14:25:55 : VitePay vp_request call received
+2015-07-18 14:25:55 : Get posted data
+2015-07-18 14:25:55 : VitePay Data: Array
+(
+)
+
+2015-07-18 14:25:55 : VitePay Data: 
+2015-07-18 14:25:55 : Error occurred: Bad access of page
+2015-07-18 14:35:06 : VitePay vp_request call received
+2015-07-18 14:35:06 : Get posted data
+2015-07-18 14:35:06 : VitePay Data: Array
+(
+    [success] => 1
+    [order_id] => 32
+    [authenticity] => 68D2B48BBACAC2A8465C2392D7DD5BD188444413
+)
+
+2015-07-18 14:35:06 : VitePay Data: Array
+(
+    [success] => 1
+    [order_id] => 32
+    [authenticity] => 68D2B48BBACAC2A8465C2392D7DD5BD188444413
+)
+
+2015-07-18 14:35:06 : Verify security signature
+2015-07-18 14:35:06 : Signature = invalid
+2015-07-18 14:35:06 : Error occurred: Security signature mismatch
+2015-07-18 16:08:06 : VitePay vp_request call received
+2015-07-18 16:08:06 : Get posted data
+2015-07-18 16:08:06 : VitePay Data: Array
+(
+    [vp_request] => 1
+)
+
+2015-07-18 16:08:06 : VitePay Data: Array
+(
+    [vp_request] => 1
+)
+
+2015-07-18 16:08:06 : Verify security signature
+2015-07-18 16:08:06 : Signature = invalid
+2015-07-18 16:08:06 : Error occurred: Security signature mismatch
+2015-07-18 16:08:07 : VitePay vp_request call received
+2015-07-18 16:08:07 : Get posted data
+2015-07-18 16:08:07 : VitePay Data: Array
+(
+    [vp_request] => 1
+)
+
+2015-07-18 16:08:07 : VitePay Data: Array
+(
+    [vp_request] => 1
+)
+
+2015-07-18 16:08:07 : Verify security signature
+2015-07-18 16:08:07 : Signature = invalid
+2015-07-18 16:08:07 : Error occurred: Security signature mismatch
+2015-07-18 16:19:49 : VitePay vp_request call received
+2015-07-18 16:19:49 : Get posted data
+2015-07-18 16:19:49 : VitePay Data: Array
+(
+    [success] => 1
+    [order_id] => 32
+    [authenticity] => 68D2B48BBACAC2A8465C2392D7DD5BD188444413
+)
+
+2015-07-18 16:19:49 : VitePay Data: Array
+(
+    [success] => 1
+    [order_id] => 32
+    [authenticity] => 68D2B48BBACAC2A8465C2392D7DD5BD188444413
+)
+
+2015-07-18 16:19:49 : Verify security signature
+2015-07-18 16:19:49 : Signature = invalid
+2015-07-18 16:19:49 : Error occurred: Security signature mismatch
+2015-07-18 16:19:55 : VitePay vp_request call received
+2015-07-18 16:19:55 : Get posted data
+2015-07-18 16:19:55 : VitePay Data: Array
+(
+    [success] => 1
+    [order_id] => 32
+    [authenticity] => 68D2B48BBACAC2A8465C2392D7DD5BD188444413
+)
+
+2015-07-18 16:19:55 : VitePay Data: Array
+(
+    [success] => 1
+    [order_id] => 32
+    [authenticity] => 68D2B48BBACAC2A8465C2392D7DD5BD188444413
+)
+
+2015-07-18 16:19:55 : Verify security signature
+2015-07-18 16:19:55 : Signature = invalid
+2015-07-18 16:19:55 : Error occurred: Security signature mismatch

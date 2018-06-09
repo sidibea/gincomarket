@@ -1,0 +1,8 @@
+a:7:{s:13:"id_htmlobject";s:1:"7";s:14:"hook_postition";s:1:"5";s:6:"active";s:1:"1";s:7:"id_lang";s:1:"1";s:5:"title";s:0:"";s:7:"content";s:556:"<div id='notifyvisitorstag'></div>
+<script>	
+var notify_visitors = window.notify_visitors || {}; (function() { 
+        notify_visitors.auth = { bid_e : '57B9477279A1BAEC0FF5161CADCCF780', bid : '5757', t : '420'};
+var script = document.createElement('script');script.async = true;
+script.src = (document.location.protocol == 'https:' ? "//d2933uxo1uhve4.cloudfront.net" : "//cdn.notifyvisitors.com") + '/js/notify-visitors-1.0.js';
+var entry = document.getElementsByTagName('script')[0];entry.parentNode.insertBefore(script, entry); })();
+</script>";s:7:"id_shop";s:1:"1";}

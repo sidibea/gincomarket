@@ -1,0 +1,38 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{groupcategory}prestashop>group.products_6a5373df703ab2827a4ba7facdfcf779'] = 'Ajouter à la liste de souhaits';
+$_MODULE['<{groupcategory}prestashop>group.products_7f5508c884f40e3378895c83d99cbbd3'] = 'ajouter pour comparer';
+$_MODULE['<{groupcategory}prestashop>group.products_2d0f6b8300be19cf35e89e66f0677f95'] = 'Ajouter au panier';
+$_MODULE['<{groupcategory}prestashop>group.products_7947d717523fc3ff2ed384b357435bc3'] = 'Pardon! Il n\'y a pas de produits';
+$_MODULE['<{groupcategory}prestashop>product-list-nocache.default_6a5373df703ab2827a4ba7facdfcf779'] = 'Ajouter à la liste de souhaits';
+$_MODULE['<{groupcategory}prestashop>product-list-nocache.default_7f5508c884f40e3378895c83d99cbbd3'] = 'ajouter pour comparer';
+$_MODULE['<{groupcategory}prestashop>product-list-nocache.default_2d0f6b8300be19cf35e89e66f0677f95'] = 'Ajouter au panier';
+$_MODULE['<{groupcategory}prestashop>product-list-nocache.option1.default_6a5373df703ab2827a4ba7facdfcf779'] = 'Ajouter à la liste de souhaits';
+$_MODULE['<{groupcategory}prestashop>product-list-nocache.option1.default_7f5508c884f40e3378895c83d99cbbd3'] = 'ajouter pour comparer';
+$_MODULE['<{groupcategory}prestashop>product-list-nocache.option1.default_2d0f6b8300be19cf35e89e66f0677f95'] = 'Ajouter au panier';
+$_MODULE['<{groupcategory}prestashop>product-list-nocache.option1.default_7947d717523fc3ff2ed384b357435bc3'] = 'Pardon! Il n\'y a pas de produits';
+$_MODULE['<{groupcategory}prestashop>product-list-nocache.option3.default_6a5373df703ab2827a4ba7facdfcf779'] = 'Ajouter à la liste de souhaits';
+$_MODULE['<{groupcategory}prestashop>product-list-nocache.option3.default_7f5508c884f40e3378895c83d99cbbd3'] = 'Ajouter pour comparer';
+$_MODULE['<{groupcategory}prestashop>product-list-nocache.option3.default_2d0f6b8300be19cf35e89e66f0677f95'] = 'Ajouter au panier';
+$_MODULE['<{groupcategory}prestashop>product-list-nocache.option3.default_7947d717523fc3ff2ed384b357435bc3'] = 'Pardon! Il n\'y a pas de produits';
+$_MODULE['<{groupcategory}prestashop>product-list-nocache.option4.default_6a5373df703ab2827a4ba7facdfcf779'] = 'Ajouter à la liste de souhaits';
+$_MODULE['<{groupcategory}prestashop>product-list-nocache.option4.default_7f5508c884f40e3378895c83d99cbbd3'] = 'Ajouter pour comparer';
+$_MODULE['<{groupcategory}prestashop>product-list-nocache.option4.default_2d0f6b8300be19cf35e89e66f0677f95'] = 'Ajouter au panier';
+$_MODULE['<{groupcategory}prestashop>product-list-nocache.option4.default_7947d717523fc3ff2ed384b357435bc3'] = 'Pardon! Il n\'y a pas de produits';
+$_MODULE['<{groupcategory}prestashop>product-list.default_6a5373df703ab2827a4ba7facdfcf779'] = 'Ajouter à la liste de souhaits';
+$_MODULE['<{groupcategory}prestashop>product-list.default_7f5508c884f40e3378895c83d99cbbd3'] = 'Ajouter pour comparer';
+$_MODULE['<{groupcategory}prestashop>product-list.default_2d0f6b8300be19cf35e89e66f0677f95'] = 'Ajouter au panier';
+$_MODULE['<{groupcategory}prestashop>product-list.option1.default_6a5373df703ab2827a4ba7facdfcf779'] = 'Ajouter à la liste de souhaits';
+$_MODULE['<{groupcategory}prestashop>product-list.option1.default_7f5508c884f40e3378895c83d99cbbd3'] = 'Ajouter pour comparer';
+$_MODULE['<{groupcategory}prestashop>product-list.option1.default_2d0f6b8300be19cf35e89e66f0677f95'] = 'Ajouter au panier';
+$_MODULE['<{groupcategory}prestashop>product-list.option1.default_7947d717523fc3ff2ed384b357435bc3'] = 'Pardon! Il n\'y a pas de produits';
+$_MODULE['<{groupcategory}prestashop>product-list.option3.default_6a5373df703ab2827a4ba7facdfcf779'] = 'Ajouter à la liste de souhaits';
+$_MODULE['<{groupcategory}prestashop>product-list.option3.default_7f5508c884f40e3378895c83d99cbbd3'] = 'Ajouter pour comparer';
+$_MODULE['<{groupcategory}prestashop>product-list.option3.default_2d0f6b8300be19cf35e89e66f0677f95'] = 'Ajouter au panier';
+$_MODULE['<{groupcategory}prestashop>product-list.option3.default_7947d717523fc3ff2ed384b357435bc3'] = 'Pardon! Il n\'y a pas de produits';
+$_MODULE['<{groupcategory}prestashop>product-list.option4.default_6a5373df703ab2827a4ba7facdfcf779'] = 'Ajouter à la liste de souhaits';
+$_MODULE['<{groupcategory}prestashop>product-list.option4.default_7f5508c884f40e3378895c83d99cbbd3'] = 'Ajouter pour comparer';
+$_MODULE['<{groupcategory}prestashop>product-list.option4.default_2d0f6b8300be19cf35e89e66f0677f95'] = 'Ajouter au panier';
+$_MODULE['<{groupcategory}prestashop>product-list.option4.default_7947d717523fc3ff2ed384b357435bc3'] = 'Pardon! Il n\'y a pas de produits';

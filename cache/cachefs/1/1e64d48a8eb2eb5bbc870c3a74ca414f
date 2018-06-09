@@ -1,0 +1,9 @@
+a:1:{s:252:"IFNULL(
+			(
+				SELECT left_column
+				FROM ps_theme t
+				LEFT JOIN ps_theme_meta tm ON ( t.id_theme = tm.id_theme )
+				LEFT JOIN ps_meta m ON ( m.id_meta = tm.id_meta )
+				WHERE t.id_theme =2
+				AND m.page = "sitemap" ) , default_left_column
+			)";s:1:"0";}

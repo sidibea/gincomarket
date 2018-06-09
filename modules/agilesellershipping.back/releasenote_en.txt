@@ -1,0 +1,94 @@
+
+
+Improvement - Change the range setting page to use rows for zones to support for large number delivery zones.
+Improvement - Prevent linked carrier (Seller Default Carrier ) to be deleted. An error will be displayed if admin try to delete the "Seller Default Cariier".
+
+fixed - when you use multiple languages, you are not able to change language at carrier editing page at front store - My Seller Account - Shipping tab
+fixed - error when goes to range setting if it is free shipping carrier.
+fixed - error page when seller craete a new Free Shipping carrier and click "Save" button. 
+change - removed option "Default Behaviour" from "Billing" (based on price, or weight)
+
+
+Version 2.0.1.2 - 2015.02.10
+- changed to use real hook name in prestashop 1.6x instead of using alias names
+- fixed bug - front seller management - shipping carrier list - column header "Actions" translation issue
+- fixed bug - the shipping fee in Carrier drop down list at carrier selection page does not show correctly when using combination
+
+Version 2.0.1.1 - 2014.10.10
+- When create a new carrier, select all groups by default
+- when create a new carrier, a default range 0 - 5000 will be added automatically.
+- fixed shipping handling fee calculation issue (set at store level)
+- Fixed Shipping handling fee calculation was not included before
+- Compatible with Smart Cache for Javascript and Smart Cache for CSS
+
+Version 2.0.0.0 - 2014.04.08
+- Support PrestaShop 1.6x and Responsive themes
+- Default carrier sharing is changed as following
+You can choose from either one of following to share the Default Carrier that is linked to the module.
+A. Never - do not share the Default Carrier
+B. Yes - only when no other carriers available for the seller
+C. Always - always use Default carrier for all carrier.
+- fixed an issue at Order details page back office - Default carrier is not displayed correctly in order details, the weight of order was always 0.
+- Implemented carrier Out Of Range handling
+
+
+Version 1.2.6 - 2014.02.13
+- new feature, support multiple public/shared carriers. the public/shared carriers can only be manage by admin. 
+A. Only admin can manage/configure public/shared carriers, sellers can see the carrier information at front store Seller Panel.
+B. Configuration of public/shared carrier will be the same to all carriers.
+C. Seller is able to choose to use carriers or not at product level (at product management page - shipping tab)
+
+Version 1.2.5.1 - 2013.12.06
+- new feature - always use lowest shipping carrier by default. 
+- new feature - the carriers in drop down list will sorted by price, lowest price comes first.
+- fixed an issue when user switch Zone (for example, before log in, ad after log in)
+- fixed carrier - shipping fee tax displaying issue in product level carrier drop-down list.
+- fixed issue not able to focus at width/weight/depth field for editing.
+- fixed an error at adding weight range.
+
+Version 1.2.4.0 - 2013.06.01
+- Seller is able to manage seller shipping carrier at front store My Seller Account page
+  This is an easy to use carrier management tool then the complicated one in back office.
+- Fixed an issue with additional shipping cost calculation. 
+- Fixed a problem when carrier is assigned to specific product (at product management page), other carrier are also displayed in carrier selection page during checkout.
+- Fixed issue at Once page checkout page, when user choose different carrier, shipping at order summary is not updated.
+- Fixed an issue with additional shipping cost calculation when using combination and add the same product with different combination.
+
+Version 1.2.3 - 2013.03.11
+- Total shipping fee is not displayed correctly at Order confirmation email and Back office Order Details page when this module is installed.
+- Fix an issue with product additional shipping fee is not included on shipping carrier selection page
+
+
+Version 1.2.1 - 2012.12.01
+- Integrated with new released Agile Multiple Shop module which allow each seller to have a virtual shop, virtual directory and separated themes.
+
+Version 1.2.0 - 2012.10.20
+- Module adjusted to compatible with PrestaShop 1.5x
+
+Version 1.1.1 - 2012.09.21
+- Fixed a bug at shipping fee calculation when different seller sharing default Carrier and shipping price by Wright
+
+Version 1.1.1 - 2012.09.05
+- Adjusted module to support PrestaShop 1.4.9 (fixed an Smarty error on 1.4.9)
+
+Version 1.1.0 - 2012.07.27
+- Fixed a bug that causes wrong shipping fee calculation when adding more than more than one from same error.
+- Fixed a bug that does not update shipping fee in cart block at Carrier selection page in traditional 5 step checkout.
+- It is configurable that you can choose to use Store Default Carrier as seller carrier if the seller does not have private carrier.
+- Display detailed products that can not be delivered in case any item in cart can not find a carrier to delivery.
+
+Version 1.0.0.5 - 2012.06.14
+- Fixed an issue when shipping fee based on weight
+- Fixed an issue the reflect cart summary data
+
+Version 1.0 - 2012.05.19
+- Store can set standard shipping charges - which can be used for all sellers if the seller does not have private carriers
+- If a seller does not have valid shipping carrier available, then the store standard shipping carrier will be applied
+
+- Seller can have multiple private shipping carriers 
+- Seller can set different shipping charge (shipping fee) based on product price or product weight
+- Seller can set different shipping charge (shipping fee) for different zone(region/country)
+
+- Buyer Is able to choose carrier at product level
+- The shipping price is updated dynamically when buyer change the shipping carrier for each product during checkout process
+- The module support both 5 steps traditional checkout process or Once Page Checkout process

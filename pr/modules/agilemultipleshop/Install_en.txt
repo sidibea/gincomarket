@@ -1,0 +1,48 @@
+New Install
+======================
+1. Login to PrestaShop back office and click Modules tab
+2. Click "Add a module from my computer" and choose the module package you have downlaoded and click "Upload this module"
+3. Input "agile" in the search bix of Module page and select "Agile Seller Products"
+4. Click "install" link under the module, the module will be installed automatically.
+You are done with the module installation. 
+
+
+Upgrade from old version
+========================
+0. As best practice, please back up your database for just in case.
+1. Record/Memo the module configuration parameters if have
+2. Uninstall old version of Agile Multiple Seller, back office - Modules tab
+3. Delete the module (uninstalled already) , Back office - Modules tab
+   (make sure all files are gone via FTP or File manager)
+4. Execute above "New Insall" from 1. - 4.
+
+Your existing data will remain unchanged.
+
+
+Optional change instructions
+1. Seller Logo on page header - seller logo size should be use the same with store logo size to fit the theme design.
+	A. When you choose show main store logo only, nothing will be changed but the link URL
+	B. When you choose show seller logo only, both logo image and link will be replaced.
+    C. When you choose to show both seller logo and main store logo at header, by default, the seller header logo will be insert after main store logo position.
+       If you want to change that, you can put this hook at any position header.tpl
+   
+       {if isset($HOOK_SELLER_HEADER_LOGO)}{$HOOK_SELLER_HEADER_LOGO}{/if}
+
+       Note: you need to adjust your CSS to adopt 2 logos because by default, your theme only fit for one logo.
+   
+2. Breadcrumb
+   In order make breadcrum (store navigation bar) to include seller's shop, you will need to make following changes
+   
+   File:  YourStoreRoot/themes/YourStoreTheme/breadcrumb.tpl
+   
+   Find this line:
+		<a href="{$base_dir}" title="{l s='Return to Home'}"><img src="{$img_dir}icon/home.gif" height="26" width="26" alt="{l s='Home'}" /></a>
+ 
+	Replace with following lines:
+
+	{if isset($shops_link) AND !empty($shops_link)}
+		{$shops_link}
+	{else}
+		<a href="{$base_dir}" title="{l s='Return to Home'}"><img src="{$img_dir}icon/home.gif" height="26" width="26" alt="{l s='Home'}" /></a>
+	{/if}
+	 

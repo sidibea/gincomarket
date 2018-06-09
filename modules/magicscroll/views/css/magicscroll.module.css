@@ -1,0 +1,57 @@
+
+/* NOTE: contaner with main image and selector's container */
+div.MagicToolboxContainer {
+    text-align: center;
+}
+div.MagicToolboxContainer.minWidth {
+    min-width: 250px;
+}
+
+/* NOTE: contaner with message under Magic Scroll */
+div.MagicToolboxMessage {
+    text-align: center;
+}
+
+/* NOTE: magicscroll makes the image smaller if there is a margin */
+/*
+.MagicScrollItem a {
+    margin: 0 !important;
+}
+*/
+/*
+div.MagicScroll {
+    margin: auto !important;
+}
+*/
+
+.hidden-important {
+    display: none !important;
+}
+/*
+#center_column, #left_column, #right_column {
+    overflow: visible !important;
+}
+*/
+#primary_block #image-block {
+    height: auto;
+}
+
+/* for homepage scroll */
+body#index .MagicToolboxContainer .MagicScroll {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* NOTE: fix styles for product list pages */
+ul#product_list.MagicScroll div.center_block > h3 {
+    text-align: left;
+}
+ul#product_list.MagicScroll p.product_desc {
+    text-align: left;
+    white-space: normal;
+}
+ul#product_list.MagicScroll li .right_block {
+    font-size: 11px;
+    text-align: right !important;
+    white-space: normal;
+}

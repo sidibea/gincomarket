@@ -1,0 +1,44 @@
+Ver 1.0 - 2012.12.01
+====================
+First release 
+
+Ver 1.1 - 2013.03.24
+- Search by Seller Type and Search by Seller location at seller list page
+- Switch from List view of Grid view of seller list page
+- Pagination function of seller list page
+- fixed an issue at Seller Home page - pagination get "404 not found error"
+- Fixed an pagination issue at Shop By Seller/Shop By Country page
+
+
+Ver 1.2.2 - 2013.12.24
+- Change "Shop By Contry" to "Shop By Location", 
+  It is configurable for admin to change to Shop By locaiton level: Country, State, City, Seller Type
+- removed pagination.tpl/product-sort.tpl from module folder, use the one in theme folder.
+- Configuanle to show "Shop By Seller" and "Shop By Location block" at Seller Virtual Shop or not
+- Change the breadcrumb displaying method. you can control the appearance of shop in the Breadcrumb (stoe navigation bar)
+
+
+Ver 2.0.0 - 2014.04.04
+Support PrestaShop 1.6x
+- support responsive theme
+- add seller rating summary on seller virtual shop home page 
+- removed automtically adding "/home" from virtual shop URL 
+- other bug fixes
+
+
+Ver 2.0.0.3 - 2014.04.020
+- Add new tab at Home page to show "Shop  By Seller" and "Shop By Location" at home page.
+  The contents is the same as "Shop By Seller" and "Shop By Location" at left/right column on other pages.
+
+
+Ver 2.0.1.1 - 2014.06.28
+- It is configurable for admin to choose show left or right column at seller virtual shop home page.
+- Compatible with Smart Cache for Javascript and Smart Cache for CSS
+- Configurable to choose show category URL based on main store URL or current virtual shop URL
+
+-Next
+- Support both grid/List view at seller list page
+- Fixed Shop By City page dropdown list default select
+- load seller logo url and include in the seller data for home page hook, so you can inlcude seller logo inside that hook.
+- changed to use real hook name of PrestaShop 1.6x instead of using alias name
+

@@ -1,0 +1,24 @@
+a:58:{s:10:"id_product";s:3:"126";s:11:"id_supplier";s:1:"0";s:15:"id_manufacturer";s:1:"0";s:19:"id_category_default";s:2:"74";s:15:"id_shop_default";s:1:"1";s:18:"id_tax_rules_group";s:1:"0";s:7:"on_sale";s:1:"0";s:11:"online_only";s:1:"0";s:5:"ean13";s:0:"";s:3:"upc";s:0:"";s:6:"ecotax";s:8:"0.000000";s:8:"quantity";s:1:"0";s:16:"minimal_quantity";s:1:"1";s:5:"price";s:12:"30000.000000";s:15:"wholesale_price";s:8:"0.000000";s:5:"unity";s:0:"";s:16:"unit_price_ratio";s:8:"0.000000";s:24:"additional_shipping_cost";s:4:"0.00";s:9:"reference";s:6:"nakara";s:18:"supplier_reference";s:0:"";s:8:"location";s:0:"";s:5:"width";s:8:"0.000000";s:6:"height";s:8:"0.000000";s:5:"depth";s:8:"0.000000";s:6:"weight";s:8:"0.000000";s:12:"out_of_stock";s:1:"2";s:17:"quantity_discount";s:1:"0";s:12:"customizable";s:1:"0";s:16:"uploadable_files";s:1:"0";s:11:"text_fields";s:1:"0";s:6:"active";s:1:"1";s:13:"redirect_type";s:3:"404";s:21:"id_product_redirected";s:1:"0";s:19:"available_for_order";s:1:"1";s:14:"available_date";s:10:"0000-00-00";s:9:"condition";s:3:"new";s:10:"show_price";s:1:"1";s:7:"indexed";s:1:"1";s:10:"visibility";s:4:"both";s:13:"cache_is_pack";s:1:"0";s:21:"cache_has_attachments";s:1:"0";s:10:"is_virtual";s:1:"0";s:23:"cache_default_attribute";s:1:"0";s:8:"date_add";s:19:"2017-05-08 16:38:01";s:8:"date_upd";s:19:"2017-06-07 15:33:52";s:25:"advanced_stock_management";s:1:"0";s:15:"pack_stock_type";s:1:"3";s:7:"id_shop";s:1:"1";s:7:"id_lang";s:1:"1";s:11:"description";s:895:"<p>Cet outil permet aussi des petits travaux de meulage, perçage, gravure, sculpture, polissage, ponçage et nettoyage.</p>
+<ul><li>Alimentation : 230V-50Hz.</li>
+<li>Puissance: 12 Volts / 400mA.</li>
+<li>Vitesse: n.12 000/min.</li>
+<li>Isolation: Classe III.</li>
+<li>Capacité maxi du mandrin: 35 mm.</li>
+<li>Bouton de blocage du mandrin, permet de changer l'outil facilement à la main.</li>
+<li>Poids: 125 gr.</li>
+<li>Niveau de vibration: 1,24m/S2.</li>
+<li>Niveau de pression acoustique: 51 dB (A) +/-3dB.</li>
+<li>Niveau de puissance acoustique: 62 dB (A) +/-3dB.</li>
+<li>Livré en coffret plastique.</li>
+<li>Garantie: 1 an.</li>
+</ul><p>      Accessoires fournis:</p>
+<ul><li>2 Meules.</li>
+<li>5 Râpes.</li>
+<li>1 Embout support accessoires.</li>
+<li>2 Feutres polir.</li>
+<li>1 Embout mandrin.</li>
+<li>1 Fraise.</li>
+<li>2 Embouts souples.</li>
+<li>1 Normographe.</li>
+</ul>";s:17:"description_short";s:383:"<p><strong>Graveur électrique Expert Line kit de 15 accessoires en coffret.</strong></p>
+<p>Outil multifonction destiné pour des petits travaux de gravures. Pour graver une grande variété de matériaux tels que les métaux, le verre, le bois, le plastique, la céramique, etc. Ce kit comprend également un gabarit qui permet de graver facilement des chiffres et des lettres.</p>";s:12:"link_rewrite";s:44:"graveur-electrique-12v-15-accesoires-coffret";s:16:"meta_description";s:19:"Graveur électrique";s:13:"meta_keywords";s:19:"graveur électrique";s:10:"meta_title";s:19:"Graveur électrique";s:4:"name";s:45:"GRAVEUR ELECTRIQUE 12V-15 ACCESOIRES +COFFRET";s:13:"available_now";s:0:"";s:15:"available_later";s:0:"";}

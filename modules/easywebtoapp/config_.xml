@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>easywebtoapp</name>
+	<displayName><![CDATA[Easy Web to App]]></displayName>
+	<version><![CDATA[1.0.2]]></version>
+	<description><![CDATA[Convert Your PrestaShop Web Store into Android & Apple iOS Native App with powerful AppNotch features.]]></description>
+	<author><![CDATA[AppNotch]]></author>
+	<tab><![CDATA[mobile]]></tab>
+	<confirmUninstall><![CDATA[]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

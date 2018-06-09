@@ -1,0 +1,78 @@
+v1.9.0 (2017-3-10)
+- [Improvement] Make module compatible with PS 1.7.x.
+
+v1.9.0 (2016-08-27)
+- [Changed] Change product key
+- [Improvement] The new design for settings module page.
+- [Fixed] Cannot redirect to Paypal page when enable option show postcode at the product list page.
+- [Fixed] Fixing error "Fatal error".
+
+v1.8.7 (2016-02-27)
+ - [Changed] Always show order confirm page after redirecting from PayPal 
+
+v1.8.6 (2016-02-19)
+ - [Changed] Rebuild a part of module
+ - [Fixed]  Add shop name in description of option Communication method 
+
+v1.8.5 (2016-01-22)
+ - [Changed] Remove option 'Sync customer data with Paypal data' since it's no longer helpful
+ - [Fixed] Paypal button is not shown in PS1.5
+ - [Fixed] Order is created but without state
+
+v1.8.4 (2016-01-15)
+- [Fixed] Redirect to default basket page when clicking on Paypay button on empty basket
+- [Fixed] Hover effect on Paypal button position - configuration page doesn't work on PrestaShop 1.5.x
+- [Fixed] Show order status with detail information based on return message from Paypal
+- [Fixed] Hide Paypal button for out of stock products when system doesn't allow ordering out-of-stock product
+
+v1.8.3 (2015-12-25)
+- [Fixed] Tax does not include when submitting form to PayPal
+- [Fixed] Missing some custom required fields in address creation caused error to the site.
+- [Fixed] Country list doesn't show up due to wrong escape HTML at Front-end
+- [Fixed] Wrong shipping fee calculation on Paypal summary in case customer logs in and has free shipping cost.
+- [Fixed] Cannot create guest account to link to order when option "Enable guest checkout" on Back-Office is disabled and option "Customer as guest" on module is disabled.
+- [Fixed] Customer address is not correct on order confirmation email.
+- [Changed] Show customer's phone number if feature “Using Buyer Contact Telephone Numbers” is enabled on PayPal account
+- [Changed] Update some texts/descriptions on setting page to make them clearer.
+
+v1.8.2 (2015-11-13)
+- [Changed] Accept custom payment images
+- [Changed] Custom label for Paypal buttons
+- [Added] Paypal button on list pages
+- [Changed] Show position screen shots in tooltips
+- [Changed] Update logic add Paypal account to support multiple stores
+- [Changed] Validate currency which is supported by PayPal
+- [Fixed] Always use Paypal address after completing sale
+- [Fixed] Fixing wrong shipping fee after completing payment
+
+v1.8.0 (2015-10-2)
+- [Improvement] Show position screen shots in tooltips
+- [Improvement] Custom label for Paypal buttons
+- [Improvement] Accept custom payment images
+- [Fix] PDT notify-synch failures with error 4002
+
+v1.7.0 (2015-4-10)
+- [Feature] Add Paypal fee
+- [Feature] Translation for button Paypal
+
+v1.4.1 (2014-12-17)
+- [Fix] Nested form does not work in product page
+
+v1.4.0 (2014-12-01)
+- Add Paypal button to block Product Actions
+
+v1.3.0 (2014-11-10)
+- [Bug] Shipping cost is not passed through in non-US currency
+- [Feature] An option to toggle confirmation page after payment
+
+v1.2.0 (2014-08-29)
+- [Feature] Check out from basket preview
+- Bug fixing
+
+v1.1.0 (2014-07-14)
+- [Feature] Support basket page
+- [Feature] Custom image on product page
+- [Feature] Custom text on product page
+
+v1.0.0 (2013-09-10)
+- Initialize
