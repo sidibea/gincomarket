@@ -1,8 +1,9 @@
 .tp-caption.OpenSans1 {
-font-size:46px;
+font-size:18px;
 line-height:25px;
 font-weight:600;
 font-family:"Open Sans";
+color:rgb(102, 102, 102);
 text-decoration:none;
 background-color:transparent;
 padding:1px 4px 0px;
@@ -10,32 +11,15 @@ text-shadow:none;
 margin:0px;
 letter-spacing:0px;
 border-width:0px;
-border-color:rgb(255, 255, 255);
+border-color:rgb(102, 102, 102);
 border-style:none;
 }
 
 .tp-caption.OpenSans2 {
-color:#e62e04;
-background-color:transparent;
-font-size:45px;
+font-size:60px;
 line-height:66px;
 font-weight:800;
 font-family:"Open Sans";
-text-decoration:none;
-padding:1px 4px 0px 4px;
-text-shadow:none;
-margin:0px;
-letter-spacing:0px;
-border-width:0px;
-border-color:rgb(230, 46, 4);
-border-style:none;
-}
-
-.tp-caption.OpenSans3 {
-font-size:39px;
-line-height:50px;
-font-weight:600;
-font-family:Tahoma, Geneva, sans-serif;
 color:rgb(230, 46, 4);
 text-decoration:none;
 background-color:transparent;
@@ -45,7 +29,24 @@ margin:0px;
 letter-spacing:0px;
 border-width:0px;
 border-color:rgb(230, 46, 4);
-border-style:dotted;
+border-style:none;
+}
+
+.tp-caption.OpenSans3 {
+font-size:28px;
+line-height:36px;
+font-weight:600;
+font-family:"Open Sans";
+color:rgb(230, 46, 4);
+text-decoration:none;
+background-color:transparent;
+padding:1px 4px 0px;
+text-shadow:none;
+margin:0px;
+letter-spacing:0px;
+border-width:0px;
+border-color:rgb(230, 46, 4);
+border-style:none;
 }
 
 .tp-caption.OpenSans4 {

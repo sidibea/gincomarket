@@ -3,7 +3,7 @@ class AdminLanguagesController extends AdminLanguagesControllerCore
 {
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function processAdd()
@@ -15,7 +15,7 @@ class AdminLanguagesController extends AdminLanguagesControllerCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function processUpdate()

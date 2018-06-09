@@ -2,7 +2,7 @@
 <module>
 	<name>groupcategory</name>
 	<displayName><![CDATA[Supershop - Group Category Module]]></displayName>
-	<version><![CDATA[2.0]]></version>
+	<version><![CDATA[1.0]]></version>
 	<description><![CDATA[Group Category Module]]></description>
 	<author><![CDATA[OvicSoft]]></author>
 	<tab><![CDATA[front_office_features]]></tab>

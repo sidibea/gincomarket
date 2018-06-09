@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>EN - Ecommerce blog by PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/en/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/en</link>
+	<description></description>
+	<lastBuildDate>Mon, 24 Aug 2015 09:17:07 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>5 signs that PrestaShop is right for you</title>
+		<link>https://www.prestashop.com/blog/en/5-signs-prestashop-right/</link>
+		<comments>https://www.prestashop.com/blog/en/5-signs-prestashop-right/#comments</comments>
+		<pubDate>Mon, 24 Aug 2015 09:17:07 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=20574</guid>
+		<description><![CDATA[<p>Whether you’re looking to launch an online shop for the first time or thinking about migrating to a new solution, you may find yourself asking “Is PrestaShop right for me?” The fast and easy answer is “Of course &#8211; PrestaShop is right for everyone!” Making PrestaShop accessible and easy to use is how we envisioned [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/5-signs-prestashop-right/">5 signs that PrestaShop is right for you</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Whether you’re looking to launch an online shop for the first time or thinking about migrating to a new solution, you may find yourself asking “Is PrestaShop right for me?” The fast and easy answer is “Of course &#8211; PrestaShop is right for everyone!”</p>
+<p>Making PrestaShop accessible and easy to use is how we envisioned the software to be and something we work hard to achieve. However, having worked at PrestaShop for almost 2 years, I’ve learned that PrestaShop works better for some merchants than others. Today I’m sharing 5 signs that will help you decide if PrestaShop is right for you.<br />
+<span id="more-20574"></span></p>
+<h2>1. You’d like to sell products online.</h2>
+<p>As a developer of ecommerce software, our main focus is helping online merchants sell their products. When we add features and functionality, we’re looking for ways to improve business for our online merchants. We work closely with our community &#8211; developers and merchants &#8211; so we get constant feedback about the new features they’d like to see added.</p>
+<p>If you’re <strong>not</strong> going to sell products online, you can still take advantage of PrestaShop’s platform. Companies who want an online presence can easily cultivate one with our platform. It’s a great way to generate more buzz and excitement about your products, without having to manage the ecommerce side of the business just yet. Once you’re ready to start selling online, it’s simple to move from a showcase to a full-fledged store. Just check out this product catalog from <a href="http://www.jennifertaylorhome.com/" target="_blank">Jennifer Taylor Home</a> that was built using PrestaShop software.</p>
+<h2>2. You’re cost-conscious or working on a limited budget.</h2>
+<p>There’s nothing worse than having to fork over money before you even start selling products. Unfortunately, that’s the way business works. To help you limit your spending, we’ve made our software completely free. It’s not free for 30 days, or for your first 100 products. It’s just&#8230; free.</p>
+<p>Even if you have the budget for a developer, our lightweight software and module-based environment make it easy for developers to create a custom shop quickly and easily. They can also use pre-made template themes to speed up development timelines. Both of these factors help decrease the number of development hours you need to invest in, saving you money.</p>
+<h2>3. You like payment and shipping options.</h2>
+<p>PrestaShop plays well with others. We work with other big names in the ecommerce industry, including shipping and payment solutions. By working together with industry partners, we can provide free modules that connect their services to your PrestaShop back office. Also, by working with multiple partners from the same industry, we give you plenty of options to choose from.</p>
+<p>If you’re not sold on a particular service, our <a href="http://addons.prestashop.com/" target="_blank">merchant success team</a> is available to help you find the right solution for your business.</p>
+<h2>4. You’re tech savvy.</h2>
+<p>The best thing about using an open source platform is having full access to the software code. If you come from a technical background, you understand the freedom that gives you in terms of customization options &#8211; you can build your shop exactly as you see fit.</p>
+<p>If you’re not too tech savvy, we’ve got you covered too. I’d recommend checking out our PrestaShop Cloud version. It’s the same great software we share with the community, just hosted for free. The only catch is that you have limited access to the source code, and you’re restricted to using modules that have been approved by PrestaShop Addons to limit risk to other shops we host.</p>
+<h2>5. You’re looking to build and grow your business.</h2>
+<p>If you need an online shop for a couple of days &#8211; maybe you’re thinking of doing a pop-up store &#8211; it may not be worth the time and effort to set up a complete online operation. The bulk of the features included in PrestaShop are targeted to merchants who want to build a business. Take for example, our analytics dashboard: at a glance, you can see your shop’s performance over the course of a week, a month, or even a year. Any math student can tell you that stats are only useful when compiled using data that’s been collected over a minimum period of time. </p>
+<p>That’s just one of the many features built for serious merchants. Here are a few more:</p>
+<ul>
+<li>Different login for each team member, with their own set of permissions</li>
+<li>Customer profiles and their order histories</li>
+<li>Manufacturer and supplier management and analysis</li>
+<li>Abandoned cart tracking to improve sales over time</li>
+<li>Localization capabilities for increasing international sales</li>
+</ul>
+<p>That’s not to say that PrestaShop isn’t right for you if you’re running a small business. The easy- to-use back office makes setting up your shop a breeze. We won’t blame you for wanting to use PrestaShop, even for a few days. <img src="https://www.prestashop.com/blog/en/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> </p>
+<h4>In a nutshell</h4>
+<p>Just because PrestaShop is free, it doesn’t mean it’s perfect for everyone. The people who use PrestaShop most successfully are those who meet most of the following qualities:</p>
+<ol>
+<li>You’d like to sell products online.</li>
+<li>You’re cost-conscious or working on a limited budget.</li>
+<li>You like payment and shipping options.</li>
+<li>You’re tech savvy.</li>
+<li>You’re looking to build and grow your business.</li>
+</ol>
+<hr />
+<p>Do these 5 signs point to you launching your shop with PrestaShop? If so, what are you waiting for? Create a PrestaShop account in seconds, then launch your own online business.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/5-signs-prestashop-right/">5 signs that PrestaShop is right for you</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/5-signs-prestashop-right/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Store audit &#8211; 100% Soccer</title>
+		<link>https://www.prestashop.com/blog/en/store-audit-100-soccer/</link>
+		<comments>https://www.prestashop.com/blog/en/store-audit-100-soccer/#comments</comments>
+		<pubDate>Fri, 21 Aug 2015 07:59:57 +0000</pubDate>
+		<dc:creator><![CDATA[Cécile Dubouis]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=20539</guid>
+		<description><![CDATA[<p>This week, we&#8217;re off to Spain! (&#8230;this one goes out to the PrestaShop soccer team!) We&#8217;re taking a play-by-play look at Futbolcienporcien.com, an online store from Madrid focused on customized soccer products. Navigation Strong points: The Futbolcienporcien logo very clearly indicates what their business is. The home page welcomes visitors into a clean, uncluttered store [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/store-audit-100-soccer/">Store audit &#8211; 100% Soccer</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>This week, we&#8217;re off to Spain! (&#8230;this one goes out to the PrestaShop soccer team!)<br />
+We&#8217;re taking a play-by-play look at <a href="http://www.futbolcienporcien.com" target="_blank">Futbolcienporcien.com</a>, an online store from Madrid focused on customized soccer products.<br />
+<span id="more-20539"></span></p>
+<h2 style="color: #e0801c;">Navigation</h2>
+<h4 style="color: #e0801c;">Strong points:</h4>
+<p>The Futbolcienporcien logo very clearly indicates what their business is. The home page welcomes visitors into a clean, uncluttered store with high-quality images. It makes an excellent first impression!<br />
+Additionally, the store is fully responsive and adapted to all web users. It&#8217;s great for mobile SEO.</p>
+<h4 style="color: #e0801c;">Areas for improvement:</h4>
+<ul style="padding-left: 30px;">
+<li><strong>A highly visible search bar</strong></li>
+</ul>
+<p>Currently the site&#8217;s search feature is only displayed when hovering over the magnifying glass.<br />
+The search bar is an essential element of any online store carrying a large number of products, like this one does.<br />
+Econsultancy.com released a study showing that 30% of visitors use a site&#8217;s search feature. The conversion rate of visitors who use search typically increases by 48%!</p>
+<p><i style="color: #5b9bd5;">In addition to increasing your conversion rate, <a href="http://addons.prestashop.com/en/354-search" target="_blank">an effective search feature</a> gives you a great deal of information about what your visitors want. This can help you rework your keywords to optimize your search rankings, order the most-searched for products so you can meet expectations and improve customer satisfaction.</i></p>
+<p>All data can be found in Google Analytics (Behavior / Site Search / Search Terms).</p>
+<p><img alt="" src="https://www.prestashop.com/blog/en/files/2015/08/futbol-analytics.png" /></p>
+<p>You can look term by term to see how conversion rates improve for each word.</p>
+<ul style="padding-left: 30px;">
+<li><strong>Very clear action buttons</strong></li>
+</ul>
+<p>When you hover over a product, you see 4 different icons: an eye, a magnifying glass with a &#8220;+&#8221;, and below the image, a heart and a double arrow.<br />
+The problem with having just icons is that their purpose is not always clear. And that leads to a major problem—having to think while shopping, &#8220;What icon should I be clicking on?&#8221;</p>
+<p><img alt="" src="https://www.prestashop.com/blog/en/files/2015/08/futbol-cta.png" /></p>
+<p><i style="color: #5b9bd5;">Make the icons in your store as clear as possible. You can add explanatory text, or guide your visitors with different colors depending on the actions you want to encourage.</i></p>
+<ul style="padding-left: 30px;">
+<li><strong>Site loading speed</strong></li>
+</ul>
+<p>As soon as you click on a product, the site takes several long seconds to pull up the page you&#8217;re waiting for. During my test – and this could of course change – page loading time was 4.57 seconds. There&#8217;s a major risk of losing visitors who were interested in your products, i.e. potential buyers.</p>
+<p><i style="color: #5b9bd5;">57% of Internet users leave a website if it takes longer than 3 seconds to load. Out of those, 80% will never return. Optimizing your page load time makes it easier to convert visitors on your site and improve your organic search rankings!</i></p>
+<p>You can use browser caching. To activate it, go to the <strong>Advanced Parameters / Performance tab</strong>:</p>
+<p><img alt="" src="https://www.prestashop.com/blog/en/files/2015/08/prestashop-performance-tab.png" /></p>
+<p>There, you can configure all the tools: caching, combinations, compression, media servers, and more. For more advice, I also highly recommend that you check out <a href="http://doc.prestashop.com/display/PS16/Performance+Parameters" target="_blank">PrestaShop&#8217;s documentation for optimizing your online store&#8217;s performance.</a></p>
+<p>Still not enough? <a href="http://addons.prestashop.com/en/231-caching" target="_blank">There are several cache management modules</a> that will help you display your pages twice as quickly, and reduce the load on your server. Go right ahead: lots of e-merchants use these additional modules!</p>
+<p>You might also want to optimize the size of your images. You can use <a href="https://imageoptim.com/" target="_blank">https://imageoptim.com/</a> for Mac and <a href="http://psydk.org/pngoptimizer" target="_blank">http://psydk.org/pngoptimizer</a> on Windows.</p>
+<p>If the solutions above are not enough for your store, you can also contact your web host, who can advise you on the type of server that is best suited to your needs.</p>
+<ul style="padding-left: 30px;">
+<li><strong>Readability</strong></li>
+</ul>
+<p>Most of the text (category names, product titles, descriptions) is in all caps. Lowercase letters are far more legible. Web users don&#8217;t have to make an effort to read them (as they do with capital letters).</p>
+<p><i style="color: #5b9bd5;"><strong>Use lowercase letters for all your site content to make it easier to read</strong>, and if you must use capital letters, save them for a few action buttons. This will set them apart from the rest of the site.</i></p>
+<p><img alt="" src="https://www.prestashop.com/blog/en/files/2015/08/futbol-readability.png" /></p>
+<p>Additionally, the image is very clear in the example below, and it&#8217;s easy to see the sign-up field for the newsletter. However, the Twitter link and the RSS subscription link are hidden:</p>
+<p><img alt="" src="https://www.prestashop.com/blog/en/files/2015/08/futbol-brand.png" /></p>
+<p><i style="color: #5b9bd5;">When you use a background image, choose a <strong>color for your text and action buttons that is legible on every part of the image.</strong> Otherwise, use an image at less than 100% opacity (try 60% &#8211; 70%), with dark text.</i></p>
+<ul style="padding-left: 30px;">
+<li><strong>Cart: number of products or total?</strong></li>
+</ul>
+<p>The cart is very clear and easy to access.<br />
+However, it constantly displays the price to pay, even when collapsed.<br />
+The same issue is present in the add-to-cart confirmation window:</p>
+<p><img alt="" src="https://www.prestashop.com/blog/en/files/2015/08/futbol-add-cart.png" /></p>
+<p>Even the shipping cost is listed in this window. Seeing the total price and shipping fees could turn your customers away from finalizing their purchases. Let them browse through your different products stress-free!<br />
+In this modal window, you can focus on additional one-click product suggestions to add to the cart, a feature offered in the <a href="http://addons.prestashop.com/en/modules-processus-de-commande/2412-cross-selling-on-cart.html" target="_blank">Cross Selling on Cart module</a>.</p>
+<p><i style="color: #5b9bd5;">If possible, in the cart link and in the add-to-cart confirmation window, <strong>display only the number of products in the cart</strong>, and not the total purchase amount. This way, you can reassure your visitors without stressing them out about the overall amount. You can manage that step in the purchasing funnel.</i></p>
+<h2 style="color: #e0801c;">Reassurance</h2>
+<h4 style="color: #e0801c;">Strong points:</h4>
+<p>The site has a very professional look. The tagline, &#8220;Expertos Futboleros desde 1999,&#8221; [Soccer Experts since 1999] is reassuring, especially with the date.<br />
+The store&#8217;s address and phone number are also very reassuring.<br />
+In the cart, the option for instant payment by PayPal also helps conversion rates.<br />
+Finally, when ordering from Spain, there are two delivery options: one for customers in a hurry, and the other for those who want to save money.</p>
+<h4 style="color: #e0801c;">Areas for improvement:</h4>
+<ul style="padding-left: 30px;">
+<li><strong>A reassuring footer</strong></li>
+</ul>
+<p>The current footer shows the credit cards that (I imagine) are the ones accepted. However, the store&#8217;s selling points are not promoted. You should display them clearly, and add icons to make them more attractive!</p>
+<p><img alt="" src="https://www.prestashop.com/blog/en/files/2015/08/futbol-reassuring-footer.png" /></p>
+<p>What are some ways to reassure visitors? You could:</p>
+<ul style="padding-left: 30px; list-style-type: none;">
+<li>- add a padlock with text saying &#8220;100% secure payment&#8221;</li>
+<li>- say &#8220;Satisfaction guaranteed or your money back,&#8221; or &#8220;Customize your gear,&#8221; since that&#8217;s a service offered</li>
+<li>- mention that customer service is available, and list store hours</li>
+<li>- offer free shipping starting at a certain amount, or advertise &#8220;fast delivery&#8221;</li>
+</ul>
+<p><strong>Turn what you&#8217;re offering into advantages for your customers!</strong></p>
+<p><i style="color: #5b9bd5;"><strong>Reassure your visitors</strong> to <strong>build their trust in your online store</strong>. To make this information visible on every page, it&#8217;s typically placed in the footer.<br />
+You can make it <strong>highly visual</strong> using icons, trust seals, services that are recognized in your local market (payment and delivery), specific information (product return information, secure payment, etc.) and customer reviews.</i></p>
+<h2 style="color: #e0801c;">SEO</h2>
+<h4 style="color: #e0801c;">Strong points:</h4>
+<p>The title tags and meta description on the homepage and product pages have been filled in.</p>
+<h4 style="color: #e0801c;">Areas for improvement:</h4>
+<ul style="padding-left: 30px;">
+<li><strong>H1, H2 tags on the right elements</strong></li>
+</ul>
+<p>Currently if you look at the source HTML of the home page or a product page, you can see that the H2 tags, in particular, are often placed around the price or number of articles in the cart.<br />
+This problem can be fixed by going directly into the theme and putting H2 tags around the right elements. A front-end developer would know exactly how to help you with this.</p>
+<p><i style="color: #5b9bd5;">By placing tags on the <strong>most important elements of each page</strong> (such as product name, brand, and subcategories), it&#8217;s easier to improve rankings for the content of your catalog.</i></p>
+<p>Titles on all web pages must be surrounded by tags, from H1 to H6. H1 is the most important. These tags let you <strong>organize and rank the information on each page</strong> of your site.<br />
+Imagine a book. H1 tags would be the chapter titles, H2 tags would be subtitles, H3 tags would be paragraph titles, and so on.<br />
+These tags can help <strong>web crawlers read the page and improve your rankings</strong>, by indicating what the most important information is for each page in your store.</p>
+<ul style="padding-left: 30px;">
+<li><strong>Content on product pages</strong></li>
+</ul>
+<p>The product pages have relatively little text:</p>
+<p><img alt="" src="https://www.prestashop.com/blog/en/files/2015/08/futbol-product.png" /></p>
+<p>You could add content, which would reassure your visitors and improve your search rankings.</p>
+<p>For example, the same product on Amazon has much more text:</p>
+<ul style="padding-left: 30px; list-style-type: none;">
+<li>- the team who played with this kind of ball (and the season when they played with it)</li>
+<li>- the dimensions</li>
+<li>- the outer material</li>
+<li>- ball weight</li>
+<li>- if the product is shipped inflated or not</li>
+</ul>
+<p>&#8230; and above all, the product&#8217;s selling points: how is it going to win over potential purchasers? Does it bounce better than other soccer balls? Is it more accurate, or pleasant to handle?</p>
+<p><i style="color: #5b9bd5;">Each page of your e-commerce site is a chance to convince your visitors.<br />
+Use 100% of each page. Make visitors want to choose your products by <strong>giving them as much information as possible and using an energetic tone</strong> that will win over future customers. This will improve your rankings and your conversion rate!</i></p>
+<h2 style="color: #e0801c;">In closing&#8230;</h2>
+<p>Your store offers high-quality products, great images, and is sure to interest soccer fans in other countries! Once you&#8217;ve optimized your store, you should translate it into English, offer international delivery, and list your products on <a href="http://addons.prestashop.com/en/search?search_query=google%20shopping" target="_blank">Google Shopping</a> to optimize your traffic and sales.<br />
+Our whole team wishes you well on your journey!</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/store-audit-100-soccer/">Store audit &#8211; 100% Soccer</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/store-audit-100-soccer/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Join PrestaShop at our Miami MeetUp</title>
+		<link>https://www.prestashop.com/blog/en/join-prestashop-miami-meetup/</link>
+		<comments>https://www.prestashop.com/blog/en/join-prestashop-miami-meetup/#comments</comments>
+		<pubDate>Wed, 19 Aug 2015 21:33:07 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=20490</guid>
+		<description><![CDATA[<p>Are you in the Miami area? Join the local PrestaShop team and other ecommerce enthusiasts at our Miami MeetUp! It’s the perfect opportunity to meet the local team, get sneak peeks from our latest software developments and even get a free website audit! Agencies, web developers, merchants, SEO/SEM specialists, freelancers and anyone who wants to [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/join-prestashop-miami-meetup/">Join PrestaShop at our Miami MeetUp</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Are you in the Miami area? Join the local PrestaShop team and other ecommerce enthusiasts at our Miami MeetUp! It’s the perfect opportunity to meet the local team, get sneak peeks from our latest software developments and even get a free website audit!</p>
+<p><span id="more-20490"></span></p>
+<p><strong>Agencies, web developers, merchants, SEO/SEM specialists, freelancers and anyone who wants to sell online</strong>, come see how PrestaShop can help you grow your business. Any of our merchant success specialists can help you find the right tools to achieve your sales goals. Or come meet representatives from our partners to learn more about their products and services.<a href="http://www.eventbrite.com/e/prestashop-miami-community-meetup-tickets-17928357199" target="_blank"> RSVP today on Eventbrite</a> for free tickets to this event. Complimentary food and drinks will be served.</p>
+<ol>
+<ul>
+<li><strong>Rubi Lounge<br />
+</strong>141 Southwest 7th Street<br />
+Miami, FL 33130</li>
+<li>Tuesday, August 25, 2015<br />
+6:00 PM to 9:30 PM (EDT)</li>
+</ul>
+</ol>
+<p>Interested in getting a free website audit? Send an email with your shop URL to welcome@prestashop.com or reserve your spot! We’ll write you back to confirm your time slot.</p>
+<p style="text-align: center"><strong><a class="btn get-me-started" style="color: #ea9629;text-decoration: underline;line-height: 26.6666679382324px" href="http://www.eventbrite.com/e/prestashop-miami-community-meetup-tickets-17928357199" target="_blank">RSVP today</a></strong></p>
+<p><strong>Sponsored in part by:</strong></p>
+<p><img class=" wp-image-20528 " alt="2015 Miami MeetUp Sponsors" src="https://www.prestashop.com/blog/en/files/2015/08/meetUp-sponsors.jpg" width="560" height="81" /></p>
+<p dir="ltr" style="line-height: 1.3800000000000001;margin-top: 0pt;margin-bottom: 10pt"><span id="docs-internal-guid-ba048d5b-47d8-640f-3331-5ac6d433296e"><a href="https://www.prestashop.com/en/industry-partners/payment/simplifycommerce" target="_blank"><span style="font-size: 14.6666666666667px;font-family: Calibri;color: #1155cc;font-weight: bold;text-decoration: underline;vertical-align: baseline;background-color: transparent">Simplify Commerce by Mastercard</span></a><span style="font-size: 14.6666666666667px;font-family: Calibri;color: #000000;vertical-align: baseline;background-color: transparent"> &#8211; An all-in-one payment solution from MasterCard. </span><span style="font-size: 14.6666666666667px;font-family: Calibri;color: #000000;vertical-align: baseline;background-color: transparent"><br class="kix-line-break" /></span><a href="https://www.prestashop.com/en/industry-partners/management/avalara" target="_blank"><span style="font-size: 14.6666666666667px;font-family: Calibri;color: #1155cc;font-weight: bold;text-decoration: underline;vertical-align: baseline;background-color: transparent">Avalara</span></a><span style="font-size: 14.6666666666667px;font-family: Calibri;color: #000000;vertical-align: baseline;background-color: transparent"> &#8211; A cloud-based service that handles all types of tax calculations for your online business. </span><a href="http://www.vinculumgroup.com/" target="_blank"><span style="font-size: 14.6666666666667px;font-family: Calibri;color: #1155cc;font-weight: bold;text-decoration: underline;vertical-align: baseline;background-color: transparent">Vinculum </span></a><span style="font-size: 14.6666666666667px;font-family: Calibri;color: #000000;vertical-align: baseline;background-color: transparent">- A SaaS-based product for multi-channel retailing. </span><span style="font-size: 14.6666666666667px;font-family: Calibri;color: #000000;vertical-align: baseline;background-color: transparent"><br class="kix-line-break" /></span><a href="https://www.prestashop.com/en/ecommerce-hosting/a2-hosting" target="_blank"><span style="font-size: 14.6666666666667px;font-family: Calibri;color: #1155cc;font-weight: bold;text-decoration: underline;vertical-align: baseline;background-color: transparent">A2 Hosting </span></a><span style="font-size: 14.6666666666667px;font-family: Calibri;color: #000000;font-weight: bold;vertical-align: baseline;background-color: transparent">- </span><span style="font-size: 14.6666666666667px;font-family: Calibri;color: #000000;vertical-align: baseline;background-color: transparent">The preferred hosting solution for PrestaShop Download. </span></span></p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/join-prestashop-miami-meetup/">Join PrestaShop at our Miami MeetUp</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/join-prestashop-miami-meetup/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Get your store to rank on special-event SEO</title>
+		<link>https://www.prestashop.com/blog/en/get-store-rank-special-event-seo/</link>
+		<comments>https://www.prestashop.com/blog/en/get-store-rank-special-event-seo/#comments</comments>
+		<pubDate>Wed, 19 Aug 2015 12:17:47 +0000</pubDate>
+		<dc:creator><![CDATA[Gary Le Masson]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=20499</guid>
+		<description><![CDATA[<p>Every ecommerce industry experiences a selection of yearly events that present sales opportunities merchants can’t afford to miss: Valentines Day, Mother’s Day, Black Friday and seasonal sales are just a few that come to mind. Customers go wild for these events, and the few onlines stores that rank on the right keywords will see huge [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/get-store-rank-special-event-seo/">Get your store to rank on special-event SEO</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Every ecommerce industry experiences a selection of yearly events that present sales opportunities merchants can’t afford to miss: Valentines Day, Mother’s Day, Black Friday and seasonal sales are just a few that come to mind. Customers go wild for these events, and the few onlines stores that rank on the right keywords will see huge increases in sales during these periods.<br />
+<span id="more-20499"></span><br />
+<strong>Let’s look at this example :</strong></p>
+<p><img src="https://www.prestashop.com/blog/en/files/2015/08/seo_bouquet.png" /></p>
+<p style="text-align:center; font-style: italic;">Evolution of the query “bouquet” in the USA extracted from <a href="https://www.google.com/trends/explore#q=bouquet&#038;geo=US&#038;cmpt=q&#038;tz=Etc%2FGMT-2" target="_blank">Google Trends</a></p>
+<p>Notice the two peaks in February and in May of each year, as people search for flowers for Valentine’s day and Mother’s day. Any florist knows these are key dates for their business, but do you know what events are peak sales opportunities for your industry?</p>
+<h2 style="color: #27204a">Every business activity sees a seasonal effect</h2>
+<p>Cultivating SEO for short-term events year-round is vital to ensure that you’re found when the big day rolls around. The shorter the event time frame—a one-day blow out for example—the better your SEO needs to be. You don’t have to work on your Black Friday, Christmas or Back to School landing page every day, of course, but getting it set up and tending to it at important intervals in the ecommerce calendar will ensure that you gain and maintain SEO ranking all year.</p>
+<p>Let’s take a look at what you can do before, during and after special sales events to pump up your SEO.</p>
+<h2 style="color: #27204a">What’s in it for my business ?</h2>
+<p><img src="https://www.prestashop.com/blog/en/files/2015/08/seo_black_friday.png" /></p>
+<p style="text-align:center; font-style: italic;">Evolution of the query “black friday” in the USA extracted from <a href="https://www.google.com/trends/explore#q=black%20friday&#038;geo=US&#038;cmpt=q&#038;tz=Etc%2FGMT-2" target="_blank">Google Trends</a></p>
+<p>A study from the <a href="https://nrf.com/media/press-releases/early-promotions-online-shopping-and-improving-economy-changing-the-face-of" target="_blank">National Retail Federation</a> found that over the 2014 Thanksgiving weekend in the USA, 42% of the average shopper’s budget was spent online, accounting for $159.55 of revenue for ecommerce. This is the kind of opportunity you can’t afford to miss, especially if you envision a B2C future for you ecommerce business.</p>
+<h2 style="color: #27204a">What kind of events I can benefit from</h2>
+<p>Take a look at your industry and products and fill in your personalized ecommerce calendar. Does your business present unique opportunities that you can take advantage of to boost sales at key times of the year? Look at your products and your clients’ lifestyle: when might they need more of what you sell? Think outside the box. If you sell speciality coffee and accessories, you could think about bundling products into pre-exam packages targeted to college students studying up for exams. Don’t limit yourself to the obvious.</p>
+<h2 style="color: #27204a">Define your deals.</h2>
+<p>Special events demand special deals. Sales periods like Cyber Monday and Black Friday are enticing because of their brief time frame and incredible deals. Think about making your offers relevant and appropriate to the sales event&#8211;you need to be unbeatable next to the competition. Having a tantalizing deal will also make it easier to convince bloggers and other influencers to tell their communities about you.</p>
+<h2 style="color: #27204a">Search Google Trends to understand what users are typing.</h2>
+<p>As with any SEO project, your first step should be to identify what keywords your customers are using. Start with single word keywords and work your way up to long-tail combinations that target your specific products and carve out a place in your niche. Keep in mind that searches for words like “deals”, “sales”, “gift guides”, “Cyber Monday” and “Black Friday” peak in November.</p>
+<h2 style="color: #27204a">Create categories.</h2>
+<p>Once you know what people are searching for, you can create product categories that respond to those needs.<br />
+Create one product category per event and keyword; this will automatically create a dedicated URL and landing page. Keep in mind that you won’t be creating new “sales” categories every year, but reusing the ones from previous years. At this stage, you’re not only defining categories, but planning your entire strategy to make your site stand out on the big day.</p>
+<h2 style="color: #27204a">Craft a landing page.</h2>
+<p>Looking for ideas ? You’ll find great examples of landing pages in this great article about Black Friday at <a href="http://www.techradar.com/news/world-of-tech/roundup/black-friday-deals-2015-1294927" target="_blank">TechRadar.com</a></p>
+<p><strong>Quick links US:</strong></p>
+<ul style="padding-left:30px">
+<li><a href="http://www.amazon.com/Black-Friday/b?tag=geo02a9-20&#038;node=384082011" target="_blank">Amazon.com &#8211; Black Friday homepage</a></li>
+<li><a href="http://www.bestbuy.com/site/misc/black-friday/pcmcat225600050002.c?id=pcmcat225600050002" target="_blank">Best Buy &#8211; Black Friday 2015 deals</a></li>
+<li><a href="http://www.walmart.com/cp/black-friday/1076614" target="_blank">Wallmart &#8211; Black Friday homepage</a></li>
+<li><a href="http://www.target.com/c/target-black-friday/-/N-5q0f2" target="_blank">Target &#8211; Black Friday landing page</a></li>
+<li><a href="http://www.att.com/shop/special-offers.html" target="_blank">AT&#038;T &#8211; Special Offers homepage</a></li>
+<li><a href="http://www.verizonwireless.com/black-friday/" target="_blank">Verizon &#8211; Black Friday deals</a></li>
+<li><a href="http://www.toysrus.com/shop/index.jsp?categoryId=16289696" target="_blank">Toys &#8216;R&#8217; Us &#8211; Black Friday made easy</a></li>
+<li><a href="http://www.gamestop.com/blackfriday" target="_blank">Gamestop &#8211; Black Friday deals</a></li>
+</ul>
+<p><strong>Quick links UK:</strong></p>
+<ul style="padding-left:30px">
+<li><a href="http://www.amazon.co.uk/Black-Friday-Deals/b/?tag=geo01-21&#038;_encoding=UTF8&#038;camp=1634&#038;creative=19450&#038;linkCode=ur2&#038;node=161428031&#038;linkId=K7ZNDE6BPTS2ETEQ" target="_blank">Amazon.co.uk &#8211; Black Friday page</a></li>
+<li><a href="http://www.johnlewis.com/electricals/black-friday/c6000670128" target="_blank">John Lewis Black Friday page</a></li>
+<li><a href="http://www.currys.co.uk/gbuk/black-friday-785-commercial.html" target="_blank">Currys Black Friday page</a></li>
+<li><a href="http://www.argos.co.uk/static/ArgosPromo3/includeName/black-friday.htm" target="_blank">Argos &#8211; Black Friday deals homepage</a></li>
+<li><a href="http://www.boots.com/en/Black-Friday/" target="_blank">Boots &#8211; Black Friday weekend</a></li>
+<li><a href="http://www.game.co.uk/webapp/wcs/stores/servlet/HubArticleView?hubId=268754&#038;articleId=268755&#038;catalogId=10201&#038;langId=&#038;storeId=10151" target="_blank">GAME &#8211; Black Friday deals</a></li>
+<li><a href="http://www.asda.com/blackfriday/index.html" target="_blank">ASDA Black Friday homepage</a></li>
+<li><a href="http://www.tesco.com/direct/black-friday-cyber-monday-deals/" target="_blank">Tesco direct Black Friday and Cyber Monday deals</a></li>
+</ul>
+<p>You won’t be using these categories pages everyday, but you will have to modify them at three important stages: </p>
+<ol type="1">
+<li><strong>Before the Event</strong></li>
+<ul style="padding-left:30px">
+<li>Start  dropping hints about the big event.</li>
+<li>Make the page social and encourage your visitors to share it with their friends and followers.</li>
+<li>Your page is not linked from the homepage or the main menu, but it could be linked from sidebars and footers that allow Google to find it.</li>
+<li>Start encouraging people to subscribe to your emails with something like this :</li>
+<p>        <img src="https://www.prestashop.com/blog/en/files/2015/08/seo_prepare_black_friday.png" />
+    </ul>
+<li><strong>During the Event</strong></li>
+<ul style="padding-left:30px">
+<li>Focus all your efforts on bringing users to your page.</li>
+<li>If people subscribed to your mailing list, don’t forget to give them access to the deals.</li>
+<li>Make your categories accessible from the main menu and homepage.</li>
+<li>Make sure your products are listed in the categories.</li>
+<li>Consider pushing some Adwords and social media ads.</li>
+</ul>
+<p>As the big event approaches, you’ll refresh your content, adding category pages and linking your landing page to be directly accessible from your homepage, as Target has done here:</p>
+<p><img src="https://www.prestashop.com/blog/en/files/2015/08/seo_target.png" />  </p>
+<li><strong>After the Event</strong></li>
+<ul style="padding-left:30px">
+<li>Start with the sales you’ve made, what worked and what didn’t work for you. Write down your conclusions for next year.</li>
+<li>Unlink your special category from the homepage and the main menu (but keep your page alive!).</li>
+<li>Put the page in hibernation mode until the following year, keeping it linked from the sitemaps page.</li>
+</ul>
+</ol>
+<p>While it’s important to start working on your special sales event now, you don’t want to reveal your offers too early and kill the sales buzz before it gets started. Your special event landing page will live in your site architecture all year, racking up SEO points as time goes on. </p>
+<h2 style="color: #27204a">Harness the power of social.</h2>
+<p>In addition to your landing page, you’ll need to create content to support your special event. Write up a series of blog posts to promote your products and special offers; have them ready in advance so that when you’re in the middle of the sales rush you’re not scrambling to put together valuable content. Don’t forget to push your articles via social media.</p>
+<h2 style="color: #27204a">Start building relationships with influential bloggers in your industry.</h2>
+<p>Keep them informed of your special offers so they’ll be inclined to promote them on their blog and in their networks. Let them know before doing major communications of your own so they feel like they’re getting the scoop.</p>
+<h2 style="color: #27204a">Start today.</h2>
+<p>If you survived last year’s holiday season, you know it’s a stressful, if lucrative, time. Do yourself a favor and build your landing page, write your content and reach out to influencers now. SEO takes time to work and you don’t want to miss out when the sales start rolling in.</p>
+<p>We hope this got you thinking about how to pump up your SEO for upcoming special sales events. What else do you do to climb the SEO ladder? </p>
+<p><a href="http://addons.prestashop.com/en/335-flash-sales" target="_blank">Count down to your special event with this Addons module</a></p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/get-store-rank-special-event-seo/">Get your store to rank on special-event SEO</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/get-store-rank-special-event-seo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PrestaShop supports Germany’s leading eCommerce Conference</title>
+		<link>https://www.prestashop.com/blog/en/prestashop-the-k5-conference/</link>
+		<comments>https://www.prestashop.com/blog/en/prestashop-the-k5-conference/#comments</comments>
+		<pubDate>Tue, 11 Aug 2015 04:00:32 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=20483</guid>
+		<description><![CDATA[<p>Have you been thinking about taking your ecommerce business international? Then you just might want to head to Munich this September, where PrestaShop will be sponsoring the K5 Conference, a growth and strategy-focused event for established emerchants that provides retailers, brands and manufacturers the opportunity to share experiences and insights. PrestaShop has chosen to support [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/prestashop-the-k5-conference/">PrestaShop supports Germany’s leading eCommerce Conference</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Have you been thinking about taking your ecommerce business international? Then you just might want to head to Munich this September, where PrestaShop will be sponsoring the K5 Conference, a growth and strategy-focused event for established emerchants that provides retailers, brands and manufacturers the opportunity to share experiences and insights. PrestaShop has chosen to support the K5 Conference to help our merchants achieve their goals of international growth.<br />
+<span id="more-20483"></span><br />
+The K5 Conference is well known for its community, an exclusive networking environment of 800 decision makers. Participants will gain hands-on insight from entrepreneurs and industry leaders through keynotes and panel discussions with more than 25 leaders of successful German eBusiness brands like Zalando, Internetstores, REWE, rocket-internet and auctionata. These leaders will dive into the ins and outs of their businesses, and give their outlook on the future of international expansion. K5 wants to inspire and challenge attendees as they consider how to drive future growth, innovation and strategy. This gives PrestaShop merchants a unique opportunity to meet key players in the German market in one place.</p>
+<p><strong>Why should you attend?</strong> Meet the leaders of the TOP 500 ecommerce players, gain first-hand market insights on Germany, Austria and Switzerland, and get access to suppliers and service providers. If you’re considering branching into the German market, this is your opportunity to get the resources and make the connections necessary to so successfully.<br />
+Don’t speak German? Don’t worry! The conference will be simultaneously translated in English.</p>
+<p>Still need a reason to come? The K5 conference and PrestaShop are offering merchants <strong>a special welcome price of 199€</strong> per ticket (official price 499€).</p>
+<p>Join us at the K5 conference on the 10th and 11th of September 2015, and be a part of the eCommerce success story in Germany!</p>
+<p><a href="https://k5-konferenz.com/tickets/?lang=en">Please fill out the registration form</a>, and use the ticket code: <strong>K5PRESTA </strong>(for merchants located outside of Germany).</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/prestashop-the-k5-conference/">PrestaShop supports Germany’s leading eCommerce Conference</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/prestashop-the-k5-conference/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ecommerce Success Story: 1 PrestaShop Store, 3 Countries</title>
+		<link>https://www.prestashop.com/blog/en/ecommerce-success-story-1-prestashop-store-3-countries/</link>
+		<comments>https://www.prestashop.com/blog/en/ecommerce-success-story-1-prestashop-store-3-countries/#comments</comments>
+		<pubDate>Thu, 06 Aug 2015 13:30:30 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Success Stories]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=20459</guid>
+		<description><![CDATA[<p>In this PrestaShop success story, we look at a shop that spans across 3 countries in a way that’s different from any other story we’ve heard. Discover how Güsewell vestidos de novia, an online wedding dress boutique, has cultivated a thriving business across Germany, Argentina and China. Discovering a Passion Our story begins in the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/ecommerce-success-story-1-prestashop-store-3-countries/">Ecommerce Success Story: 1 PrestaShop Store, 3 Countries</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>In this PrestaShop success story, we look at a shop that spans across 3 countries in a way that’s different from any other story we’ve heard. Discover how <a href="http://gusvestidosdenovia.com/" target="_blank">Güsewell vestidos de novia</a>, an online wedding dress boutique, has cultivated a thriving business across Germany, Argentina and China.<br />
+<span id="more-20459"></span></p>
+<h2 style="color: #27204a">Discovering a Passion</h2>
+<p>Our story begins in the Argentine province of San Juan, with a 24-year-old-web developer named Jorgelina Jorda Güsewell, the future founder of one of Latin America’s leading online wedding dress shops. Her training as a web developer included PHP, the technology PrestaShop is built upon, as well as best practices for online websites, like SEO. Jorgelina was happy enough building websites…until she met a young German named Ferdinand Güsewell.</p>
+<p>After a whirlwind romance, Jorgelina and Ferdinand got engaged and started to plan their wedding. It was during this planning period that Jorgelina’s dreams started to unravel, as she struggled to find the perfect wedding dress.</p>
+<p>Jorgelina didn’t find her dream dress &#8212; so she had it custom made. A courageous bride, she ordered her dress through an online portal from a seamstress in China. It was a risk, but one that ultimately paid off. When the dress arrived, it was everything she had hoped for.<br />
+The dress was so well-tailored that brides-to-be came to Jorgelina for help ordering their own gowns. After helping several people find the perfect wedding day attire, Jorgelina’s clientele grew and widened through simple word-of-mouth testimonials. Jorgelina had found the perfect business plan for her next project &#8212; but not all projects go according to plan.</p>
+<p><img class="aligncenter size-full wp-image-20461" alt="Ecommerce Success Story: 1 PrestaShop Store, 3 Countries " src="https://www.prestashop.com/blog/en/files/2015/08/vestido-de-novia.jpg" width="570" height="586" /></p>
+<h2 style="color: #27204a">Moves and Changes</h2>
+<p>Jorgelina made the tough decision to move 7,626 miles away from her customer base to live in Germany with her husband. Her clientele would no longer be just around the corner; they would be thousands of miles away. In the beginning everything had been done with spontaneity, intuition and little planning. Now this wedding-dress matchmaker had to rework her business plan to ensure long-term success. She decided she could still help brides find their perfect dress by running an online shop from her home in Germany, catering to Latin Americans seeking wedding dresses custom-made by a seamstress in China.</p>
+<p>Following the birth of her first child, Jorgelina spent time researching the best ecommerce platform to support her new business venture. She shares, “I chose to use PrestaShop because it was a free platform available in Latin America and was actively supported with a lot of members on the <a href="https://www.prestashop.com/forums/">forums</a>. I’ve never experienced any other software where the community responded to me in a less than a day, with concrete solutions to problems I encountered.”</p>
+<p><a href="http://gusvestidosdenovia.com/" target="_blank">Güsewell vestidos de novia</a> is the top distributor of affordable, custom-made wedding dresses in the region. But what has made it truly successful is the personalized customer service – provided in Spanish! The company also adapts to its target audience by offering several communication options: customers can talk with sales representatives directly via <a href="http://addons.prestashop.com/en/search?id_category=0&amp;search_query=zopim" target="_blank">Zopim Chat</a>, WhatsApp, Skype or even by sending a simple email. Being able to speak with customer service in their preferred language gives buyers confidence in the dress, even though it is being stitched thousands of miles away.</p>
+<p>After the website launched in 2014, Jorgelina focused on fine tuning her website for SEO. She used the smart blog module to create engaging content for new clients. Some articles feature previous clients who’ve had a great experience.</p>
+<p>Appearing at the top of search results is Jorgelina’s way of ensuring she never has a shortage of new clientele. Finding the <a href="https://www.prestashop.com/blog/en/find-the-right-seo-keywords-for-your-online-store/">exact keyword combination</a> took some time, but in January 2015 her hard work paid off with a sudden increase in website traffic. Within the month, the number of average monthly visits jumped from 200 to more than 10,000! That’s 4900% more traffic than she experienced previously. Jorgelina had expanded her market beyond Argentina and into the rest of Latin America.</p>
+<h2 style="color: #27204a">Work life Balance</h2>
+<p>The increase in demand may make it seem difficult to balance a career, baby and home life. Jorgelina’s shares, &#8220;It is not easy, but when a woman is as passionate about her work as she is about her family, then she is able to give everything and more to achieve success in both. I am fortunate that most of my consultations from Latin America are between 9 pm and 8 am in Germany. So after I put my baby to sleep, I can work with clients until I go to bed. When my baby takes his nap in the afternoon, I have additional time to do market research, update the website, and write <a href="http://addons.prestashop.com/en/search?id_category=0&amp;search_query=blog">interesting blog</a> content to build customer loyalty. My husband is home during the weekend, which gives me all the time I need to do any programming and development work on the website.”</p>
+<p>She goes on to share, “I owe much of my success to PrestaShop. The software is not only free, but provides important features including mobile-responsive design and great SEO features. All I’ve had to invest in is hosting and a <a href="https://www.prestashop.com/blog/en/how-to-pick-the-right-domain-name-for-your-online-store/">domain name</a>. Everything else I was able to build on top of the default software.”</p>
+<hr style="width: 20%;text-align: center" />
+<p>What problem does your online shop solve? Iron out your <a href="https://www.prestashop.com/blog/en/how-to-create-an-online-store-10-steps-to-write-your-business-plan/">business plan</a> and start building your online store with PrestaShop’s <a href="https://www.prestashop.com/en">free shopping cart software</a>. Not quite inspired yet? Check out other <a href="https://www.prestashop.com/blog/en/category/ecommerce-success-stories/">success stories</a> from merchants around the world.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/ecommerce-success-story-1-prestashop-store-3-countries/">Ecommerce Success Story: 1 PrestaShop Store, 3 Countries</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/ecommerce-success-story-1-prestashop-store-3-countries/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Templates vs Custom Development: 5 reasons custom development might be right for your site</title>
+		<link>https://www.prestashop.com/blog/en/templates-vs-custom-development-5-reasons-custom-development-might-be-right-for-your-site/</link>
+		<comments>https://www.prestashop.com/blog/en/templates-vs-custom-development-5-reasons-custom-development-might-be-right-for-your-site/#comments</comments>
+		<pubDate>Wed, 05 Aug 2015 13:30:56 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=20469</guid>
+		<description><![CDATA[<p>In the second part of our Themes vs Custom Development blog series, we hear from Chetu, an Official PrestaShop Partner Agency since 2011. Today, Seth Burger, PR and Partnership Specialist at Chetu, shares the benefits of custom eCommerce web development. Read on to see why he believes custom development dominates template themes. Creating a successful [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/templates-vs-custom-development-5-reasons-custom-development-might-be-right-for-your-site/">Templates vs Custom Development: 5 reasons custom development might be right for your site</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p style="font-style:italic">In the second part of our Themes vs Custom Development blog series, we hear from Chetu, an Official PrestaShop Partner Agency since 2011. Today, Seth Burger, PR and Partnership Specialist at Chetu, shares the benefits of custom eCommerce web development. Read on to see why he believes custom development dominates template themes.</p>
+<p><span id="more-20469"></span></p>
+<p>Creating a successful ecommerce website is not always easy or inexpensive. To reduce costs and shorten lead times, commercial-off-the-shelf (COTS) <a href="http://www.prestashop.com/blog/en">generic templates and themes</a> may seem like an attractive option. However, there are instances when hiring an agency to develop and implement your custom ecommerce website might be more appropriate.</p>
+<h2 style="color:#aa7e41">5 reasons custom development might be right for your site</h2>
+<h4 style="color:#e2a650">1) Dynamic User Interface (UI) and User Experience (UX)</h4>
+<p>Consumers subconsciously take into account a site’s color, shape, visual balance and performance. If you do these things right, your fully functioning and navigable site will leave your customers with a positive impression. Not only does this elevate your brand but it increases the likelihood of purchases and repeat business. </p>
+<p>Templates and themes offer simple, generic designs with limited functionality, which can be great when starting out. To go further with your online store, consider opting for custom website development which can help you achieve:</p>
+<ul style="padding-left:30px">
+<li>Meaningful use of composition to entice and establish priorities</li>
+<li>Intuitive website navigation</li>
+<li>Logically displayed information</li>
+<li>Optimized content for fast load times</li>
+<li>An interactive and immersive experience</li>
+</ul>
+<h4 style="color:#e2a650">2) Unique Processes</h4>
+<p>Custom developed ecommerce websites are well suited for businesses with specific processes that require unique features to be carried out correctly. These processes may include background, identity and credit checks. There should be no compromising on essential business functions and processes &#8211; customization is the only way to build a high-quality online store. </p>
+<h4 style="color:#e2a650">3) Custom Integrations</h4>
+<p>At some point, an ecommerce establishment may need to integrate business systems into their website. Although some template and theme packages offer integration with popular platforms, they are limited in custom functionality. Customized websites ensure optimum operational integration between the site and your business system. Customization allows for direct integration with a platform’s Application Program Interface (API), allowing for complete use of a third party application. Some common business systems you may want to integrate with include:</p>
+<ul style="padding-left:30px">
+<li>Enterprise Resource Planning (ERP)</li>
+<li>Customer Relationship Management (CRM)</li>
+<li>Inventory Management Systems</li>
+<li>Warehouse Management Systems (WMS)</li>
+<li>Supply Chain Management (SCM)</li>
+</ul>
+<h4 style="color:#e2a650">4) Marketing and SEO</h4>
+<p>Search Engine Optimization (SEO) is a widely adopted marketing tactic used to increase traffic and brand awareness. Off-the-shelf templates offer very little in terms of SEO optimization. Although you can tweak an existing website to optimize SEO capabilities, it’s best to build SEO components directly into the site’s architecture. Web agencies can implement positive SEO tactics such as relevant URLs, descriptive metadata, extensive site maps and optimized content, to help promote your website on search engines.</p>
+<h4 style="color:#e2a650">5) Projected Costs</h4>
+<p>While it’s true that templates initially provide a faster and cheaper way to launch your site than a custom solution, the total cost of operation for a template-based, off the shelf website can increase over time. Many template options require licensing and usage fees, and incorporating available plugins from your provider can also increase the total cost of ownership if each plugin is priced individually.</p>
+<p>Custom ecommerce sites come with a higher upfront cost, but those costs depreciate over time because there are typically no usage or licensing fees associated with development. This is particularly true when the provider turns over the source code and intellectual property at the end of the engagement. </p>
+<p>Unless you speak with an agency, it’s difficult to provide a development price: the cost to implement a custom ecommerce website is directly proportional to the scope of the project. Prices for development can range from $17 per hour to $100 per hour per developer.</p>
+<p>It’s important to look at the total costs for a template and custom development to be sure you have the full picture before deciding what’s right for your business. </p>
+<h2 style="color:#aa7e41">What to expect with Custom development</h2>
+<p>The multifaceted nature of an ecommerce website makes it difficult to give a “typical” project timeline; this being said, you can expect customization to range from 4 months to a year depending on the <span style="font-style:italic">size of the website</span> and the <span style="font-style:italic">depth of the customization</span>. </p>
+<p>When you work with Chetu, we establish a timeline based on your needs. After a preliminary conversation with one of our experts, you will be assigned a technical Project Manager (PM) who will work with you to establish the complete project scope.<br />
+Once all project components have been discussed and mapped out, your PM will provide a complete project plan which outlines the project by task name, start date of specific tasks, expected duration and date of completion. If the projected timeline seems lengthy, it’s easy to add a few developers and shave off some development time. Once the timeline has been established, you’ll have a better idea of  the expected project cost. When labor has been explicitly mapped out, the total cost for custom ecommerce website development with Chetu will average $25 per hour per developer.</p>
+<h2 style="color:#aa7e41">What to expect with Custom development</h2>
+<p>If you have a budget allocated for building your website, custom web development may be a better option than a template theme. Customization can provide your store with: </p>
+<ol>
+<li>UX and UI optimized for your industry</li>
+<li>Custom processes tailored to meet your shop’s specifications</li>
+<li>Integrations with current business software</li>
+<li>SEO built into the structure of your website</li>
+<li>Lower overall costs (in the long run, if you own your shop’s data)</li>
+</ol>
+<p>If you’re still not quite sure if web development is the right solution for you, <a href="https://www.prestashop.com/en/help-me-with-my-shop">fill out this contact form</a> and we’ll put you in touch with a company that matches your needs. From there you can speak with the agency to see if their services and expertise are right for you.</p>
+<p><img src="https://www.prestashop.com/blog/en/files/2015/08/chetu.png" alt="chetu" width="220" height="127" class="aligncenter size-full wp-image-20471" /></p>
+<h2 style="color:#aa7e41">About Chetu:</h2>
+<p><a href="http://chetu.com/" target="_blank">Chetu</a> has been an Official PrestaShop Agency Partner since 2011. They understand that when it comes to technology solutions, one size does not fit all. Their tailor-made solutions are based on your organization&#8217;s budget, specific needs, and requirements. </p>
+<p>Chetu will proactively suggest improvements and newer tools and technologies to reduce costs, and make development more efficient. Their solutions are catered for the long-term benefits of the customer, balancing the needs of individual organizations while keeping an eye on the budget. Chetu has worked with many online retailers’ to build websites to exact specifications like they have done for clients like Candy Bars Sydney. </p>
+<hr style="width:20%;text-align:left" />
+<p>Are you convinced that custom development is the better option for you? Learn more about <a href="https://www.prestashop.com/en/web-agency-partners/bronze/chetu#partners_form">Chetu by visiting their page</a>. Looking for agencies located in your region? Check out our <a href="https://www.prestashop.com/en/web-agency-partners/bronze/chetu">full list of certified Agencies</a>. </p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/templates-vs-custom-development-5-reasons-custom-development-might-be-right-for-your-site/">Templates vs Custom Development: 5 reasons custom development might be right for your site</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/templates-vs-custom-development-5-reasons-custom-development-might-be-right-for-your-site/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How Online Retailers Can Knock Sales Out of the Park with Merchandising and Pricing</title>
+		<link>https://www.prestashop.com/blog/en/online-retailers-can-knock-sales-park-merchandising-pricing/</link>
+		<comments>https://www.prestashop.com/blog/en/online-retailers-can-knock-sales-park-merchandising-pricing/#comments</comments>
+		<pubDate>Tue, 04 Aug 2015 13:30:41 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=20454</guid>
+		<description><![CDATA[<p>With the overwhelming positive response to Angelica’s first article, Top 6 Questions to Ask When Pricing a New Product, we’ve invited her back to talk more about pricing and merchandising. Merchandising is all about displaying products effectively to encourage shoppers to make a purchase. Brick and mortar and online retailers have really gotten the hang [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/online-retailers-can-knock-sales-park-merchandising-pricing/">How Online Retailers Can Knock Sales Out of the Park with Merchandising and Pricing</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>With the overwhelming positive response to Angelica’s first article, <a href="https://www.prestashop.com/blog/en/top-6-questions-ask-pricing-new-product/">Top 6 Questions to Ask When Pricing a New Product</a>, we’ve invited her back to talk more about pricing and merchandising. Merchandising is all about displaying products effectively to encourage shoppers to make a purchase. Brick and mortar and online retailers have really gotten the hang of merchandising and repricing, respectively. However, they could each learn a thing or two from the other. There are a few different ways to bridge the gap between physical and online stores, and integrate the strengths of both in a way that prepares online retailers for success. Let’s take a look at the top three.</p>
+<p><span id="more-20454"></span></p>
+<h2 style="color: #38acc5">Product Information</h2>
+<p>Online retail has to be highly visual because shoppers can’t try items on or hold them in their hands like they can in a physical store. Online shoppers are limited to images, descriptions, reviews and videos of the products in use (if they’re really lucky) on <a href="http://www.wiser.com/infographic-landingpages?utm_source=PrestaShop&amp;utm_medium=gp&amp;utm_campaign=7-15&amp;utm_content=pricemerch" target="_blank">product pages</a>. This means the product information that online retailers provide literally makes or breaks their sales &#8211; it’s time to optimize that information to make the most of the traffic retailers are already getting.</p>
+<p>High quality images are essential to keeping shoppers’ attention and helping them visualize the well-written description retailers have provided. But each retailer must find their own sweet spot in terms of how many to display: having a slow website will only lead to cart abandonment. <a href="http://blog.hubspot.com/marketing/7-landing-page-design-tips" target="_blank">Hubspot found</a> that even a one second delay in load time can lead to 11% fewer page views, a 16% decrease in customer satisfaction and a 7% dip in conversions. Quality certainly prevails over quantity when it comes to using images in ecommerce.</p>
+<p>Some retailers take it a step further and provide informative product pages that reflect their branding. For example, Zappos has videos of people wearing their apparel and shoes to give shoppers an even better idea of how items might fit. Retailers like Zappos that take it above and beyond are able to command higher prices. It’s a win for them and the consumers who are more certain about their purchase. But what happens after they put an item into their cart can have an even bigger impact on a retailer’s bottom line.</p>
+<h2 style="color: #38acc5">Recommendations</h2>
+<p>A retailer’s online product bundle recommendations are important because they can help <a href="http://blog.wiser.com/generate-bucks-bang-5-tips-boost-average-order-value/?utm_source=PrestaShop&amp;utm_medium=gp&amp;utm_campaign=7-15&amp;utm_content=pricemerch" target="_blank">increase average order value</a>. There are a few different ways to include recommendations. First, retailers can suggest complementary products based on past purchases. Second, they can recommend products that go well with items in the shopper’s cart. Finally, they can suggest more expensive versions of the item the customer already has in his or her cart.</p>
+<p>The first two examples are ways to cross-sell and personalize the shopping experience. In real life, this might look like a shopper putting a trendy pair of pants into their cart and then a retailer proposing a shirt that goes nicely with them. Including text that explains that the item is a top seller or that the two products are often bought together are just two ways to build social proof into your suggestions and encourage shoppers to buy.</p>
+<p>Our last example is an upsell and it can be a bit trickier to do successfully, depending on the product category. Some categories like consumer electronics thrive on upselling. Apple is a great example of a company that knows how to upsell electronics. Their iPhones can be purchased with different levels of storage space, but the price difference between each level isn’t much: getting double the storage for only $100 more seems like a deal to consumers &#8211; and it’s a deal for Apple too, because it doesn’t cost much more to produce iPhones with more storage.</p>
+<h2 style="color: #38acc5">Repricing in Real-Time</h2>
+<p>One big advantage that online retailers have over their brick and mortar counterparts is the ability to reprice in real-time. However, it’s an often time consuming process in which they have to determine when, why, and how to change prices. The choices they make will depend on their individual circumstances, such as supply, demand and industry norms. Many retailers choose to reprice when a competitor changes their prices or when stocks get low.</p>
+<p>Online retailers can choose to reprice manually or automatically, depending on their SKU count. The more SKUs a retailer has, the more necessary <a href="http://blog.wiser.com/the-top-5-reasons-why-you-should-consider-a-pricing-engine/?utm_source=PrestaShop&amp;utm_medium=gp&amp;utm_campaign=7-15&amp;utm_content=pricemerch" target="_blank">automatic repricing</a> becomes. After all, who has time to sit around changing prices 24/7 when there are more pressing tasks at hand?</p>
+<p>Ecommerce can be a tricky industry to succeed in, but with the help of high quality product information, spot-on recommendations and optimized prices, there are plenty of opportunities for retailers to surpass their goals.</p>
+<p>What merchandising tactics have worked for your online store? Tell us in the comments below.</p>
+<h2 style="color: #38acc5">About the Author</h2>
+<div class="row">
+<div class="col-sm-3"><img class="aligncenter size-thumbnail wp-image-20466" alt="Angelica Valentine B&amp;W headshot" src="https://www.prestashop.com/blog/en/files/2015/08/Angelica-Valentine-BW-headshot-150x150.jpg" width="150" height="150" /></div>
+<div class="col-sm-9">Angelica Valentine is the Content Marketing Manager at <a href="http://www.wiser.com/?utm_source=PrestaShop&amp;utm_medium=gp&amp;utm_campaign=newproduct" target="_blank">Wiser</a>, the leading pricing intelligence suite. Angelica is an Oakland native who loves writing, exploring, and participating in music, food, and cultural events around the Bay Area.</div>
+</div>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/online-retailers-can-knock-sales-park-merchandising-pricing/">How Online Retailers Can Knock Sales Out of the Park with Merchandising and Pricing</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/online-retailers-can-knock-sales-park-merchandising-pricing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What is the difference between a Product Attribute and Product Feature?</title>
+		<link>https://www.prestashop.com/blog/en/difference-product-attribute-product-feature/</link>
+		<comments>https://www.prestashop.com/blog/en/difference-product-attribute-product-feature/#comments</comments>
+		<pubDate>Mon, 03 Aug 2015 15:46:43 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Best Development Practices]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=20444</guid>
+		<description><![CDATA[<p>If it’s hard for you to tell the difference between product attributes and product features, don’t panic; you’re not alone! In this article, we’ll clarify the difference between product attributes and features, show you some great examples on PrestaShop stores and, last but not least, show you how to set both up on your online [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/difference-product-attribute-product-feature/">What is the difference between a Product Attribute and Product Feature?</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>If it’s hard for you to tell the difference between product attributes and product features, don’t panic; you’re not alone! </p>
+<p>In this article, we’ll clarify the difference between product attributes and features, show you some great examples on PrestaShop stores and, last but not least, show you how to set both up on your online store.<br />
+<span id="more-20444"></span></p>
+<h2 style="color:#247789">Product Attributes and Product Features</h2>
+<p>The first thing you need to know about attributes and features is that they both help describe your product in detail to your customers. However, unlike a product description, attributes and features don’t paint a picture of your product; instead, they highlight a short list of the main features that are likely to interest your customers. </p>
+<h2 style="color:#247789">Product Feature vs Product Attribute</h2>
+<p>Copying the product features and attributes right out of another website is a bad idea, not only because you risk creating duplicate content, but also because depending on your product offer, your competitor’s product features might be your product attributes. </p>
+<p>The best way to distinguish whether a description of the product is an attribute or feature, is by asking yourself, </p>
+<p style="font-style:italic;text-align:center">“Can I sell it as a separate product?”</p>
+<p>If you <strong>can</strong> sell it as a separate product, it’s should be listed as a product <strong>attribute</strong>.<br />
+If you <strong>can’t</strong> sell it as a separate product, it should be listed as a product <strong>feature</strong>. </p>
+<p>Take the ring sold by Macintyres below: if it comes in other materials, like gold and silver, each one can be added as a product attribute, giving customers the possibility to customize their ring setting. If it’s only available in one metal, you’d list it as a feature like they did. </p>
+<h2 style="color:#247789">Examples of Product Attributes and Features</h2>
+<p>The first step to creating something great is taking a look at some great examples. Here are 3 different shops that have successfully set up product attributes and features:</p>
+<h4><a href="http://www.macintyres.co.uk/diamond-solitaire-rings/5906-platinum-princess-cut-diamond-solitaire-ring-pc-070-d-020.html" target="_blank">Macintyres</a></h4>
+<p>Unlike the previous examples, Macintyres lists their product features first. For this ring, you’ll see the weight category, cut, setting and metal used. At the bottom of the product page, customers can select the attribute, or size they’d like. </p>
+<p><img class="aligncenter size-full wp-image-20448" alt="macintyres" src="https://www.prestashop.com/blog/en/files/2015/08/macintyres.png" width="994" height="928" /></p>
+<h4><a href="http://www.bimbaylola.com/shoponline/product.php?id_product=12000&amp;id_category=846&amp;sav=1" target="_blank">Bimba Y Lola</a></h4>
+<p>Here’s the product page for “Casual Trousers with Trim.” Under product name and price you’ll find product attributes, colors and sizes. Further down the same column, you’ll find product features: relaxed fit, sporty trousers, cotton side trim detail and pockets with plastic maxi-zips. </p>
+<p><img src="https://www.prestashop.com/blog/en/files/2015/08/bimbaylola-1024x747.png" alt="bimbaylola" width="700" height="510" class="aligncenter size-large wp-image-20446" /></p>
+<h4><a href="http://www.guitarfromspain.com/en/premium-flamenco-guitars/97-alhambra-10fc-flamenco-guitar.html#/right_left_handed-left_handed/electronics-e2_fishman_prefix_pr" target="_blank">Guitar from Spain</a></h4>
+<p>This Alhambra 10FC Flamenco Guitar from Guitar from Spain has a few product attributes to pick from: the type of electronics included, as well as left or right-handed operation. If you navigate further down the page, you’ll see product features like the type of material used for the top, sides and back, neck, fingerboard and machine heads. </p>
+<p><img src="https://www.prestashop.com/blog/en/files/2015/08/guitarfromspain.png" alt="guitarfromspain" width="783" height="741" class="aligncenter size-full wp-image-20447" /></p>
+<h2 style="color:#247789">Adding Product Attributes in PrestaShop</h2>
+<p>Now that you know what to list for product features and product attributes, it’s time to add them to your shop. Let’s use the ring setting example from Macintyres. </p>
+<p>From your PrestaShop back office, hover over “catalog,” then click “Product Attributes.” If the attribute isn’t already listed, click “Add new attribute,” name the attribute (which in this case is setting metal), fill out the SEO information and select the attribute type. Once you click save, the product attribute should appear in the list. </p>
+<p>To add values within the product attribute, click “Add new value.” Select “Setting Metal,” the new attribute group we created, from the list and enter the first one, “Gold,” then enter the SEO information, and either select a color or upload a texture. Once you’re done, click “save and add another value,” then repeat this section for the “silver” setting metal. </p>
+<p>And there you have it: you just added your first product attribute group! </p>
+<h2 style="color:#247789">Adding Product features in PrestaShop </h2>
+<p>The process for adding product features is exactly the same as that of product attributes. </p>
+<p>First, create new features, then add add new feature values within the feature. Keep in mind that you’ll have the opportunity to add product feature values directly when you’re creating a product. Simply type them in to add them as a new product feature. </p>
+<hr style="width:20%;text-align:center">
+<p>We hope we’ve cleared up the difference between a product feature and attribute. Have additional questions? List them in the comments below. Then get back to adding all the features and attributes you need for your online shop! </p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/difference-product-attribute-product-feature/">What is the difference between a Product Attribute and Product Feature?</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/difference-product-attribute-product-feature/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PrestaShop security release</title>
+		<link>https://www.prestashop.com/blog/en/prestashop-security-release/</link>
+		<comments>https://www.prestashop.com/blog/en/prestashop-security-release/#comments</comments>
+		<pubDate>Thu, 30 Jul 2015 09:54:40 +0000</pubDate>
+		<dc:creator><![CDATA[Xavier Borderie]]></dc:creator>
+				<category><![CDATA[PrestaShop News]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=20416</guid>
+		<description><![CDATA[<p>[ article en français - artículo en Español - artikel auf Deutsch - articolo in Italiano ] In light of a security issue we have been made aware of, today we are releasing several options to secure a store for our users and partners: New versions of PrestaShop 1.4.x and 1.5.x. Version 1.6.1.0 is safe. Patch files for the latest versions of each [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/prestashop-security-release/">PrestaShop security release</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;">[ <a href="https://www.prestashop.com/blog/fr/mise-jour-securite-prestashop/">article en français</a> - <a href="https://www.prestashop.com/blog/es/actualizacion-de-seguridad-por-prestashop/">artículo en Español</a> - <a href="https://www.prestashop.com/blog/de/prestashop-sicherheitsmeldung/">artikel auf Deutsch</a> - <a href="https://www.prestashop.com/blog/it/nuova-versione-sicurezza-prestashop/">articolo in Italiano</a> ]</p>
+<p>In light of a security issue we have been made aware of, today we are releasing several options to secure a store for our users and partners:</p>
+<ul>
+<li>New versions of PrestaShop 1.4.x and 1.5.x. Version 1.6.1.0 is safe.</li>
+<li>Patch files for the latest versions of each branch &#8212; 1.4.11.0, 1.5.6.2, and 1.6.0.14.</li>
+<li>The Security Patch module, which applies the above patch files in a much more user-friendly way.</li>
+<li>Zip files of the changed files for the 1.4, 1.5, and 1.6 branches.</li>
+</ul>
+<p><span id="more-20416"></span></p>
+<p>We strongly advise you to either upgrade your store to the latest version of your current branch which were just released (1.5.6.3 and 1.4.11.1), or to apply the fixes that we are providing (see the links below).</p>
+<p>Version 1.5.6.3 also fixes 17 other issues: <a href="https://github.com/PrestaShop/PrestaShop-1.5/releases/tag/1.5.6.3">see the changelog here</a>.<br />
+Version 1.4.11.1 also fixes 7 other issues: <a href="https://github.com/PrestaShop/PrestaShop-1.4/releases/tag/1.4.11.1">see the changelog here</a>.</p>
+<p>Please read this whole article carefully. Thank you.</p>
+<h2>Which versions are affected?</h2>
+<p>The security issue that has been discovered affects all versions of PrestaShop, except version 1.6.1.0 and PrestaShop Cloud.</p>
+<p>Therefore, it affects branches 1.4.x, 1.5.x, and 1.6.x up to 1.6.0.14.</p>
+<p>In short, if you have not yet upgraded to PrestaShop 1.6.1.0, chances are that your store is vulnerable to this issue.</p>
+<p>Themes and modules are not affected, and should work as-is once you have installed the fix.</p>
+<h2>How can I fix my store / my clients’ stores?</h2>
+<p>For those who have not yet upgraded to PrestaShop 1.6.1.0, we are providing several ways to fix the issue:</p>
+<ul>
+<li>For non-technical people, we have created the <a href="http://addons.prestashop.com/en/natif/20255-securitypatch.html">Security Patch module</a>, which will apply the fix for the latest versions of the 1.4, 1.5 and 1.6 branches. This means that it is guaranteed to work for PrestaShop 1.4.11.0, 1.5.6.2, and 1.6.0.14.<br />
+The module works for all three branches: just install it and activate it, and it will apply the patch!</li>
+<li>For technical people, or those for whom the module cannot apply the patch, you can get a patch for the latest versions of each branch (1.4, 1.5, 1.6) right on GitHub (<a href="https://gist.github.com/Shudrum/27fc534de69c96617280">click here for the links</a>).<br />
+Just like the module, these patches only work with the latest version of each branch, namely 1.4.11.0, 1.5.6.2, and 1.6.0.14, and no other &#8212; not without changes on your part, anyway.<br />
+If your store is not up to date on the latest branch (1.6), we strongly suggest to update to the latest version of your branch before applying the patch<br />
+If you cannot upgrade, it is up to you to adapt the patch file to your specific situation.</li>
+<li>Also, you can download the updated file archives for branches 1.4, 1.5 and 1.6. They contain only the files that have been changed since the latest version of each branch. <a href="https://gist.github.com/Shudrum/27fc534de69c96617280">Click here for the links</a>.<br />
+If you haven’t made changes to these files yourself, you can just replace your old files with the new ones.</li>
+</ul>
+<p>Finally, the 1.5.x and 1.4.x branches have been updated. As of today, you can download PrestaShop 1.5.6.3 and 1.4.11.1 from the <a href="https://www.prestashop.com/en/developers-versions#previous-version">download page for previous versions</a>.</p>
+<p>Since version 1.6.1.0 contains the fix for the 1.6 branch, we are not releasing a 1.6.0.15 version. Please upgrade!</p>
+<p>In effect, the module applies the patches for each branch, which were design to work on the latest versions: 1.6.0.14, 1.5.6.2, 1.4.11.0. Therefore, it might not work for older versions. If you are in this situation, we have written a <a href="https://gist.github.com/Shudrum/27fc534de69c96617280">quick guide on how to apply the patch manually</a>.</p>
+<p>In any case, we do suggest that you always keep your store updated with the latest and most secure version of PrestaShop: at best, 1.6.1.0; at worst, the last version of 1.5 or 1.4 branch.</p>
+<p>For those of you who have heavily customized the Core files, please take all precautions before installing the module, before merging the patches, or before uploading the changed files! You might have to <a href="https://gist.github.com/Shudrum/27fc534de69c96617280">adapt the patch to your specific installation</a>.</p>
+<p>Please note that the module will not work in all Windows server configurations, and some limited Linux configurations. In those cases, it is up to you to adapt the patch to your specific configuration. <a href="https://gist.github.com/Shudrum/27fc534de69c96617280">Please see the instructions on this text file</a>.</p>
+<h2>I use an old version of PrestaShop, what can I do?</h2>
+<p>The module works for recent versions of the 1.4, 1.5 and 1.6.0 branches. Earlier versions of these branches should work too, although the oldest might have issues.</p>
+<p>The module will not work for PrestaShop 1.0, 1.1, 1.2 nor 1.3.</p>
+<p>If you have an older version of PrestaShop, our best and most frequent advice is to update you store. You should at least be at version 1.4 of PrestaShop, since older versions will not see any more updates &#8212; the 1.3 branch, for instance, has not received any update since March 2011, more than four years ago.</p>
+<p>We understand some of you might be blocked in such an old version. For that purpose, we have recently published an article listing <a href="https://www.prestashop.com/blog/en/easily-strengthen-shops-security/">4 easy ways anyone could secure their store</a>.</p>
+<p>In summary, the 4 ways to secure your store are:</p>
+<ul>
+<li>Keeping your store up to date with the latest version, as well as all your modules.</li>
+<li>Protecting your back office folder with an .htaccess password.</li>
+<li>Using a non-regular name for your back office folder (ie., something more unique than /admin1234).</li>
+<li>Using more complex passwords, or even passphrases that are unique to your store.</li>
+</ul>
+<p>Please go <a href="https://www.prestashop.com/blog/en/easily-strengthen-shops-security/">read the entire article</a> right now!<br />
+More easy-to-apply advice is available in our “<a href="http://doc.prestashop.com/display/PS16/Making+your+PrestaShop+installation+more+secure">Making your PrestaShop installation more secure</a>” documentation page.</p>
+<p>If you really want to apply the fix to your store yourself, you may try by following our <a href="https://gist.github.com/Shudrum/27fc534de69c96617280">quick guide on how to apply the patch manually</a>.</p>
+<h2>What is the issue about?</h2>
+<p>The issue that was found deals with the randomness of the password generation algorithm. This could possibly lead to a malicious hacker getting access to the store’s back office.</p>
+<p>The potential attack is non-trivial, but we’d rather be safe about this.</p>
+<h2>How was the issue discovered and resolved?</h2>
+<p>The issue was discovered by security consultant <a href="https://twitter.com/us3r777">Vincent Herbulot (@us3r777)</a>, who contacted us directly on <a href="mailto:security@prestashop.com">security@prestashop.com</a> under the “responsible disclosure” model. Thank you Vincent!</p>
+<p>The issue was fixed by our own security team, with help from Vincent. The module was created by our Core developers.</p>
+<h2>What is responsible disclosure?</h2>
+<p>Responsible (and private) disclosure is a standard practice when someone encounters a security problem: before making it public, the discoverer informs the Core team about it, so that a fix can be prepared, and thus minimize the potential damage.</p>
+<p>The PrestaShop team tries to be very proactive when preventing security problems. Even so, critical issues might surface without notice.</p>
+<p>This is why we have set up the <a href="mailto:security@prestashop.com">security@prestashop.com</a> email address: anyone can privately contact us with all the details about issues that affect the security of PrestaShop merchants or customers. Our security team will answer you, and discuss of a timeframe for your publication of the details.</p>
+<p>Understanding a security issue means knowing how the attacker got in and hacked the site. If you have those details, then please do contact us privately about it (and please do not publish those details). If you do not know how the attacker got it, please ask for help on the support forums.</p>
+<h2>What is PrestaShop’s process for dealing with security issues?</h2>
+<p>Thanks to our recent adoption of a <a href="http://build.prestashop.com/news/a-more-semantic-versioning-scheme/">SemVer-like versioning scheme</a> and the continuing improvement of the 1-Click Module, we feel confident that the forthcoming patch versions of PrestaShop will be very easy upgrades for all users. Patch versions are for backwards-compatible bug fixes and security issues, and security fixes are to be released as soon as they are fixed.</p>
+<p>Together with a stronger internal protocol for security releases, we are confident that, should any further security issue arise in PrestaShop, our team will be able to release fixes much faster, and in a way that makes upgrading much safer for all up-to-date stores.</p>
+<p>At PrestaShop, we remain attached to keeping your stores and customers safe, and we take security very seriously. Thank you for your understanding of the issue that affects us today &#8212; and thank you for the swift update of all the stores you are responsible for!</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/prestashop-security-release/">PrestaShop security release</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/prestashop-security-release/feed/</wfw:commentRss>
+		<slash:comments>23</slash:comments>
+		</item>
+	</channel>
+</rss>

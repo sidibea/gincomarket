@@ -3,7 +3,7 @@ class Cart extends CartCore
 {
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public function duplicate()
@@ -28,7 +28,7 @@ class Cart extends CartCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public function getGiftWrappingPrice($with_taxes = true, $id_address = null)
@@ -43,7 +43,7 @@ class Cart extends CartCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public function getDiscounts($lite = false, $refresh = false)
@@ -54,7 +54,7 @@ class Cart extends CartCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public function checkDiscountValidity($obj, $discounts, $order_total, $products, $check_cart_discount = false)
@@ -68,7 +68,7 @@ class Cart extends CartCore
 	
 		/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public function getTotalShippingCost($delivery_option = null, $use_tax = true, Country $default_country = null)
@@ -81,7 +81,7 @@ class Cart extends CartCore
 	
     /*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public function getOrderShippingCost($id_carrier = NULL, $use_tax = true, Country $default_country = null, $product_list = null)
@@ -91,7 +91,7 @@ class Cart extends CartCore
 		
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public function getPackageShippingCost($id_carrier = null, $use_tax = true, Country $default_country = null, $product_list = null, $id_zone = null)
@@ -127,7 +127,7 @@ class Cart extends CartCore
     }        
     /*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public function getOrderShippingCostPerSeller($id_zone, $id_seller, $use_tax = true)
@@ -153,7 +153,7 @@ class Cart extends CartCore
     }
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public static function is_all_virtual($id_carrier, $carrier_products, $product_index)
@@ -168,7 +168,7 @@ class Cart extends CartCore
 	} 
     /*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public function get_carrier_product_amount($carrier_products, $products, $products_index)
@@ -187,7 +187,7 @@ class Cart extends CartCore
     }
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public function getOrderShippingCostPerSellerCarrier($id_seller, $use_tax, $id_zone, $id_carrier, $carrier_amount, $carrier_weight)
@@ -237,7 +237,7 @@ class Cart extends CartCore
     }
     /*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     private function getProductAmount($products, $id_product, $id_product_attribute)
@@ -251,7 +251,7 @@ class Cart extends CartCore
     }
     /*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     private function getProductWeight($products, $id_product)
@@ -265,7 +265,7 @@ class Cart extends CartCore
     }
         /*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     private function getTotalAmountOfSeller($products, $id_seller)
@@ -281,7 +281,7 @@ class Cart extends CartCore
     }
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     private function getAdditionalShippingCostOfSeller($id_carrier)
@@ -298,7 +298,7 @@ class Cart extends CartCore
     
     /*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     private function getTotalWeightOfSeller($id_seller)
@@ -328,7 +328,7 @@ class Cart extends CartCore
     }
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public function getTotalWeightOfCarrier($id_carrier, $id_seller)
@@ -363,7 +363,7 @@ class Cart extends CartCore
     
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public function getDeliveryAddressesWithoutCarriers($return_collection = false)

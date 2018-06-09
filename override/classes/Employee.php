@@ -3,7 +3,7 @@ class Employee extends EmployeeCore
 {
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public function toggleStatus()
@@ -28,7 +28,7 @@ class Employee extends EmployeeCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public function update($null_values = false)
@@ -54,7 +54,7 @@ class Employee extends EmployeeCore
 	}
     /*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public function delete()

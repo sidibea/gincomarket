@@ -3,44 +3,44 @@ class ModuleFrontController extends ModuleFrontControllerCore
 {
     /*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     protected $className;
     /*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     protected $identifier;
     /*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     protected $table;
     /*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     protected $object;
     /*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     protected $id_object;
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     protected $warnings;
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     protected function beforeDelete($object)
@@ -49,7 +49,7 @@ class ModuleFrontController extends ModuleFrontControllerCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     protected function afterDelete($object, $oldId)
@@ -58,7 +58,7 @@ class ModuleFrontController extends ModuleFrontControllerCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     protected function beforeAdd($object)
@@ -67,7 +67,7 @@ class ModuleFrontController extends ModuleFrontControllerCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     protected function afterAdd($object)
@@ -76,7 +76,7 @@ class ModuleFrontController extends ModuleFrontControllerCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     protected function afterUpdate($object)
@@ -86,7 +86,7 @@ class ModuleFrontController extends ModuleFrontControllerCore
         
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     protected function updateAssoShop($id_object = false, $new_id_object = false)
@@ -111,7 +111,7 @@ class ModuleFrontController extends ModuleFrontControllerCore
         
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function validateRules($class_name = false)
@@ -209,7 +209,7 @@ class ModuleFrontController extends ModuleFrontControllerCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function _childValidation()
@@ -217,7 +217,7 @@ class ModuleFrontController extends ModuleFrontControllerCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function copyFromPost(&$object, $table)
@@ -253,7 +253,7 @@ class ModuleFrontController extends ModuleFrontControllerCore
 	
 	 	 	 	 	 	 	 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function getFieldValue($obj, $key, $id_lang = null)
@@ -267,7 +267,7 @@ class ModuleFrontController extends ModuleFrontControllerCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function display()
@@ -278,7 +278,7 @@ class ModuleFrontController extends ModuleFrontControllerCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     protected function displayWarning($msg)
@@ -287,7 +287,7 @@ class ModuleFrontController extends ModuleFrontControllerCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     protected function l($string)

@@ -1,18 +1,9 @@
 <?php
 class PaymentModule extends PaymentModuleCore
 {	
-	
 	/*
     * module: agilemultipleseller
     * date: 2017-04-25 12:22:05
-    * version: 3.0.6.2
-    */
-	
-	
-	
-	/*
-    * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
     * version: 3.0.6.2
     */
     public function validateOrder($id_cart, $id_order_state, $amountPaid, $paymentMethod = 'Unknown',   $message = NULL, $extraVars = array(),   $currency_special = NULL, $dont_touch_amount = false,     $secure_key = false, Shop $shop = null)
@@ -104,7 +95,7 @@ class PaymentModule extends PaymentModuleCore
     }	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public static function getInstalledPaymentModules()
@@ -119,7 +110,7 @@ class PaymentModule extends PaymentModuleCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     protected function updateSellerCommissionRecordType($record_type, $txn_id)

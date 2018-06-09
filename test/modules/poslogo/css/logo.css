@@ -1,0 +1,64 @@
+.pos-logo{
+margin-top: 30px;}
+/* title */
+.pos-logo .title_block{
+position: relative;
+border-bottom: 2px solid #e7e7e7;}
+.pos-logo .title_block h3{
+position: relative;
+color: #505050;
+font: 700 24px/36px 'Khula', sans-serif;
+text-transform: uppercase;
+padding-top: 20px;
+margin: 0;}
+.pos-logo .title_block h3:after {
+display: block;
+position: absolute;
+bottom: -2px;
+left: 0;
+width: 120px;
+height: 2px;
+background: #ffa200;
+content: "";}
+/* navi */
+.pos-logo .navi{
+position: absolute;
+bottom: 8px;
+right: 0;
+padding-left: 10px;}
+@media (max-width: 767px){
+	.pos-logo .navi{ display: none;}
+}
+.pos-logo .navi a{
+display: block;
+float: left;
+cursor: pointer;
+width: 27px;
+height: 27px;
+line-height: 25px;
+color: #fff;
+padding-top: 2px;
+background: #a4a4a4;
+position: relative;
+text-align: center;
+font-size: 14px;
+margin: 0 0 0 3px;
+-webkit-border-radius: 2px;
+-moz-border-radius: 2px;
+border-radius: 2px;
+-webkit-transition: all 300ms ease;
+-moz-transition: all 300ms ease;
+-ms-transition: all 300ms ease;
+-o-transition: all 300ms ease;
+transition: all 300ms ease;}
+.pos-logo .navi a:hover{
+background: #f06262;}
+/* content */
+.pos-content-logo {
+    display: block;
+    margin-top: 25px;
+    border: 1px solid #e5e5e5;
+    background-color: #fff;
+	overflow: hidden;}
+.pos-content-logo .item img{
+margin: 0 auto;}

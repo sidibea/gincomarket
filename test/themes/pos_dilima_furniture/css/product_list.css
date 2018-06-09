@@ -1,0 +1,314 @@
+ul.product_list.grid li .product-container{
+overflow: hidden;
+margin: 0 -7px 15px;
+border: 1px solid #e6e6e6;
+background: #fff;
+position: relative;}
+ul.product_list.grid li .product-container .left-block{
+position: relative;
+overflow: hidden;
+padding: 3px;
+border-bottom: 1px solid #e7e7e7;}
+ul.product_list.grid li .product-container .left-block img{
+margin: 0 auto;}
+ul.product_list.grid li .product-container .quick-view{
+display: block;
+position: absolute;
+top: 0;
+right: 0;
+color: #fff;
+background: #c1ac91;
+font: 600 12px/30px 'Khula', sans-serif;
+padding: 5px 12px 0;
+opacity: 0;
+text-transform: capitalize;
+-webkit-transition: all 500ms ease;
+-moz-transition: all 500ms ease;
+-ms-transition: all 500ms ease;
+-o-transition: all 500ms ease;
+transition: all 500ms ease;}
+ul.product_list.grid li .product-container .quick-view i{
+padding-right: 7px;}
+ul.product_list.grid li .product-container:hover .quick-view{
+opacity: 1;
+-moz-animation: flipInX 700ms linear;
+-o-animation: flipInX 700ms linear;
+-webkit-animation: flipInX 700ms linear;
+animation: flipInX 700ms linear;}
+ul.product_list.grid li .product-container .quick-view:hover{
+background: #ca7379;}
+ul.product_list.grid li .product-container .price-percent-reduction{
+position: absolute;
+top: 0;
+left: 0;
+background: #e44f4f;
+border: 0;
+font: 600 13px/20px 'Khula', sans-serif;
+padding: 5px 10px 0;}
+ul.product_list.grid li .product-container .right-block{
+padding: 7px;
+overflow: hidden;
+text-align: center;}
+ul.product_list.grid li .product-container h5{
+margin: 0;}
+ul.product_list.grid li .product-container .product-name{
+display: block;
+word-wrap: break-word;
+text-overflow: ellipsis;
+white-space: nowrap;
+overflow: hidden;
+color: #777;
+font: 400 16px/19px 'Khula', sans-serif;
+margin-top: 3px;}
+ul.product_list.grid li .product-container .product-name:hover{
+color: #ca7379;}
+ul.product_list.grid li .product-container .comment_box{
+overflow: hidden;
+position: relative;}
+ul.product_list.grid li .product-container .comment_box:before{
+content: "";
+display: block;
+width: 100%;
+height: 1px;
+background: #e5e5e5;
+position: absolute;
+top: 9px;
+left: 0;}
+ul.product_list.grid li .product-container .comments_note{
+display: inline-block;
+background: #fff;
+position: relative;
+padding: 0 15px;}
+ul.product_list.grid li .product-container .price-box{
+padding: 7px 0 5px;
+overflow: hidden;}
+ul.product_list.grid li .product-container .price{
+font: 600 22px/25px 'Khula', sans-serif;
+color: #3f3f3f;
+padding-top: 3px;}
+ul.product_list.grid li .product-container .old-price.product-price{
+display: none;}
+ul.product_list.grid li .product-container .button-container{
+overflow: hidden;
+padding: 5px 0 15px;}
+ul.product_list.grid li .product-container .add_to_compare,
+ul.product_list.grid li .product-container .addToWishlist{
+display: block;
+width: 35px;
+height: 35px;
+color: #fff;
+margin: 0 3px;
+opacity: 0;
+border-bottom: 2px solid #fff;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+line-height: 35px;
+font-size: 20px;}
+ul.product_list.grid li .product-container .add_to_compare{
+float: right;
+background: #8090a0;
+border-color: #647687;}
+ul.product_list.grid li .product-container .add_to_compare.checked{
+background: #ca7379;
+border-color: #ad6267;}
+ul.product_list.grid li .product-container:hover .add_to_compare{
+opacity: 1;
+-moz-animation: fadeInLeft 300ms linear;
+-o-animation: fadeInLeft 300ms linear;
+-webkit-animation: fadeInLeft 300ms linear;
+animation: fadeInLeft 300ms linear;}
+ul.product_list.grid li .product-container .addToWishlist{
+float: left;
+background: #c1ac91;
+border-color: #a5937c;}
+ul.product_list.grid li .product-container:hover .addToWishlist{
+opacity: 1;
+-moz-animation: fadeInRight 300ms linear;
+-o-animation: fadeInRight 300ms linear;
+-webkit-animation: fadeInRight 300ms linear;
+animation: fadeInRight 300ms linear;}
+ul.product_list.grid li .product-container .ajax_add_to_cart_button{
+display: block;
+margin: 0 auto;
+border: 1px solid #e5e5e5;
+background: #fff;
+color: #3f3f3f;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+font: 400 16px/30px 'Khula', sans-serif;
+padding: 3px 3px 0;
+text-align: center;
+word-wrap: break-word;
+text-overflow: ellipsis;
+white-space: nowrap;
+overflow: hidden;
+-webkit-transition: all 100ms linear;
+-moz-transition: all 100ms linear;
+-ms-transition: all 100ms linear;
+-o-transition: all 100ms linear;
+transition: all 100ms linear;}
+ul.product_list.grid li .product-container .ajax_add_to_cart_button i{
+padding: 0 5px 0 0;}
+ul.product_list.grid li .product-container:hover .ajax_add_to_cart_button{
+color: #fff;
+background: #ca7379;
+border: 0;
+border-bottom: 2px solid #ad6267;}
+ul.product_list.grid li .product-container .product-desc{
+display: none;}
+/* list */
+ul.product_list.list li .product-container{
+overflow: hidden;
+border-bottom: 1px solid #e6e6e6;
+position: relative;
+padding-bottom: 25px;
+margin-bottom: 25px;}
+ul.product_list.list li .product-container .left-block{
+position: relative;
+overflow: hidden;
+padding: 3px;
+background: #fff;
+border: 1px solid #e7e7e7;}
+ul.product_list.list li .product-container .left-block img{
+margin: 0 auto;}
+ul.product_list.list li .product-container .quick-view{
+display: block;
+position: absolute;
+top: 0;
+right: 0;
+color: #fff;
+background: #c1ac91;
+font: 600 12px/30px 'Khula', sans-serif;
+padding: 5px 12px 0;
+opacity: 0;
+text-transform: capitalize;
+-webkit-transition: all 500ms ease;
+-moz-transition: all 500ms ease;
+-ms-transition: all 500ms ease;
+-o-transition: all 500ms ease;
+transition: all 500ms ease;}
+ul.product_list.list li .product-container .quick-view i{
+padding-right: 7px;}
+ul.product_list.list li .product-container:hover .quick-view{
+opacity: 1;
+-moz-animation: flipInX 700ms linear;
+-o-animation: flipInX 700ms linear;
+-webkit-animation: flipInX 700ms linear;
+animation: flipInX 700ms linear;}
+ul.product_list.list li .product-container .quick-view:hover{
+background: #ca7379;}
+ul.product_list.list li .product-container .price-percent-reduction{
+position: absolute;
+top: 0;
+left: 0;
+background: #e44f4f;
+border: 0;
+font: 600 13px/20px 'Khula', sans-serif;
+padding: 5px 10px 0;}
+ul.product_list.list li .product-container h5{
+margin: 0;}
+ul.product_list.list li .product-container .product-name{
+display: block;
+word-wrap: break-word;
+text-overflow: ellipsis;
+white-space: nowrap;
+overflow: hidden;
+color: #4b4b4b;
+font: 700 16px/19px 'Khula', sans-serif;
+margin-top: 3px;}
+ul.product_list.list li .product-container .product-name:hover{
+color: #c1ac91;}
+ul.product_list.list li .product-container .comment_box{
+overflow: hidden;
+position: relative;
+padding: 15px 0 20px;}
+ul.product_list.list li .product-container .product-desc{
+font: 400 14px/20px 'Khula', sans-serif;
+color: #808080;
+margin-bottom: 20px;}
+ul.product_list.list li .product-container .price-box{
+padding: 7px 0 0;
+overflow: hidden;
+float: left;}
+ul.product_list.list li .product-container .price{
+font: 600 22px/25px 'Khula', sans-serif;
+color: #c1ac91;
+float: left;}
+ul.product_list.list li .product-container .old-price.product-price{
+font: 600 18px/20px 'Khula', sans-serif;
+float: left;
+color: #a3a3a3;
+padding-right: 10px;
+padding-top: 3px;}
+ul.product_list.list li .product-container .button-container{
+float: right;
+padding: 0;}
+ul.product_list.list li .product-container .add_to_compare,
+ul.product_list.list li .product-container .addToWishlist{
+display: block;
+width: 35px;
+height: 35px;
+color: #3f3f3f;
+margin: 0 3px;
+text-align: center;
+border: 1px solid #e5e5e5;
+background: #fff;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+line-height: 35px;
+font-size: 20px;
+-webkit-transition: all 100ms linear;
+-moz-transition: all 100ms linear;
+-ms-transition: all 100ms linear;
+-o-transition: all 100ms linear;
+transition: all 100ms linear;}
+ul.product_list.list li .product-container .add_to_compare{
+float: right;
+color: #fff;
+background: #8090a0;
+border-color: #647687;}
+ul.product_list.list li .product-container .add_to_compare.checked{
+background: #ca7379;
+border-color: #ad6267;}
+ul.product_list.list li .product-container .addToWishlist{
+float: left;
+color: #fff;
+background: #c1ac91;
+border-color: #a5937c;}
+ul.product_list.list li .product-container .ajax_add_to_cart_button{
+display: block;
+float: left;
+border: 0;
+border-bottom: 2px solid #ad6267;
+background: #ca7379;
+color: #fff;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+font: 400 16px/30px 'Khula', sans-serif;
+padding: 3px 7px 0;
+text-align: center;
+word-wrap: break-word;
+text-overflow: ellipsis;
+white-space: nowrap;
+overflow: hidden;
+-webkit-transition: all 100ms linear;
+-moz-transition: all 100ms linear;
+-ms-transition: all 100ms linear;
+-o-transition: all 100ms linear;
+transition: all 100ms linear;}
+ul.product_list.list li .product-container .ajax_add_to_cart_button i{
+padding: 0 5px 0 0;}
+/* responsive */
+@media (max-width: 1199px){
+	ul.product_list.grid li .product-container .quick-view, ul.product_list.grid li .product-container:hover .quick-view{ opacity: 1; -moz-animation: none; -o-animation: none; -webkit-animation: none; animation: none;}
+	ul.product_list.grid li .product-container .add_to_compare, ul.product_list.grid li .product-container .addToWishlist, ul.product_list.grid li .product-container:hover .add_to_compare, ul.product_list.grid li .product-container:hover .addToWishlist{ opacity: 1; -moz-animation: none; -o-animation: none; -webkit-animation: none; animation: none;}
+	ul.product_list.grid li .product-container .ajax_add_to_cart_button{ color: #fff; background: #ca7379; border: 0; border-bottom: 2px solid #ad6267;}
+	ul.product_list.list li .product-container .quick-view, ul.product_list.list li .product-container:hover .quick-view{ opacity: 1; -moz-animation: none; -o-animation: none; -webkit-animation: none; animation: none;}
+	ul.product_list.list li .product-container .add_to_compare{ background: #ca7379; border: 0; border-bottom: 2px solid #e69200; color: #fff;}
+	ul.product_list.list li .product-container .addToWishlist{ background: #c1ac91; border: 0; border-bottom: 2px solid #a5937c; color: #fff;}
+	ul.product_list.list li .product-container .ajax_add_to_cart_button{ color: #fff; background: #ca7379; border: 0; border-bottom: 2px solid #ad6267;}
+}

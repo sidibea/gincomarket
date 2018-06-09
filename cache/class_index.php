@@ -1459,7 +1459,7 @@
   ),
   'BestSalesController' => 
   array (
-    'path' => 'override/controllers/front/BestSalesController.php',
+    'path' => '',
     'type' => 'class',
     'override' => false,
   ),
@@ -1825,7 +1825,7 @@
   ),
   'ContactController' => 
   array (
-    'path' => 'override/controllers/front/ContactController.php',
+    'path' => '',
     'type' => 'class',
     'override' => false,
   ),
@@ -2305,7 +2305,7 @@
   ),
   'Group' => 
   array (
-    'path' => 'override/classes/Group.php',
+    'path' => '',
     'type' => 'class',
     'override' => false,
   ),
@@ -2593,7 +2593,7 @@
   ),
   'Hook' => 
   array (
-    'path' => 'override/classes/Hook.php',
+    'path' => '',
     'type' => 'class',
     'override' => false,
   ),
@@ -2755,7 +2755,7 @@
   ),
   'ManufacturerController' => 
   array (
-    'path' => 'override/controllers/front/ManufacturerController.php',
+    'path' => '',
     'type' => 'class',
     'override' => false,
   ),
@@ -2773,7 +2773,7 @@
   ),
   'Media' => 
   array (
-    'path' => 'override/classes/Media.php',
+    'path' => '',
     'type' => 'class',
     'override' => false,
   ),
@@ -2917,7 +2917,7 @@
   ),
   'NewProductsController' => 
   array (
-    'path' => 'override/controllers/front/NewProductsController.php',
+    'path' => '',
     'type' => 'class',
     'override' => false,
   ),
@@ -3427,7 +3427,7 @@
   ),
   'PricesDropController' => 
   array (
-    'path' => 'override/controllers/front/PricesDropController.php',
+    'path' => '',
     'type' => 'class',
     'override' => false,
   ),
@@ -3691,7 +3691,7 @@
   ),
   'SitemapController' => 
   array (
-    'path' => 'override/controllers/front/SitemapController.php',
+    'path' => '',
     'type' => 'class',
     'override' => false,
   ),
@@ -3895,7 +3895,7 @@
   ),
   'SupplierController' => 
   array (
-    'path' => 'override/controllers/front/SupplierController.php',
+    'path' => '',
     'type' => 'class',
     'override' => false,
   ),

@@ -139,6 +139,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu{
         height: 40px;
         line-height: 38px;
         padding: 0 20px;
+        text-transform: capitalize;
         font-weight: normal;
     }
     #nav_topmenu ul.nav > li.active > a, #nav_topmenu ul.nav > li > a:hover, #nav_topmenu ul.nav > li.open > a{
@@ -207,7 +208,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu{
     font-size: 18px;
     font-weight: normal;
     line-height: 30px;
-    text-transform: capitalize;
+    text-transform: uppercase;
     color:#666;
 }
 #nav_topmenu ul.nav ul.block li.level-2.group_header:first-child > a {
@@ -248,7 +249,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu{
     font-size: 18px;
     font-weight: normal;
     color: #666;
-    text-transform: capitalize;
+    text-transform: uppercase;
     border-bottom: 1px solid #ccc;
     margin: 0;
     padding-bottom: 20px;

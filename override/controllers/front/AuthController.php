@@ -3,7 +3,7 @@ class AuthController extends AuthControllerCore
 {	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:09
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     protected function processSubmitAccount()

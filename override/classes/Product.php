@@ -3,7 +3,7 @@ class Product extends ProductCore
 {
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function getDefaultCategory()	
@@ -21,7 +21,7 @@ class Product extends ProductCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public static function getProducts($id_lang, $start, $limit, $orderBy, $orderWay, $id_category = false,    $only_active = false, Context $context = null)
@@ -71,7 +71,7 @@ class Product extends ProductCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public static function getNewProducts($id_lang, $pageNumber = 0, $nbProducts = 10, $count = false, $orderBy = NULL, $orderWay = NULL, Context $context = null)
@@ -166,7 +166,7 @@ class Product extends ProductCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public static function getPricesDrop($id_lang, $page_number = 0, $nb_products = 10, $count = false,
@@ -279,7 +279,7 @@ class Product extends ProductCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public static function getRandomSpecial($id_lang, $beginning = false, $ending = false, Context $context = null)
@@ -356,7 +356,7 @@ class Product extends ProductCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function add($autodate = true, $nullValues = false)
@@ -379,7 +379,7 @@ class Product extends ProductCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function update($null_values = false)
@@ -395,35 +395,4 @@ class Product extends ProductCore
 		return $res;
 	}
 	
-    /*
-    * module: pagecache
-    * date: 2018-05-31 11:39:45
-    * version: 4.22
-    */
-    public function checkAccess($id_customer)
-    {
-        $context = Context::getContext();
-        if (!$id_customer
-            && isset($context->cookie)
-            && isset($context->cookie->pc_groups)) {
-            $groups = explode(',', $context->cookie->pc_groups);
-            if ($groups !== false && count($groups) > 0) {
-                return (bool)Db::getInstance(_PS_USE_SQL_SLAVE_)->getValue('
-                    SELECT ctg.`id_group`
-                    FROM `'._DB_PREFIX_.'category_product` cp
-                    INNER JOIN `'._DB_PREFIX_.'category_group` ctg ON (ctg.`id_category` = cp.`id_category`)
-                    WHERE cp.`id_product` = '.(int)$this->id.' AND ctg.`id_group` IN(' . implode(',', $groups) . ')');
-            }
-        }
-        return parent::checkAccess($id_customer);
-    }
-    /*
-    * module: pagecache
-    * date: 2018-05-31 11:39:45
-    * version: 4.22
-    */
-    public function getFieldsToUpdate()
-    {
-        return $this->update_fields;
-    }
 }

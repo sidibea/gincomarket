@@ -1,0 +1,23 @@
+.header_user_info{}
+.header_user_info a{
+display: block;
+float: left;
+margin-top: 28px;
+padding: 0 20px 0 15px;
+border-right: 1px solid #e5e5e5;
+font: 400 16px/26px 'Khula', sans-serif;}
+.header_user_info a:hover{
+color: #f981a6;}
+.header_user_info a:first-child{
+padding-left: 0;}
+.header_user_info a:last-child{
+border-right: 0;
+padding-right: 0;}
+.header_user_info a i{
+color: #f981a6;
+padding-right: 5px;
+display: block;
+float: left;
+line-height: 23px;}
+
+/*# sourceMappingURL=blockuserinfo.css.map */

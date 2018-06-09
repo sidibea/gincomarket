@@ -3,7 +3,7 @@ class Link extends LinkCore
 {
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function getLanguageLink($id_lang, Context $context = null)
@@ -26,7 +26,7 @@ class Link extends LinkCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function getPaginationLink($type, $id_object, $nb = false, $sort = false, $pagination = false, $array = false)
@@ -85,7 +85,7 @@ class Link extends LinkCore
 	}  
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function getMySellerAccountLink($id_lang = NULL)
@@ -103,7 +103,7 @@ class Link extends LinkCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function getAgileSellerLink($id_seller, $alias = NULL, $id_lang = NULL)
@@ -134,7 +134,7 @@ class Link extends LinkCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     private function getParentName($loclevel,$parentid, $id_lang)
@@ -155,7 +155,7 @@ class Link extends LinkCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function getAgileSellersLink($namefilter = 'all', $id_lang=NULL, $loclevel = NULL,$parentid=NULL)
@@ -184,7 +184,7 @@ class Link extends LinkCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function getSellerCountryLink($id_country, $alias = NULL, $id_lang = NULL)
@@ -213,7 +213,7 @@ class Link extends LinkCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function getSellerLocationLink($id_location, $location_level='country', $alias = NULL, $id_lang = NULL)
@@ -260,7 +260,7 @@ class Link extends LinkCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function getRatingListLink($id_type, $id_target, $alias = NULL)
@@ -273,7 +273,7 @@ class Link extends LinkCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function getFeedbackWaitListLink($alias = NULL)
@@ -287,7 +287,7 @@ class Link extends LinkCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     private function getAgileBaseUrl($usevirtual, $id_seller, $ssl,  $relative_protocol = false)
@@ -319,7 +319,7 @@ class Link extends LinkCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function getProductLink($product, $alias = null, $category = null, $ean13 = null, $id_lang = null, $id_shop = null, $ipa = 0, $force_routes = false, $relative_protocol = false)
@@ -376,7 +376,7 @@ class Link extends LinkCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function getModuleLink($module, $controller = 'default', array $params = array(), $ssl = null, $id_lang = null, $id_shop = null, $relative_protocol = false)
@@ -400,7 +400,7 @@ class Link extends LinkCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function getPageLink($controller, $ssl = null, $id_lang = null, $request = null, $request_url_encode = false, $id_shop = null, $relative_protocol = false)
@@ -439,7 +439,7 @@ class Link extends LinkCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function getCategoryLink($category, $alias = null, $id_lang = null, $selected_filters = null, $id_shop = null, $relative_protocol = false)
@@ -474,7 +474,7 @@ class Link extends LinkCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function getCMSCategoryLink($cms_category, $alias = null, $id_lang = null, $id_shop = null, $relative_protocol = false)
@@ -502,7 +502,7 @@ class Link extends LinkCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function getCMSLink($cms, $alias = null, $ssl = null, $id_lang = null, $id_shop = null, $relative_protocol = false)

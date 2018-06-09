@@ -4,26 +4,26 @@ class Shop extends ShopCore
 	
 		/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public static $id_shop_owner =0;
 		/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public static $id_shop_virtual =0;
 		/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public static $sellerinfo;
 	
 		/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public static function getContextShopID($null_value_without_multishop = false)
@@ -33,7 +33,7 @@ class Shop extends ShopCore
 	}	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public static function isFeatureActive()
@@ -47,7 +47,7 @@ class Shop extends ShopCore
 	}
 		/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public static function initialize()
@@ -71,7 +71,7 @@ class Shop extends ShopCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public static function addSqlAssociation($table, $alias, $inner_join = true, $on = null, $force_not_default = false)
@@ -98,7 +98,7 @@ class Shop extends ShopCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public static function shop_name_duplicated($name, $id)
@@ -116,7 +116,7 @@ class Shop extends ShopCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public static function get_main_url_id($id_shop)
@@ -132,7 +132,7 @@ class Shop extends ShopCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public static function addSqlAssociation_4topmenu($table, $alias, $inner_join = true, $on = null, $force_not_default = false)

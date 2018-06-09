@@ -263,5 +263,3 @@ if (!defined('_MEDIA_SERVER_2_')) {
 if (!defined('_MEDIA_SERVER_3_')) {
     define('_MEDIA_SERVER_3_', Configuration::get('PS_MEDIA_SERVER_3'));
 }
-
-if(file_exists(_PS_ROOT_DIR_.'/modules/agilekernel/init.php'))include_once(_PS_ROOT_DIR_.'/modules/agilekernel/init.php');

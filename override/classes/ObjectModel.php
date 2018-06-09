@@ -3,7 +3,7 @@ abstract class ObjectModel extends ObjectModelCore
 {
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function __construct($id = null, $id_lang = null, $id_shop = null)
@@ -13,7 +13,7 @@ abstract class ObjectModel extends ObjectModelCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function add($autodate = true, $nullValues = false)
@@ -31,7 +31,7 @@ abstract class ObjectModel extends ObjectModelCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public static function cleear_unnecessary_lang_data()
@@ -42,7 +42,7 @@ abstract class ObjectModel extends ObjectModelCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function update($null_values = false)
@@ -65,7 +65,7 @@ abstract class ObjectModel extends ObjectModelCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function delete()
@@ -79,7 +79,7 @@ abstract class ObjectModel extends ObjectModelCore
 	}
 			/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     private function can_edit()
@@ -111,7 +111,7 @@ abstract class ObjectModel extends ObjectModelCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     private function assign_entity_owner()

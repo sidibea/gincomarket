@@ -3,7 +3,7 @@ class Category extends CategoryCore
 {
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public static function updateFromShop($categories, $id_shop)
@@ -13,7 +13,7 @@ class Category extends CategoryCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public static function getRootCategory($id_lang = null, Shop $shop = null)
@@ -29,7 +29,7 @@ class Category extends CategoryCore
 		
     	static /*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public function getCategories($id_lang = false, $active = true, $order = true, $sql_filter = '', $sql_sort = '',$sql_limit = '')
@@ -66,7 +66,7 @@ class Category extends CategoryCore
 		
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public function getProducts($id_lang, $p, $n, $orderBy = NULL, $orderWay = NULL, $getTotal = false, $active = true, $random = false, $randomNumberProducts = 1, $checkAccess = true, Context $context = null)
@@ -216,7 +216,7 @@ class Category extends CategoryCore
 	
 				/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public static function getChildrenWithNbSelectedSubCat($id_parent, $selectedCat,  $id_lang, Shop $shop = null, $use_shop_context = true)
@@ -264,7 +264,7 @@ class Category extends CategoryCore
 	}
 		/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public static function getNestedCategories($root_category = null, $id_lang = false, $active = true, $groups = null,
@@ -326,7 +326,7 @@ class Category extends CategoryCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public static function getChildren_4topmenu($id_parent, $id_lang, $active = true, $id_shop = false)
@@ -351,29 +351,4 @@ class Category extends CategoryCore
 		return Cache::retrieve($cache_id);
 	}
 	
-    /*
-    * module: pagecache
-    * date: 2018-05-31 11:39:45
-    * version: 4.22
-    */
-    public function checkAccess($id_customer)
-    {
-        $context = Context::getContext();
-        if (!$id_customer
-            && isset($context->cookie)
-            && isset($context->cookie->pc_groups)) {
-            $groups = explode(',', $context->cookie->pc_groups);
-            if ($groups !== false && count($groups) > 0) {
-                $result = Db::getInstance(_PS_USE_SQL_SLAVE_)->getRow('
-                    SELECT ctg.`id_group`
-                    FROM '._DB_PREFIX_.'category_group ctg
-                    WHERE ctg.`id_category` = '.(int)$this->id . ' AND ctg.`id_group` IN(' . implode(',', $groups) . ')'
-                );
-                if ($result && isset($result['id_group']) && $result['id_group'])
-                    return true;
-                return false;
-            }
-        }
-        return parent::checkAccess($id_customer);
-    }
 }

@@ -3,7 +3,7 @@ class AdminCategoriesController extends AdminCategoriesControllerCore
 {
     /*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function __construct()
@@ -44,7 +44,7 @@ class AdminCategoriesController extends AdminCategoriesControllerCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function initContent()
@@ -61,7 +61,7 @@ class AdminCategoriesController extends AdminCategoriesControllerCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function initToolbar()
@@ -72,7 +72,7 @@ class AdminCategoriesController extends AdminCategoriesControllerCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function init()
@@ -87,7 +87,7 @@ class AdminCategoriesController extends AdminCategoriesControllerCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function renderForm()
@@ -102,7 +102,7 @@ class AdminCategoriesController extends AdminCategoriesControllerCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     protected function agilemultipleseller_list_override()
@@ -122,7 +122,7 @@ class AdminCategoriesController extends AdminCategoriesControllerCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function postProcess()
@@ -157,7 +157,7 @@ class AdminCategoriesController extends AdminCategoriesControllerCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function getList($id_lang, $orderBy = NULL,  $orderWay = NULL,  $start = 0, $limit = NULL, $id_lang_shop = false)

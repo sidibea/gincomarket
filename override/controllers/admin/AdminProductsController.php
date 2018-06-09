@@ -3,13 +3,13 @@ class AdminProductsController extends AdminProductsControllerCore
 {
     /*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:09
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     private $_approved_statuses;
     /*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:09
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function __construct()
@@ -32,7 +32,7 @@ class AdminProductsController extends AdminProductsControllerCore
     
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:09
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function setMedia()
@@ -48,7 +48,7 @@ class AdminProductsController extends AdminProductsControllerCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:09
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function initToolbar()
@@ -63,7 +63,7 @@ class AdminProductsController extends AdminProductsControllerCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:09
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function ajaxProcessProductManufacturers()
@@ -93,7 +93,7 @@ class AdminProductsController extends AdminProductsControllerCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:09
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function initContent()
@@ -133,7 +133,7 @@ class AdminProductsController extends AdminProductsControllerCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:09
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function renderForm()
@@ -150,7 +150,7 @@ class AdminProductsController extends AdminProductsControllerCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:09
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     private function load_module_hooks()
@@ -164,7 +164,7 @@ class AdminProductsController extends AdminProductsControllerCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:09
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function postProcess()
@@ -199,7 +199,7 @@ class AdminProductsController extends AdminProductsControllerCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:09
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function processAdd()
@@ -210,7 +210,7 @@ class AdminProductsController extends AdminProductsControllerCore
 	}    
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:09
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function processUpdate()
@@ -222,7 +222,7 @@ class AdminProductsController extends AdminProductsControllerCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:09
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     private function processSellerExtensions()
@@ -248,7 +248,7 @@ class AdminProductsController extends AdminProductsControllerCore
     
 		/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:09
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     protected function agilemultipleseller_list_override()
@@ -273,7 +273,7 @@ class AdminProductsController extends AdminProductsControllerCore
     
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:09
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function getList($id_lang, $orderBy = NULL,  $orderWay = NULL,  $start = 0, $limit = NULL, $id_lang_shop = false)
@@ -295,7 +295,7 @@ class AdminProductsController extends AdminProductsControllerCore
     }
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:09
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function processDuplicate()

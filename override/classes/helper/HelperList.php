@@ -3,7 +3,7 @@ class HelperList extends HelperListCore
 {
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function displayEnableLink($token, $id, $value, $active, $id_category = null, $id_product = null, $ajax = false)
@@ -16,7 +16,7 @@ class HelperList extends HelperListCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function displayViewLink($token = null, $id, $name = null)
@@ -33,7 +33,7 @@ class HelperList extends HelperListCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function displayListFooter()

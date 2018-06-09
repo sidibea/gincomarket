@@ -3,7 +3,7 @@ class AdminCustomerThreadsController extends AdminCustomerThreadsControllerCore
 {
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function renderOptions()
@@ -15,7 +15,7 @@ class AdminCustomerThreadsController extends AdminCustomerThreadsControllerCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function getList($id_lang, $order_by = null, $order_way = null, $start = 0, $limit = null, $id_lang_shop = false)

@@ -3,7 +3,7 @@ class AdminCustomersController extends AdminCustomersControllerCore
 {
     /*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function __construct()
@@ -24,7 +24,7 @@ class AdminCustomersController extends AdminCustomersControllerCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function initToolbar()
@@ -41,7 +41,7 @@ class AdminCustomersController extends AdminCustomersControllerCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     public function initContent()
@@ -53,7 +53,7 @@ class AdminCustomersController extends AdminCustomersControllerCore
     
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     protected function afterAdd($object)
@@ -77,7 +77,7 @@ class AdminCustomersController extends AdminCustomersControllerCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     protected function afterUpdate($object)
@@ -97,7 +97,7 @@ class AdminCustomersController extends AdminCustomersControllerCore
 	}
     /*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     private function create_seller_account($object)
@@ -113,7 +113,7 @@ class AdminCustomersController extends AdminCustomersControllerCore
     
     /*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     private function check_seller_account()
@@ -140,7 +140,7 @@ class AdminCustomersController extends AdminCustomersControllerCore
         
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:08
+    * date: 2017-04-25 12:22:06
     * version: 3.0.6.2
     */
     protected function agilemultipleseller_list_override()

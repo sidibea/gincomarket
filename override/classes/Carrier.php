@@ -3,14 +3,14 @@ class Carrier extends CarrierCore
 {
     /*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public $is_default = false;
     
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public function __construct($id = NULL, $id_lang = NULL)
@@ -25,7 +25,7 @@ class Carrier extends CarrierCore
 	
 						/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public static function getAvailableCarrierList(Product $product, $id_warehouse, $id_address_delivery = null, $id_shop = null, $cart = null)
@@ -45,7 +45,7 @@ class Carrier extends CarrierCore
 	
 						/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public static function getCarriers($id_lang, $active = false, $delete = false, $id_zone = false, $ids_group = NULL, $modules_filters = 1)
@@ -72,7 +72,7 @@ class Carrier extends CarrierCore
 	
 		/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public function addDeliveryPrice($price_list, $delete = false)
@@ -119,7 +119,7 @@ class Carrier extends CarrierCore
 	
         	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public static function getCarriersForOrder($id_zone, $groups = NULL, $theCart = NULL)
@@ -144,7 +144,7 @@ class Carrier extends CarrierCore
     
     		/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public function add($autodate = true, $nullValues = false)
@@ -160,7 +160,7 @@ class Carrier extends CarrierCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:06
+    * date: 2017-04-25 12:22:04
     * version: 3.0.6.2
     */
     public static function getActiveIDByID($id_carrier)

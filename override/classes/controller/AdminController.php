@@ -3,14 +3,14 @@ class AdminController extends AdminControllerCore
 {
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public $is_seller;
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function __construct()
@@ -47,7 +47,7 @@ class AdminController extends AdminControllerCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function initHeader()
@@ -65,7 +65,7 @@ class AdminController extends AdminControllerCore
 	}
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function renderView()
@@ -82,7 +82,7 @@ class AdminController extends AdminControllerCore
 				
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function renderList()
@@ -101,7 +101,7 @@ class AdminController extends AdminControllerCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function renderForm()
@@ -175,7 +175,7 @@ class AdminController extends AdminControllerCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function viewAccess($disable = false)
@@ -200,7 +200,7 @@ class AdminController extends AdminControllerCore
 	}
 		/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function processSave()
@@ -218,7 +218,7 @@ class AdminController extends AdminControllerCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function processDelete()
@@ -236,7 +236,7 @@ class AdminController extends AdminControllerCore
 	
 			/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     private function can_edit()
@@ -267,7 +267,7 @@ class AdminController extends AdminControllerCore
 	
 					/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     protected function agilemultipleseller_list_override()
@@ -313,7 +313,7 @@ class AdminController extends AdminControllerCore
 	
 	/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     private function correct_table_name($table)
@@ -323,7 +323,7 @@ class AdminController extends AdminControllerCore
 	
 		/*
     * module: agilemultipleseller
-    * date: 2017-05-22 04:42:07
+    * date: 2017-04-25 12:22:05
     * version: 3.0.6.2
     */
     public function displayErrors()
